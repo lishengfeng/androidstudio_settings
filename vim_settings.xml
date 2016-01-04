@@ -9,26 +9,26 @@
         <mark key="." line="27" column="7" />
         <mark key="[" line="27" column="8" />
       </file>
+      <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/src/main/java/com/example/administrator/myapplication/LoginActivity.java" timestamp="1451894243932">
+        <mark key="]" line="15" column="26" />
+        <mark key="^" line="15" column="26" />
+        <mark key="." line="15" column="26" />
+        <mark key="[" line="14" column="25" />
+      </file>
       <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/build.gradle" timestamp="1451890336066">
         <mark key="]" line="26" column="46" />
         <mark key="^" line="26" column="46" />
         <mark key="." line="26" column="46" />
         <mark key="[" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/src/main/java/com/example/administrator/myapplication/LoginActivity.java" timestamp="1451893981083">
-        <mark key="]" line="34" column="26" />
-        <mark key="^" line="34" column="26" />
-        <mark key="." line="34" column="26" />
-        <mark key="[" line="33" column="25" />
-      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHAK</text>
-      </register>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAvL1RPRE9kZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Y29tcGlsZSAnY29tLmpha2V3aGFydG9uOmJ1dHRlcmtuaWZlOjcuMC4xJwo=</text>
