@@ -9,9 +9,70 @@
         <mark key="." line="27" column="7" />
         <mark key="[" line="27" column="8" />
       </file>
+      <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/build.gradle" timestamp="1451890336066">
+        <mark key="]" line="26" column="46" />
+        <mark key="^" line="26" column="46" />
+        <mark key="." line="26" column="46" />
+        <mark key="[" line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/src/main/java/com/example/administrator/myapplication/LoginActivity.java" timestamp="1451891037406">
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="[" line="40" column="0" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHAK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvL1RPRE9kZAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y29tcGlsZSAnY29tLmpha2V3aGFydG9uOmJ1dHRlcmtuaWZlOjcuMC4xJwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAvL1RPRE9kZAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>/**
+     * Id to identity READ_CONTACTS permission request.
+     */
+    private static final int REQUEST_READ_CONTACTS = 0;
+
+    /**
+     * A dummy authentication store containing known user names and passwords.
+     * TODO: remove after connecting to a real authentication system.
+     */
+    private static final String[] DUMMY_CREDENTIALS = new String[]{
+            &quot;foo@example.com:hello&quot;, &quot;bar@example.com:world&quot;
+    };
+    /**
+     * Keep track of the login task to ensure we can cancel it if requested.
+     */
+    // UI references.
+    private AutoCompleteTextView mEmailView;
+    private EditText mPasswordView;
+    private View mProgressView;
+    pr</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGl2YXRlIFZpZXcgbUxvZ2luRm9ybVZpZXc7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBTZXQgdXAgdGhlIGxvZ2luIGZvcm0uCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgVXNlckxvZ2luVGFzayBtQXV0aFRhc2sgPSBudWxsOwo=</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -31,6 +92,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
