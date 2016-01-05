@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1451958151555">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/build.gradle" timestamp="1451871226088">
         <mark key="]" line="27" column="7" />
         <mark key="^" line="27" column="7" />
@@ -14,63 +17,47 @@
         <mark key="." line="41" column="0" />
         <mark key="[" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/build.gradle" timestamp="1451890336066">
-        <mark key="]" line="26" column="46" />
-        <mark key="^" line="26" column="46" />
-        <mark key="." line="26" column="46" />
-        <mark key="[" line="26" column="0" />
+      <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/build.gradle" timestamp="1451958245072">
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="[" line="4" column="30" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbFNpZ25JbkJ1dHRvbi5zZXRPbkNsaWNrTGlzdGVuZXIobik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE9kZAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgIEBPbkNsaWNrKFIuaWQuZW1haWxfc2lnbl9pbl9idXR0b24pIHZvaWQgc3VibWl0KCkgewogICAgICAgIAogICAgfQ==</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbFNpZ25JbkJ1dHRvbi5zZXRPbkNsaWNrTGlzdGVuZXIobik7Cg==</text>
+      <register name="1" type="4">
+        <text>&quot;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGl2YXRlIFZpZXcgbUxvZ2luRm9ybVZpZXc7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnYW5kcm9pZCcKYXBwbHkgcGx1Z2luOiAnY29tLmRyb2lkdGl0YW4ubGludGNsZWFuZXInCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHAK</text>
+        <text encoding="base64">ICAgIGNsYXNzcGF0aCAnY29tLmFuZHJvaWQudG9vbHMuYnVpbGQ6Z3JhZGxlOjAuMTIuKycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29tcGlsZSAnY29tLmpha2V3aGFydG9uOmJ1dHRlcmtuaWZlOjcuMC4xJwo=</text>
+        <text encoding="base64">ICAgIGNsYXNzcGF0aCAnY29tLmRyb2lkdGl0YW46bGludC1jbGVhbmVyLXBsdWdpbjowLjMuMCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzcGF0aCAnY29tLmFuZHJvaWQudG9vbHMuYnVpbGQ6Z3JhZGxlOjAuMTIuKycK</text>
       </register>
-      <register name="8" type="4">
-        <text>/**
-     * Id to identity READ_CONTACTS permission request.
-     */
-    private static final int REQUEST_READ_CONTACTS = 0;
-
-    /**
-     * A dummy authentication store containing known user names and passwords.
-     * TODO: remove after connecting to a real authentication system.
-     */
-    private static final String[] DUMMY_CREDENTIALS = new String[]{
-            &quot;foo@example.com:hello&quot;, &quot;bar@example.com:world&quot;
-    };
-    /**
-     * Keep track of the login task to ensure we can cancel it if requested.
-     */
-    // UI references.
-    private AutoCompleteTextView mEmailView;
-    private EditText mPasswordView;
-    private View mProgressView;
-    pr</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNsYXNzcGF0aCAnY29tLmRyb2lkdGl0YW46bGludC1jbGVhbmVyLXBsdWdpbjowLjMuMCcK</text>
+      </register>
+      <register name="-" type="4">
+        <text>&quot;</text>
       </register>
     </registers>
     <search>
@@ -98,6 +85,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
