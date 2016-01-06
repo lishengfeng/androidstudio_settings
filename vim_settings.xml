@@ -3,7 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" timestamp="1452045691351" />
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" timestamp="1452046283102">
+        <mark key="[" line="2376" column="38" />
+      </file>
       <file name="/Dummy.txt" timestamp="1451958151555">
         <mark key="[" line="0" column="0" />
       </file>
@@ -13,52 +15,52 @@
         <mark key="." line="27" column="7" />
         <mark key="[" line="27" column="8" />
       </file>
-      <file name="/a.dummy" timestamp="1452045273512">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/src/main/java/com/example/administrator/myapplication/LoginActivity.java" timestamp="1451980236216">
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="[" line="66" column="0" />
-      </file>
       <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/build.gradle" timestamp="1451958245072">
         <mark key="]" line="41" column="0" />
         <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="0" />
         <mark key="[" line="4" column="30" />
       </file>
+      <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/src/main/java/com/example/administrator/myapplication/LoginActivity.java" timestamp="1451980236216">
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="[" line="66" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1452045273512">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtVGVzdCA9IHRlc3Q7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgbG9uZyB0ID0gREVCVUdfTE9BREVSUyA/IFN5c3RlbUNsb2NrLnVwdGltZU1pbGxpcygpIDogMDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgbG9uZyB0ID0gREVCVUdfTE9BREVSUyA/IFN5c3RlbUNsb2NrLnVwdGltZU1pbGxpcygpIDogMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbVRlc3Q7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFRlc3QoaW50IHRlc3QpIHsK</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtVGVzdCA9IHRlc3Q7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0VGVzdCgpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0VGVzdCgpIHsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbVRlc3Q7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -81,7 +83,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -92,6 +94,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
