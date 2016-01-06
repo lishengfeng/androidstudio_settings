@@ -6,12 +6,12 @@
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" timestamp="1452048474208">
         <mark key="'" line="355" column="32" />
       </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" timestamp="1452049128566">
-        <mark key="'" line="2415" column="14" />
-        <mark key="]" line="2405" column="36" />
-        <mark key="^" line="2405" column="36" />
-        <mark key="." line="2405" column="36" />
-        <mark key="[" line="2405" column="16" />
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" timestamp="1452055508161">
+        <mark key="'" line="103" column="64" />
+        <mark key="]" line="2426" column="48" />
+        <mark key="^" line="2426" column="31" />
+        <mark key="." line="2426" column="40" />
+        <mark key="[" line="2426" column="40" />
       </file>
       <file name="/Dummy.txt" timestamp="1451958151555">
         <mark key="[" line="0" column="0" />
@@ -94,56 +94,57 @@
       <jump line="345" column="31" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
       <jump line="355" column="32" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
       <jump line="2403" column="14" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
+      <jump line="2374" column="8" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
+      <jump line="103" column="64" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>e</text>
+        <text>currentVersionCode</text>
       </register>
       <register name="&quot;" type="4">
-        <text>:</text>
+        <text>isUpdate</text>
       </register>
       <register name="2" type="4">
-        <text>d</text>
+        <text>savedVersionCode</text>
       </register>
       <register name="1" type="4">
-        <text>:</text>
+        <text>savedVersionCode</text>
       </register>
       <register name="0" type="4">
-        <text>context.getSharedPreferences(Launcher.HOME_SHARED_PREFERENCES_LOCAL,
-                        Launcher.MODE_PRIVATE)</text>
+        <text>isUpdate</text>
       </register>
-      <register name="7" type="4">
-        <text>r</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>u</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>p</text>
+        <text>currentVe</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>ersionCode</text>
       </register>
       <register name=":" type="4">
         <text>!ls</text>
       </register>
-      <register name="9" type="4">
-        <text>e</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>r</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IC0x</text>
+        <text>loadW</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>savedVersionCode</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IC0x</last-search>
+      <last-search>loadW</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IC0x</last-pattern>
+      <last-pattern>loadW</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -162,6 +163,7 @@
         <entry>loadwork</entry>
         <entry>-1</entry>
         <entry encoding="base64">IC0x</entry>
+        <entry>loadW</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.vimrc</entry>
