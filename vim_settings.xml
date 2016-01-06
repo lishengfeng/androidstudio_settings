@@ -28,25 +28,26 @@
         <mark key="." line="27" column="7" />
         <mark key="[" line="27" column="8" />
       </file>
-      <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/build.gradle" timestamp="1451958245072">
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="[" line="4" column="30" />
+      <file name="/a.dummy" timestamp="1452045273512">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/src/main/java/com/example/administrator/myapplication/LoginActivity.java" timestamp="1451980236216">
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
         <mark key="[" line="66" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1452045273512">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/build.gradle" timestamp="1451958245072">
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="[" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452058590088">
-        <mark key="]" line="2827" column="47" />
-        <mark key="^" line="2827" column="47" />
-        <mark key="." line="2827" column="47" />
-        <mark key="[" line="2814" column="0" />
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452062043147">
+        <mark key="'" line="2463" column="47" />
+        <mark key="]" line="2813" column="104" />
+        <mark key="^" line="2813" column="104" />
+        <mark key="." line="2813" column="104" />
+        <mark key="[" line="2811" column="52" />
       </file>
     </filemarks>
     <jumps>
@@ -114,49 +115,52 @@
       <jump line="2418" column="19" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
       <jump line="2426" column="19" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
       <jump line="2788" column="43" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
+      <jump line="2418" column="20" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
+      <jump line="2441" column="27" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
+      <jump line="2463" column="47" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text>c.getInt(spanYIndex)</text>
+      </register>
+      <register name="3" type="4">
+        <text>x</text>
       </register>
       <register name="2" type="4">
-        <text>f</text>
+        <text>)</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text>c.getInt(spanYIndex)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoImFhYWEiLCJhcHBXaWRnZXRJbmZvLmlkID09ICIrYXBwV2lkZ2V0SW5mby5pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXBwV2lkZ2V0SW5mby5zcGFuWCA9IGMuZ2V0SW50KHNwYW5YSW5kZXgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcHBXaWRnZXRJbmZvLnNwYW5ZID0gYy5nZXRJbnQoc3BhbllJbmRleCk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>currentVersionCode</text>
+        <text>I</text>
       </register>
       <register name="6" type="4">
-        <text>savedVersionCode</text>
+        <text>n</text>
       </register>
       <register name="5" type="4">
-        <text>savedVersionCode</text>
+        <text>d</text>
       </register>
       <register name="4" type="4">
-        <text>appWidgetInfo.id == &quot;+appWidgetInfo.id)</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>!ls</text>
       </register>
       <register name="9" type="4">
-        <text>currentVe</text>
+        <text>n</text>
       </register>
       <register name="8" type="4">
-        <text>ersionCode</text>
+        <text>X</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text>c.getInt(spanYIndex)</text>
       </register>
     </registers>
     <search>
@@ -182,6 +186,7 @@
         <entry>-1</entry>
         <entry encoding="base64">IC0x</entry>
         <entry>loadW</entry>
+        <entry encoding="base64">XDxiZWZvcmVWZXJzaW9uQ29kZVw+</entry>
         <entry>aaaa</entry>
       </history-search>
       <history-cmd>
@@ -216,6 +221,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
