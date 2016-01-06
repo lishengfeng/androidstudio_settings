@@ -13,7 +13,13 @@
         <mark key="." line="2788" column="72" />
         <mark key="[" line="2788" column="67" />
       </file>
-      <file name="/Dummy.txt" timestamp="1451958151555">
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/AndroidManifest.xml" timestamp="1452058994878">
+        <mark key="]" line="25" column="26" />
+        <mark key="^" line="25" column="26" />
+        <mark key="." line="25" column="26" />
+        <mark key="[" line="25" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1452058695264">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/build.gradle" timestamp="1451871226088">
@@ -35,6 +41,12 @@
       </file>
       <file name="/a.dummy" timestamp="1452045273512">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452058590088">
+        <mark key="]" line="2827" column="47" />
+        <mark key="^" line="2827" column="47" />
+        <mark key="." line="2827" column="47" />
+        <mark key="[" line="2814" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -105,46 +117,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>savedVersionCode</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="2" type="4">
-        <text>appWidgetInfo.id == &quot;+appWidgetInfo.id)</text>
+        <text>f</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoImFhYWEiLCJhcHBXaWRnZXRJbmZvLmlkID09ICIrYXBwV2lkZ2V0SW5mby5pZCk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>currentVe</text>
-      </register>
-      <register name="6" type="4">
-        <text>ersionCode</text>
-      </register>
-      <register name="5" type="4">
         <text>currentVersionCode</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>savedVersionCode</text>
+      </register>
+      <register name="5" type="4">
+        <text>savedVersionCode</text>
+      </register>
+      <register name="4" type="4">
+        <text>appWidgetInfo.id == &quot;+appWidgetInfo.id)</text>
       </register>
       <register name=":" type="4">
         <text>!ls</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>currentVe</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>ersionCode</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
       </register>
     </registers>
     <search>
@@ -201,6 +213,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
