@@ -28,6 +28,12 @@
         <mark key="." line="27" column="7" />
         <mark key="[" line="27" column="8" />
       </file>
+      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/build.gradle" timestamp="1452063373819">
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+        <mark key="[" line="16" column="26" />
+      </file>
       <file name="/a.dummy" timestamp="1452045273512">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,12 +48,12 @@
         <mark key="." line="41" column="0" />
         <mark key="[" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452062043147">
-        <mark key="'" line="2463" column="47" />
-        <mark key="]" line="2813" column="104" />
-        <mark key="^" line="2813" column="104" />
-        <mark key="." line="2813" column="104" />
-        <mark key="[" line="2811" column="52" />
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452063188666">
+        <mark key="'" line="2461" column="47" />
+        <mark key="]" line="2807" column="56" />
+        <mark key="^" line="2807" column="56" />
+        <mark key="." line="2807" column="56" />
+        <mark key="[" line="2808" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -121,46 +127,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c.getInt(spanYIndex)</text>
+        <text>true</text>
       </register>
       <register name="3" type="4">
-        <text>x</text>
+        <text>e</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>t</text>
       </register>
       <register name="1" type="4">
-        <text>c.getInt(spanYIndex)</text>
+        <text>true</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXBwV2lkZ2V0SW5mby5zcGFuWCA9IGMuZ2V0SW50KHNwYW5YSW5kZXgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcHBXaWRnZXRJbmZvLnNwYW5ZID0gYy5nZXRJbnQoc3BhbllJbmRleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlcy5wdXQoRmF2b3JpdGVzLlNQQU5YLG5ld1NwYW5YKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>I</text>
+        <text>3</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>l</text>
       </register>
       <register name="5" type="4">
-        <text>d</text>
+        <text>g</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>g</text>
       </register>
       <register name=":" type="4">
         <text>!ls</text>
       </register>
-      <register name="9" type="4">
-        <text>n</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>X</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
       </register>
       <register name="-" type="4">
-        <text>c.getInt(spanYIndex)</text>
+        <text>true</text>
       </register>
     </registers>
     <search>
@@ -224,6 +230,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
