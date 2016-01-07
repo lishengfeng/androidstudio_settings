@@ -38,7 +38,7 @@
         <mark key="." line="66" column="0" />
         <mark key="[" line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/src/main/java/com/fujitsu/mobile_phone/fido/ASM/BiometricAuthenticatorUI.java" timestamp="1452133393927">
+      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/src/main/java/com/fujitsu/mobile_phone/fido/ASM/BiometricAuthenticatorUI.java" timestamp="1452151619938">
         <mark key="]" line="232" column="76" />
         <mark key="^" line="232" column="76" />
         <mark key="." line="232" column="76" />
@@ -91,6 +91,12 @@
         <mark key="^" line="2807" column="56" />
         <mark key="." line="2807" column="56" />
         <mark key="[" line="2808" column="51" />
+      </file>
+      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/proguard.cfg" timestamp="1452151585616">
+        <mark key="]" line="106" column="0" />
+        <mark key="^" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+        <mark key="[" line="106" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -274,6 +280,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
