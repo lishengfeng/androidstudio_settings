@@ -13,10 +13,11 @@
         <mark key="." line="2788" column="72" />
         <mark key="[" line="2788" column="67" />
       </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/src/main/java/com/fujitsu/mobile_phone/fido/ASM/IrisAuthenticator.java" timestamp="1452063935418">
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="[" line="20" column="0" />
+      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/src/main/java/com/fujitsu/mobile_phone/fido/ASM/IrisAuthenticator.java" timestamp="1452130269446">
+        <mark key="]" line="29" column="57" />
+        <mark key="^" line="29" column="57" />
+        <mark key="." line="29" column="57" />
+        <mark key="[" line="29" column="54" />
       </file>
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/AndroidManifest.xml" timestamp="1452058994878">
         <mark key="]" line="25" column="26" />
@@ -47,7 +48,7 @@
         <mark key="." line="66" column="0" />
         <mark key="[" line="66" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1452045273512">
+      <file name="/a.dummy" timestamp="1452133347289">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/build.gradle" timestamp="1452063373819">
@@ -63,11 +64,14 @@
         <mark key="." line="2807" column="56" />
         <mark key="[" line="2808" column="51" />
       </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/src/main/java/com/fujitsu/mobile_phone/fido/ASM/BiometricAuthenticatorUI.java" timestamp="1452063963220">
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="[" line="11" column="0" />
+      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/src/main/java/com/fujitsu/mobile_phone/fido/ASM/BiometricAuthenticatorUI.java" timestamp="1452133393927">
+        <mark key="]" line="232" column="76" />
+        <mark key="^" line="232" column="76" />
+        <mark key="." line="232" column="76" />
+        <mark key="[" line="232" column="62" />
       </file>
+      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/src/main/java/com/fujitsu/mobile_phone/fido/ASM/BiometricActivity.java" timestamp="1452130215572" />
+      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/build/intermediates/exploded-aar/asmsdk-release/jars/classes.jar!/com/noknok/android/client/asm/sdk/IMatcher.class" timestamp="1452133344364" />
     </filemarks>
     <jumps>
       <jump line="2377" column="73" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
@@ -139,41 +143,41 @@
       <jump line="2463" column="47" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">Ly9jb21waWxlIHByb2plY3QoJzphc21zZGsnKQo=</text>
+      <register name="3" type="4">
+        <text>l</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG87Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>s</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG87Cg==</text>
+      <register name="1" type="4">
+        <text>e</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlcy5wdXQoRmF2b3JpdGVzLlNQQU5YLG5ld1NwYW5YKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>t</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>r</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG87Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>u</text>
+        <text>f</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ub2tub2suYW5kcm9pZC5jbGllbnQuYXNtLnNkay5Qcm90b2NvbFR5cGU7Cg==</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5ub2tub2suYW5kcm9pZC5jbGllbnQuYXNtLnNkay5Ub29NYW55QXR0ZW1wdHNFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">Ly9jb21waWxlIHByb2plY3QoJzphc21zZGsnKQo=</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
@@ -247,6 +251,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
