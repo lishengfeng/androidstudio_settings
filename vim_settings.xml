@@ -3,8 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" timestamp="1452048474208">
-        <mark key="'" line="355" column="32" />
+      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/eclipse/asm_qcom_service/project.properties" timestamp="1452148312703">
+        <mark key="]" line="0" column="91" />
+        <mark key="." line="0" column="91" />
+        <mark key="[" line="0" column="91" />
       </file>
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/src/main/java/com/fujitsu/mobile_phone/fido/ASM/IrisAuthenticator.java" timestamp="1452130269446">
         <mark key="]" line="29" column="57" />
@@ -31,9 +33,6 @@
       <file name="/Dummy.txt" timestamp="1452058695264">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1452133347289">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/src/main/java/com/example/administrator/myapplication/LoginActivity.java" timestamp="1451980236216">
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
@@ -56,6 +55,11 @@
       </file>
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/src/androidTest/java/com/fujitsu/mobile_phone/fido/ASM/BiometricAuthenticatorUITest.java" timestamp="1452064638386">
         <mark key="[" line="39" column="22" />
+      </file>
+      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/eclipse/asmsdk/res/values/values.xml" timestamp="1452148855336">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/build.gradle" timestamp="1452064590166">
         <mark key="]" line="51" column="46" />
@@ -159,32 +163,32 @@
       <jump line="2463" column="47" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPnNkazwvc3RyaW5nPgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>l</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibXNnX3Rvb21hbnlhdHRlbXB0cyI+WW91ciBzZWNyZXQgY29kZSBoYXMgYmVlbiBlcmFzZWQgYmVjYXVzZSBvZiAxMCBjb25zZWN1dGl2ZSBmYWlsZWQgYXR0ZW1wdHMuPC9zdHJpbmc+Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>s</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibWFuYWdlX2RhdGEiPk1hbmFnZSBkYXRhPC9zdHJpbmc+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>e</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPnNkazwvc3RyaW5nPgo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlcy5wdXQoRmF2b3JpdGVzLlNQQU5YLG5ld1NwYW5YKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY2hhbmdlX3BheW1lbnRfYW1vdW50Ij5DaGFuZ2UgcGF5bWVudCBhbW91bnQ8L3N0cmluZz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLk1vY2tpdG87Cg==</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY2xlYXJfZGF0YSI+Q2xlYXIgRGF0YTwvc3RyaW5nPgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>f</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY29uZmlybV9jbGVhcl9kYXRhIj5BcmUgeW91IHN1cmUgeW91IHdhbnQgdG8gZGVsZXRlIHlvdXIgc2V0dGluZ3M/PC9zdHJpbmc+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>a</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY2xpY2tfdG9fYXV0aG9yaXplIj5BdXRob3JpemU8L3N0cmluZz4K</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
@@ -192,14 +196,14 @@
       <register name="9" type="4">
         <text>e</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly9jb21waWxlIHByb2plY3QoJzphc21zZGsnKQo=</text>
+      <register name="8" type="4">
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>p</text>
       </register>
     </registers>
     <search>
