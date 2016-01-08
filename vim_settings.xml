@@ -30,7 +30,7 @@
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/src/main/java/com/MyASM/MyActivity.java" timestamp="1452140515135">
         <mark key="[" line="17" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1452058695264">
+      <file name="/Dummy.txt" timestamp="1452211863549">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1452154338978">
@@ -64,11 +64,11 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/build.gradle" timestamp="1452064590166">
-        <mark key="]" line="51" column="46" />
-        <mark key="^" line="51" column="46" />
-        <mark key="." line="51" column="46" />
-        <mark key="[" line="51" column="47" />
+      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/build.gradle" timestamp="1452211319929">
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="50" column="46" />
+        <mark key="." line="35" column="0" />
+        <mark key="[" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/src/main/java/com/MyASM/MyMatcher.java" timestamp="1452140569295">
         <mark key="]" line="23" column="52" />
@@ -173,40 +173,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPnNkazwvc3RyaW5nPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5kZWJ1Zwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibXNnX3Rvb21hbnlhdHRlbXB0cyI+WW91ciBzZWNyZXQgY29kZSBoYXMgYmVlbiBlcmFzZWQgYmVjYXVzZSBvZiAxMCBjb25zZWN1dGl2ZSBmYWlsZWQgYXR0ZW1wdHMuPC9zdHJpbmc+Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibWFuYWdlX2RhdGEiPk1hbmFnZSBkYXRhPC9zdHJpbmc+Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYXBwX25hbWUiPnNkazwvc3RyaW5nPgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5kZWJ1Zwo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhbHVlcy5wdXQoRmF2b3JpdGVzLlNQQU5YLG5ld1NwYW5YKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY2hhbmdlX3BheW1lbnRfYW1vdW50Ij5DaGFuZ2UgcGF5bWVudCBhbW91bnQ8L3N0cmluZz4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY2xlYXJfZGF0YSI+Q2xlYXIgRGF0YTwvc3RyaW5nPgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY29uZmlybV9jbGVhcl9kYXRhIj5BcmUgeW91IHN1cmUgeW91IHdhbnQgdG8gZGVsZXRlIHlvdXIgc2V0dGluZ3M/PC9zdHJpbmc+Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY2xpY2tfdG9fYXV0aG9yaXplIj5BdXRob3JpemU8L3N0cmluZz4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0ibXNnX3Rvb21hbnlhdHRlbXB0cyI+WW91ciBzZWNyZXQgY29kZSBoYXMgYmVlbiBlcmFzZWQgYmVjYXVzZSBvZiAxMCBjb25zZWN1dGl2ZSBmYWlsZWQgYXR0ZW1wdHMuPC9zdHJpbmc+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
-      </register>
-      <register name="8" type="4">
         <text>p</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iY2hhbmdlX3BheW1lbnRfYW1vdW50Ij5DaGFuZ2UgcGF5bWVudCBhbW91bnQ8L3N0cmluZz4K</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
