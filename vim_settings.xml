@@ -14,13 +14,6 @@
         <mark key="." line="29" column="57" />
         <mark key="[" line="29" column="54" />
       </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" timestamp="1452057309815">
-        <mark key="'" line="2788" column="43" />
-        <mark key="]" line="2788" column="72" />
-        <mark key="^" line="2788" column="72" />
-        <mark key="." line="2788" column="72" />
-        <mark key="[" line="2788" column="67" />
-      </file>
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/AndroidManifest.xml" timestamp="1452058994878">
         <mark key="]" line="25" column="26" />
         <mark key="^" line="25" column="26" />
@@ -47,6 +40,7 @@
         <mark key="." line="48" column="41" />
         <mark key="[" line="46" column="57" />
       </file>
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/ItemInfo.java" timestamp="1452221903225" />
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/src/main/java/com/MyASM/MyAKDigestMethod.java" timestamp="1452140521747">
         <mark key="[" line="9" column="39" />
       </file>
@@ -87,7 +81,7 @@
         <mark key="." line="16" column="26" />
         <mark key="[" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452219498493">
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452222091419">
         <mark key="'" line="1948" column="0" />
         <mark key="]" line="2822" column="0" />
         <mark key="^" line="2812" column="122" />
