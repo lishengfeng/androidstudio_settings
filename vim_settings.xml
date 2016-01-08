@@ -87,12 +87,12 @@
         <mark key="." line="16" column="26" />
         <mark key="[" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452216755691">
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452218898845">
         <mark key="'" line="1945" column="0" />
-        <mark key="]" line="2810" column="55" />
-        <mark key="^" line="2823" column="64" />
-        <mark key="." line="2810" column="55" />
-        <mark key="[" line="2810" column="55" />
+        <mark key="]" line="1946" column="46" />
+        <mark key="^" line="1946" column="7" />
+        <mark key="." line="1946" column="46" />
+        <mark key="[" line="1946" column="45" />
       </file>
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/proguard.cfg" timestamp="1452151585616">
         <mark key="]" line="106" column="0" />
@@ -178,47 +178,47 @@
       <jump line="1945" column="0" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
-      </register>
-      <register name="2" type="4">
-        <text>i</text>
-      </register>
-      <register name="1" type="4">
-        <text>d</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbUlzQXBwVXBkYXRlID0gdHJ1ZTsK</text>
-      </register>
-      <register name="7" type="4">
-        <text>I</text>
-      </register>
-      <register name="6" type="4">
         <text>n</text>
       </register>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgTUFYX1NQQU5YID0gODsK</text>
+      </register>
+      <register name="7" type="4">
+        <text>o</text>
+      </register>
+      <register name="6" type="4">
+        <text>l</text>
+      </register>
       <register name="5" type="4">
-        <text>f</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>o</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>b</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxZU0RJR0lUQUxXSURHRVRfSURcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
