@@ -14,11 +14,34 @@
         <mark key="." line="29" column="57" />
         <mark key="[" line="29" column="54" />
       </file>
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/AndroidManifest.xml" timestamp="1452058994878">
+        <mark key="]" line="25" column="26" />
+        <mark key="^" line="25" column="26" />
+        <mark key="." line="25" column="26" />
+        <mark key="[" line="25" column="25" />
+      </file>
+      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/src/main/java/com/MyASM/MyActivity.java" timestamp="1452140515135">
+        <mark key="[" line="17" column="38" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1452233536272">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1452233698636">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/src/main/java/com/example/administrator/myapplication/LoginActivity.java" timestamp="1451980236216">
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="[" line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/src/main/java/com/fujitsu/mobile_phone/fido/ASM/BiometricAuthenticatorUI.java" timestamp="1452213100695">
         <mark key="]" line="48" column="41" />
         <mark key="^" line="48" column="41" />
         <mark key="." line="48" column="41" />
         <mark key="[" line="46" column="57" />
+      </file>
+      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/src/main/java/com/MyASM/MyAKDigestMethod.java" timestamp="1452140521747">
+        <mark key="[" line="9" column="39" />
       </file>
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/src/main/java/com/MyASM/MyAKSelector.java" timestamp="1452140542258">
         <mark key="]" line="15" column="45" />
@@ -33,8 +56,21 @@
         <mark key="." line="90" column="43" />
         <mark key="[" line="90" column="43" />
       </file>
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/res/raw/default_workspace.xml" timestamp="1452232597735">
+        <mark key="]" line="84" column="25" />
+        <mark key="." line="84" column="25" />
+        <mark key="[" line="84" column="24" />
+      </file>
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherAppWidgetInfo.java" timestamp="1452231642334">
         <mark key="[" line="62" column="72" />
+      </file>
+      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/src/androidTest/java/com/fujitsu/mobile_phone/fido/ASM/BiometricAuthenticatorUITest.java" timestamp="1452064638386">
+        <mark key="[" line="39" column="22" />
+      </file>
+      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/eclipse/asmsdk/res/values/values.xml" timestamp="1452148855336">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/src/main/java/com/MyASM/MyMatcher.java" timestamp="1452140569295">
         <mark key="]" line="23" column="52" />
@@ -59,45 +95,6 @@
         <mark key="." line="41" column="0" />
         <mark key="[" line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherSettings.java" timestamp="1452231300406" />
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/AndroidManifest.xml" timestamp="1452058994878">
-        <mark key="]" line="25" column="26" />
-        <mark key="^" line="25" column="26" />
-        <mark key="." line="25" column="26" />
-        <mark key="[" line="25" column="25" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1452233536272">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/src/main/java/com/MyASM/MyActivity.java" timestamp="1452140515135">
-        <mark key="[" line="17" column="38" />
-      </file>
-      <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/src/main/java/com/example/administrator/myapplication/LoginActivity.java" timestamp="1451980236216">
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="[" line="66" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1452233698636">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/ItemInfo.java" timestamp="1452221903225" />
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/src/main/java/com/MyASM/MyAKDigestMethod.java" timestamp="1452140521747">
-        <mark key="[" line="9" column="39" />
-      </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/res/raw/default_workspace.xml" timestamp="1452232597735">
-        <mark key="]" line="84" column="25" />
-        <mark key="." line="84" column="25" />
-        <mark key="[" line="84" column="24" />
-      </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/src/androidTest/java/com/fujitsu/mobile_phone/fido/ASM/BiometricAuthenticatorUITest.java" timestamp="1452064638386">
-        <mark key="[" line="39" column="22" />
-      </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/eclipse/asmsdk/res/values/values.xml" timestamp="1452148855336">
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/Launcher.java" timestamp="1452231240088" />
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452232694455">
         <mark key="'" line="2524" column="62" />
         <mark key="]" line="2826" column="44" />
@@ -211,11 +208,11 @@
       <jump line="604" column="12" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
-      </register>
       <register name="3" type="4">
         <text>l</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="2" type="4">
         <text>(</text>
@@ -263,13 +260,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Sharepre</entry>
-        <entry>share</entry>
-        <entry>space</entry>
-        <entry encoding="base64">XDxjb250aW51ZVw+</entry>
-        <entry>SharePre</entry>
-        <entry>Share</entry>
-        <entry>loadwor</entry>
         <entry>vers</entry>
         <entry>code</entry>
         <entry>version</entry>
