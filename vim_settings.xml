@@ -81,12 +81,12 @@
         <mark key="." line="16" column="26" />
         <mark key="[" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452227305324">
-        <mark key="'" line="1948" column="0" />
-        <mark key="]" line="2822" column="0" />
-        <mark key="^" line="2812" column="122" />
-        <mark key="." line="2822" column="0" />
-        <mark key="[" line="2822" column="0" />
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452227807526">
+        <mark key="'" line="695" column="53" />
+        <mark key="]" line="932" column="39" />
+        <mark key="^" line="932" column="39" />
+        <mark key="." line="932" column="39" />
+        <mark key="[" line="932" column="30" />
       </file>
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/proguard.cfg" timestamp="1452151585616">
         <mark key="]" line="106" column="0" />
@@ -171,49 +171,58 @@
       <jump line="2812" column="55" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
       <jump line="1945" column="0" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
       <jump line="1948" column="0" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
+      <jump line="994" column="0" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
+      <jump line="5892" column="64" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
+      <jump line="2386" column="61" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
+      <jump line="2385" column="57" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
+      <jump line="2374" column="61" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
+      <jump line="2373" column="57" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
+      <jump line="789" column="16" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
+      <jump line="788" column="16" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
+      <jump line="695" column="53" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vU3RyaW5nIHNlbGVjdGlvbiA9IEZhdm9yaXRlcy5fSUQrIj0iK1lTRElHSVRBTFdJREdFVF9JRDsK</text>
+      <register name="&quot;" type="4">
+        <text>addItemToDatabase&quot;,new Throwable()</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiYWFhYSIsImFkZEl0ZW1Ub0RhdGFiYXNlIGl0ZW0uaWQgPT0gIitpdGVtLmlkKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>item.screen == &quot;+item.screen</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vU3RyaW5nIHNlbGVjdGlvbiA9IEZhdm9yaXRlcy5fSUQrIj0iK1lTRElHSVRBTFdJREdFVF9JRDsK</text>
+      <register name="1" type="4">
+        <text>addItemToDatabase&quot;,new Throwable()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBpbnQgTUFYX1NQQU5YID0gODsK</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiYWFhYSIsImFkZEl0ZW1Ub0RhdGFiYXNlIixuZXcgVGhyb3dhYmxlKCkpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
-      </register>
-      <register name="6" type="4">
         <text>e</text>
       </register>
+      <register name="6" type="4">
+        <text>n</text>
+      </register>
       <register name="5" type="4">
-        <text>a</text>
+        <text>screen</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text>,new Throwable()</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>o</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>addItemToDatabase&quot;,new Throwable()</text>
       </register>
     </registers>
     <search>
@@ -242,6 +251,7 @@
         <entry encoding="base64">XDxiZWZvcmVWZXJzaW9uQ29kZVw+</entry>
         <entry>loadWorkspace</entry>
         <entry encoding="base64">XDxZU0RJR0lUQUxXSURHRVRfSURcPg==</entry>
+        <entry>item.span</entry>
         <entry>aaaa</entry>
       </history-search>
       <history-cmd>
