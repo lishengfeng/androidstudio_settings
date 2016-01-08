@@ -23,10 +23,7 @@
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/src/main/java/com/MyASM/MyActivity.java" timestamp="1452140515135">
         <mark key="[" line="17" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1452212635831">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1452227262171">
+      <file name="/Dummy.txt" timestamp="1452230314990">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/src/main/java/com/example/administrator/myapplication/LoginActivity.java" timestamp="1451980236216">
@@ -81,12 +78,11 @@
         <mark key="." line="16" column="26" />
         <mark key="[" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452227807526">
-        <mark key="'" line="695" column="53" />
-        <mark key="]" line="932" column="39" />
-        <mark key="^" line="932" column="39" />
-        <mark key="." line="932" column="39" />
-        <mark key="[" line="932" column="30" />
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452230836303">
+        <mark key="'" line="384" column="62" />
+        <mark key="]" line="2818" column="56" />
+        <mark key="." line="2818" column="56" />
+        <mark key="[" line="2818" column="55" />
       </file>
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/proguard.cfg" timestamp="1452151585616">
         <mark key="]" line="106" column="0" />
@@ -180,55 +176,61 @@
       <jump line="789" column="16" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
       <jump line="788" column="16" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
       <jump line="695" column="53" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
+      <jump line="195" column="37" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
+      <jump line="671" column="30" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
+      <jump line="927" column="38" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
+      <jump line="1110" column="38" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
+      <jump line="614" column="30" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
+      <jump line="384" column="62" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>addItemToDatabase&quot;,new Throwable()</text>
+      <register name="&quot;" type="8">
+        <text />
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiYWFhYSIsImFkZEl0ZW1Ub0RhdGFiYXNlIGl0ZW0uaWQgPT0gIitpdGVtLmlkKTsK</text>
+      <register name="3" type="4">
+        <text />
       </register>
       <register name="2" type="4">
-        <text>item.screen == &quot;+item.screen</text>
+        <text />
       </register>
-      <register name="1" type="4">
-        <text>addItemToDatabase&quot;,new Throwable()</text>
+      <register name="1" type="8">
+        <text />
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiYWFhYSIsImFkZEl0ZW1Ub0RhdGFiYXNlIixuZXcgVGhyb3dhYmxlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiYWFhYSIsICJtb2RpZnlJdGVtSW5EYXRhYmFzZSIsIG5ldyBUaHJvd2FibGUoKSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>addItemToDatabase&quot;,ne</text>
       </register>
       <register name="6" type="4">
-        <text>n</text>
+        <text>&quot;w Throwable()</text>
       </register>
-      <register name="5" type="4">
-        <text>screen</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cK</text>
       </register>
       <register name="4" type="4">
-        <text>,new Throwable()</text>
+        <text>U</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>item.screen == &quot;+item.screen</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>addItemToDatabase&quot;,new Throwable()</text>
       </register>
       <register name="/" type="4">
-        <text>aaaa</text>
+        <text>loadWork</text>
       </register>
       <register name="-" type="4">
-        <text>addItemToDatabase&quot;,new Throwable()</text>
+        <text />
       </register>
     </registers>
     <search>
-      <last-search>aaaa</last-search>
+      <last-search>loadWork</last-search>
       <last-offset />
-      <last-pattern>aaaa</last-pattern>
+      <last-pattern>loadWork</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -253,6 +255,9 @@
         <entry encoding="base64">XDxZU0RJR0lUQUxXSURHRVRfSURcPg==</entry>
         <entry>item.span</entry>
         <entry>aaaa</entry>
+        <entry>DbDebug    zM</entry>
+        <entry>DbDebug</entry>
+        <entry>loadWork</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.vimrc</entry>
