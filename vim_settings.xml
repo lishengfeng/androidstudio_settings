@@ -63,14 +63,14 @@
         <mark key="." line="106" column="0" />
         <mark key="[" line="106" column="0" />
       </file>
+      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/src/androidTest/java/com/fujitsu/mobile_phone/fido/ASM/BiometricAuthenticatorUITest.java" timestamp="1452064638386">
+        <mark key="[" line="39" column="22" />
+      </file>
       <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/build.gradle" timestamp="1451958245072">
         <mark key="]" line="41" column="0" />
         <mark key="^" line="41" column="0" />
         <mark key="." line="41" column="0" />
         <mark key="[" line="4" column="30" />
-      </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/src/androidTest/java/com/fujitsu/mobile_phone/fido/ASM/BiometricAuthenticatorUITest.java" timestamp="1452064638386">
-        <mark key="[" line="39" column="22" />
       </file>
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/eclipse/asmsdk/res/values/values.xml" timestamp="1452148855336">
         <mark key="]" line="4" column="0" />
@@ -91,11 +91,11 @@
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/src/main/java/com/MyASM/MyAKDigestMethod.java" timestamp="1452140521747">
         <mark key="[" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/src/main/java/com/MyASM/MyActivity.java" timestamp="1452140515135">
-        <mark key="[" line="17" column="38" />
-      </file>
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherAppWidgetInfo.java" timestamp="1452231642334">
         <mark key="[" line="62" column="72" />
+      </file>
+      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/src/main/java/com/MyASM/MyActivity.java" timestamp="1452140515135">
+        <mark key="[" line="17" column="38" />
       </file>
       <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/eclipse/asm_qcom_service/project.properties" timestamp="1452148312703">
         <mark key="]" line="0" column="91" />
@@ -208,11 +208,11 @@
       <jump line="604" column="12" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>l</text>
-      </register>
       <register name="&quot;" type="4">
         <text>e</text>
+      </register>
+      <register name="3" type="4">
+        <text>l</text>
       </register>
       <register name="2" type="4">
         <text>(</text>
