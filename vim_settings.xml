@@ -3,13 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" timestamp="1452574586497" />
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" timestamp="1452576965956">
+        <mark key="]" line="538" column="47" />
+        <mark key="^" line="538" column="47" />
+        <mark key="." line="538" column="47" />
+        <mark key="[" line="538" column="44" />
+      </file>
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/res/raw/default_workspace.xml" timestamp="1452573434768">
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
         <mark key="[" line="95" column="0" />
       </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/AndroidManifest.xml" timestamp="1452573387765">
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/AndroidManifest.xml" timestamp="1452577458262">
         <mark key="]" line="26" column="27" />
         <mark key="." line="26" column="27" />
         <mark key="[" line="26" column="26" />
@@ -18,11 +23,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Lester/adt-bundle-linux-x86_64-20140702/sdk/platforms/android-22/android.jar!/org/xmlpull/v1/XmlPullParser.class" timestamp="1452565451186" />
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452574020815">
-        <mark key="]" line="2437" column="48" />
-        <mark key="^" line="2437" column="20" />
-        <mark key="." line="2437" column="20" />
-        <mark key="[" line="2437" column="0" />
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452577446269">
+        <mark key="]" line="2437" column="59" />
+        <mark key="^" line="2436" column="34" />
+        <mark key="." line="2437" column="59" />
+        <mark key="[" line="2437" column="58" />
       </file>
       <file name="$USER_HOME$/Lester/adt-bundle-linux-x86_64-20140702/sdk/platforms/android-22/android.jar!/android/database/sqlite/SQLiteDatabase.class" timestamp="1452566464687" />
     </filemarks>
@@ -31,55 +36,56 @@
       <jump line="495" column="32" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" />
       <jump line="1955" column="20" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" />
       <jump line="464" column="49" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" />
+      <jump line="2156" column="11" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8K</text>
+      <register name="3" type="4">
+        <text>loadFavorites</text>
       </register>
       <register name="&quot;" type="4">
-        <text>snd</text>
+        <text>loadDefaultFavorites</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>workspaceResId</text>
       </register>
       <register name="1" type="4">
-        <text>snd</text>
+        <text>loadDefaultFavorites</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gRlVKSVRTVToyMDE2LTAxLTEyIDE1LTJuZCB3aWRnZXQgc2l6ZSBhZGQgZW5kCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">cGFnZSA=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cnJheSBhID0gbUNvbnRleHQub2J0YWluU3R5bGVkQXR0cmlidXRlcyhhdHRycywgUi5zdHlsZWFibGUuRmF2b3JpdGUpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIFR5cGVkQQo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>workspaceResId</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>loadFavorites</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxhcHB3aWRnZXQKICAgICAgICBsYXVuY2hlcjpwYWNrYWdlTmFtZT0ianAuY28ueW9taXVyaS5hcHBzcmVzY3VlIgogICAgICAgIGxhdW5jaGVyOmNsYXNzTmFtZT0ianAuY28ueW9taXVyaS5hcHBzcmVzY3VlLndpZGdldC5SZXNjdWVXaWRnZXQiCiAgICAgICAgbGF1bmNoZXI6c2NyZWVuPSIxIgogICAgICAgIGxhdW5jaGVyOng9IjAiCiAgICAgICAgbGF1bmNoZXI6eT0iMyIKICAgICAgICBsYXVuY2hlcjpzcGFuWD0iMyIKICAgICAgICBsYXVuY2hlcjpzcGFuWT0iMSIgLz4K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICBjb250YWluZXIgPSBMb25nLnZhbHVlT2YoYS5nZXRTdHJpbmcoUi5zdHlsZWFibGUuRmF2b3JpdGVfY29udGFpbmVyKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxhcHB3aWRnZXQKICAgICAgICBsYXVuY2hlcjpwYWNrYWdlTmFtZT0ianAuY28ueW9taXVyaS5hcHBzcmVzY3VlIgogICAgICAgIGxhdW5jaGVyOmNsYXNzTmFtZT0ianAuY28ueW9taXVyaS5hcHBzcmVzY3VlLndpZGdldC5SZXNjdWVXaWRnZXQiCiAgICAgICAgbGF1bmNoZXI6c2NyZWVuPSIxIgogICAgICAgIGxhdW5jaGVyOng9IjAiCiAgICAgICAgbGF1bmNoZXI6eT0iMyIKICAgICAgICBsYXVuY2hlcjpzcGFuWD0iMyIKICAgICAgICBsYXVuY2hlcjpzcGFuWT0iMSIgLz4K</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="/" type="4">
-        <text>isUpdate</text>
+        <text>reloadPa</text>
       </register>
       <register name="-" type="4">
-        <text>snd</text>
+        <text>loadDefaultFavorites</text>
       </register>
     </registers>
     <search>
-      <last-search>isUpdate</last-search>
+      <last-search>reloadPa</last-search>
       <last-offset />
-      <last-pattern>isUpdate</last-pattern>
+      <last-pattern>reloadPa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -87,6 +93,7 @@
       <history-search>
         <entry encoding="base64">XDxsb2FkRmF2b3JpdGVzXD4=</entry>
         <entry>isUpdate</entry>
+        <entry>reloadPa</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlbGVjdGlvbignZicp</entry>
@@ -113,6 +120,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
