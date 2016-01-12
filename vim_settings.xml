@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" timestamp="1452566991215" />
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" timestamp="1452574586497" />
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/res/raw/default_workspace.xml" timestamp="1452573434768">
         <mark key="]" line="95" column="0" />
         <mark key="." line="95" column="0" />
@@ -18,6 +18,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Lester/adt-bundle-linux-x86_64-20140702/sdk/platforms/android-22/android.jar!/org/xmlpull/v1/XmlPullParser.class" timestamp="1452565451186" />
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452574020815">
+        <mark key="]" line="2437" column="48" />
+        <mark key="^" line="2437" column="20" />
+        <mark key="." line="2437" column="20" />
+        <mark key="[" line="2437" column="0" />
+      </file>
       <file name="$USER_HOME$/Lester/adt-bundle-linux-x86_64-20140702/sdk/platforms/android-22/android.jar!/android/database/sqlite/SQLiteDatabase.class" timestamp="1452566464687" />
     </filemarks>
     <jumps>
@@ -28,46 +34,46 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxhcHB3aWRnZXQKICAgICAgICBsYXVuY2hlcjpwYWNrYWdlTmFtZT0ianAuY28ueW9taXVyaS5hcHBzcmVzY3VlIgogICAgICAgIGxhdW5jaGVyOmNsYXNzTmFtZT0ianAuY28ueW9taXVyaS5hcHBzcmVzY3VlLndpZGdldC5SZXNjdWVXaWRnZXQiCiAgICAgICAgbGF1bmNoZXI6c2NyZWVuPSIxIgogICAgICAgIGxhdW5jaGVyOng9IjAiCiAgICAgICAgbGF1bmNoZXI6eT0iMyIKICAgICAgICBsYXVuY2hlcjpzcGFuWD0iMyIKICAgICAgICBsYXVuY2hlcjpzcGFuWT0iMSIgLz4K</text>
+      <register name="&quot;" type="4">
+        <text>snd</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDxhcHB3aWRnZXQKICAgICAgICBsYXVuY2hlcjpwYWNrYWdlTmFtZT0ianAuY28ueW9taXVyaS5hcHBzcmVzY3VlIgogICAgICAgIGxhdW5jaGVyOmNsYXNzTmFtZT0ianAuY28ueW9taXVyaS5hcHBzcmVzY3VlLndpZGdldC5SZXNjdWVXaWRnZXQiCiAgICAgICAgbGF1bmNoZXI6c2NyZWVuPSIxIgogICAgICAgIGxhdW5jaGVyOng9IjAiCiAgICAgICAgbGF1bmNoZXI6eT0iMyIKICAgICAgICBsYXVuY2hlcjpzcGFuWD0iMyIKICAgICAgICBsYXVuY2hlcjpzcGFuWT0iMSIgLz4K</text>
+      <register name="2" type="4">
+        <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxhcHB3aWRnZXQKICAgICAgICBsYXVuY2hlcjpwYWNrYWdlTmFtZT0ianAuY28ueW9taXVyaS5hcHBzcmVzY3VlIgogICAgICAgIGxhdW5jaGVyOmNsYXNzTmFtZT0ianAuY28ueW9taXVyaS5hcHBzcmVzY3VlLndpZGdldC5SZXNjdWVXaWRnZXQiCiAgICAgICAgbGF1bmNoZXI6c2NyZWVuPSIxIgogICAgICAgIGxhdW5jaGVyOng9IjAiCiAgICAgICAgbGF1bmNoZXI6eT0iMyIKICAgICAgICBsYXVuY2hlcjpzcGFuWD0iMyIKICAgICAgICBsYXVuY2hlcjpzcGFuWT0iMSIgLz4K</text>
+      <register name="1" type="4">
+        <text>snd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGIuZGVsZXRlKFRBQkxFX0ZBVk9SSVRFUywgd2hlcmVDbGF1c2UsIHdoZXJlQXJncyk7Cg==</text>
+        <text encoding="base64">Ly8gRlVKSVRTVToyMDE2LTAxLTEyIDE1LTJuZCB3aWRnZXQgc2l6ZSBhZGQgZW5kCg==</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>4&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgIDwhLS0g5aSp5rCXIC0tPgogICAgPGFwcHdpZGdldAogICAgICAgIGxhdW5jaGVyOnBhY2thZ2VOYW1lPSJqcC5jby55b21pdXJpLmFwcHN3ZWF0aGVyIgogICAgICAgIGxhdW5jaGVyOmNsYXNzTmFtZT0ianAuY28ueW9taXVyaS5hcHBzd2VhdGhlci53aWRnZXQuV2VhdGhlcldpZGdldCIKICAgICAgICBsYXVuY2hlcjpzY3JlZW49IjEiCiAgICAgICAgbGF1bmNoZXI6eD0iMyIKICAgICAgICBsYXVuY2hlcjp5PSIzIgogICAgICAgIGxhdW5jaGVyOnNwYW5YPSIyIgogICAgICAgIGxhdW5jaGVyOnNwYW5ZPSIzIiAvPg==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
-      <register name="9" type="4">
-        <text>n</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxhcHB3aWRnZXQKICAgICAgICBsYXVuY2hlcjpwYWNrYWdlTmFtZT0ianAuY28ueW9taXVyaS5hcHBzcmVzY3VlIgogICAgICAgIGxhdW5jaGVyOmNsYXNzTmFtZT0ianAuY28ueW9taXVyaS5hcHBzcmVzY3VlLndpZGdldC5SZXNjdWVXaWRnZXQiCiAgICAgICAgbGF1bmNoZXI6c2NyZWVuPSIxIgogICAgICAgIGxhdW5jaGVyOng9IjAiCiAgICAgICAgbGF1bmNoZXI6eT0iMyIKICAgICAgICBsYXVuY2hlcjpzcGFuWD0iMyIKICAgICAgICBsYXVuY2hlcjpzcGFuWT0iMSIgLz4K</text>
       </register>
-      <register name="8" type="4">
-        <text>u</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxhcHB3aWRnZXQKICAgICAgICBsYXVuY2hlcjpwYWNrYWdlTmFtZT0ianAuY28ueW9taXVyaS5hcHBzcmVzY3VlIgogICAgICAgIGxhdW5jaGVyOmNsYXNzTmFtZT0ianAuY28ueW9taXVyaS5hcHBzcmVzY3VlLndpZGdldC5SZXNjdWVXaWRnZXQiCiAgICAgICAgbGF1bmNoZXI6c2NyZWVuPSIxIgogICAgICAgIGxhdW5jaGVyOng9IjAiCiAgICAgICAgbGF1bmNoZXI6eT0iMyIKICAgICAgICBsYXVuY2hlcjpzcGFuWD0iMyIKICAgICAgICBsYXVuY2hlcjpzcGFuWT0iMSIgLz4K</text>
       </register>
       <register name="/" type="4">
         <text>isUpdate</text>
       </register>
       <register name="-" type="4">
-        <text>4&quot;</text>
+        <text>snd</text>
       </register>
     </registers>
     <search>
@@ -104,6 +110,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
