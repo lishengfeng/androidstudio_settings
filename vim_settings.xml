@@ -1,292 +1,17 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/eclipse/asm_qcom_service/project.properties" timestamp="1452148312703">
-        <mark key="]" line="0" column="91" />
-        <mark key="." line="0" column="91" />
-        <mark key="[" line="0" column="91" />
-      </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/src/main/java/com/fujitsu/mobile_phone/fido/ASM/IrisAuthenticator.java" timestamp="1452130269446">
-        <mark key="]" line="29" column="57" />
-        <mark key="^" line="29" column="57" />
-        <mark key="." line="29" column="57" />
-        <mark key="[" line="29" column="54" />
-      </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/AndroidManifest.xml" timestamp="1452058994878">
-        <mark key="]" line="25" column="26" />
-        <mark key="^" line="25" column="26" />
-        <mark key="." line="25" column="26" />
-        <mark key="[" line="25" column="25" />
-      </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/src/main/java/com/MyASM/MyActivity.java" timestamp="1452140515135">
-        <mark key="[" line="17" column="38" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1452233536272">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1452233698636">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/src/main/java/com/example/administrator/myapplication/LoginActivity.java" timestamp="1451980236216">
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="[" line="66" column="0" />
-      </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/src/main/java/com/fujitsu/mobile_phone/fido/ASM/BiometricAuthenticatorUI.java" timestamp="1452213100695">
-        <mark key="]" line="48" column="41" />
-        <mark key="^" line="48" column="41" />
-        <mark key="." line="48" column="41" />
-        <mark key="[" line="46" column="57" />
-      </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/src/main/java/com/MyASM/MyAKDigestMethod.java" timestamp="1452140521747">
-        <mark key="[" line="9" column="39" />
-      </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/src/main/java/com/MyASM/MyAKSelector.java" timestamp="1452140542258">
-        <mark key="]" line="15" column="45" />
-        <mark key="^" line="15" column="45" />
-        <mark key="." line="15" column="45" />
-        <mark key="[" line="15" column="38" />
-      </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" timestamp="1452233775600">
-        <mark key="'" line="604" column="12" />
-        <mark key="]" line="90" column="43" />
-        <mark key="^" line="90" column="43" />
-        <mark key="." line="90" column="43" />
-        <mark key="[" line="90" column="43" />
-      </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/res/raw/default_workspace.xml" timestamp="1452232597735">
-        <mark key="]" line="84" column="25" />
-        <mark key="." line="84" column="25" />
-        <mark key="[" line="84" column="24" />
-      </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherAppWidgetInfo.java" timestamp="1452231642334">
-        <mark key="[" line="62" column="72" />
-      </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/src/androidTest/java/com/fujitsu/mobile_phone/fido/ASM/BiometricAuthenticatorUITest.java" timestamp="1452064638386">
-        <mark key="[" line="39" column="22" />
-      </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/eclipse/asmsdk/res/values/values.xml" timestamp="1452148855336">
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/src/main/java/com/MyASM/MyMatcher.java" timestamp="1452140569295">
-        <mark key="]" line="23" column="52" />
-        <mark key="^" line="23" column="52" />
-        <mark key="." line="23" column="52" />
-        <mark key="[" line="23" column="46" />
-      </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/build.gradle" timestamp="1452213348606">
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="[" line="32" column="0" />
-      </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_sample_service/app/build.gradle" timestamp="1452140024362">
-        <mark key="]" line="16" column="26" />
-        <mark key="^" line="16" column="30" />
-        <mark key="." line="16" column="26" />
-        <mark key="[" line="16" column="26" />
-      </file>
-      <file name="$USER_HOME$/ASM/CORGI-Ver3.0.1.582/ASMSDK/android-studio/MyApplication/app/build.gradle" timestamp="1451958245072">
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="[" line="4" column="30" />
-      </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452232694455">
-        <mark key="'" line="2524" column="62" />
-        <mark key="]" line="2826" column="44" />
-        <mark key="^" line="2812" column="55" />
-        <mark key="." line="2826" column="44" />
-        <mark key="[" line="2826" column="44" />
-      </file>
-      <file name="$USER_HOME$/ASM/DARTS-Ver3.0.1.582/ASMSDK/android-studio/asm_qcom_service/app/proguard.cfg" timestamp="1452151585616">
-        <mark key="]" line="106" column="0" />
-        <mark key="^" line="106" column="0" />
-        <mark key="." line="106" column="0" />
-        <mark key="[" line="106" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="2377" column="73" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2594" column="32" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2529" column="0" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2919" column="52" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2894" column="36" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2748" column="40" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2415" column="45" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2941" column="50" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2944" column="48" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="6431" column="50" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="6450" column="50" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="6486" column="50" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="6523" column="50" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="6794" column="22" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="6795" column="49" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="37" column="23" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="38" column="23" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="1345" column="57" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="1379" column="56" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="1702" column="22" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="1703" column="57" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2376" column="21" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="166" column="0" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2688" column="50" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2422" column="39" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2795" column="53" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="3740" column="68" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="4369" column="31" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="4678" column="50" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="4687" column="36" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="4704" column="38" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="3" column="38" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="1016" column="46" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="1019" column="24" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="1030" column="21" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="1015" column="6" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="80" column="37" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="81" column="38" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="82" column="37" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="83" column="38" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="85" column="42" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="86" column="43" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="89" column="43" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="90" column="44" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="91" column="44" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="92" column="45" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="93" column="43" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="94" column="44" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="99" column="41" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="100" column="42" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="248" column="29" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="324" column="29" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="333" column="25" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="345" column="31" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="355" column="32" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/Utilities.java" />
-      <jump line="2403" column="14" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2374" column="8" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="103" column="64" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2794" column="83" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2379" column="21" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2409" column="23" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2418" column="19" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2426" column="19" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2788" column="43" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home/LauncherModel.java" />
-      <jump line="2418" column="20" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="2441" column="27" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="2463" column="47" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="2115" column="26" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="2120" column="28" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="2137" column="22" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="2167" column="22" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="2397" column="21" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="2812" column="55" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="1945" column="0" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="1948" column="0" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="994" column="0" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="5892" column="64" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="2386" column="61" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="2385" column="57" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="2374" column="61" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="2373" column="57" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="789" column="16" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="788" column="16" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="695" column="53" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="195" column="37" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="671" column="30" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="927" column="38" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="1110" column="38" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="614" column="30" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="384" column="62" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="2828" column="77" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="3549" column="44" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="675" column="15" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="2524" column="62" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
-      <jump line="194" column="28" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" />
-      <jump line="604" column="12" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" />
-    </jumps>
-    <registers>
-      <register name="3" type="4">
-        <text>l</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
-      </register>
-      <register name="2" type="4">
-        <text>(</text>
-      </register>
-      <register name="1" type="4">
-        <text>e</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKExPR0QpIHsKICAgICAgICAgICAgICAgIExvZy5kKCJMYXVuY2hlclByb3ZpZGVyLkRhdGFiYXNlSGVscGVyIiwgImNyZWF0ZVdvcmtzcGFjZVRhYmxlcyIpOwogICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>b</text>
-      </register>
-      <register name="6" type="4">
-        <text>l</text>
-      </register>
-      <register name="5" type="4">
-        <text>e</text>
-      </register>
-      <register name="4" type="4">
-        <text>s</text>
-      </register>
-      <register name=":" type="4">
-        <text>w!</text>
-      </register>
-      <register name="9" type="4">
-        <text>T</text>
-      </register>
-      <register name="8" type="4">
-        <text>a</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVXb3Jrc3BhY2VUYWJsZXNcPg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>e</text>
-      </register>
-    </registers>
+    <filemarks />
+    <jumps />
+    <registers />
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVXb3Jrc3BhY2VUYWJsZXNcPg==</last-search>
-      <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVXb3Jrc3BhY2VUYWJsZXNcPg==</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>vers</entry>
-        <entry>code</entry>
-        <entry>version</entry>
-        <entry>loadwork</entry>
-        <entry>-1</entry>
-        <entry encoding="base64">IC0x</entry>
-        <entry>loadW</entry>
-        <entry encoding="base64">XDxiZWZvcmVWZXJzaW9uQ29kZVw+</entry>
-        <entry>loadWorkspace</entry>
-        <entry encoding="base64">XDxZU0RJR0lUQUxXSURHRVRfSURcPg==</entry>
-        <entry>item.span</entry>
-        <entry>DbDebug    zM</entry>
-        <entry>DbDebug</entry>
-        <entry>loadWork</entry>
-        <entry>insert</entry>
-        <entry>aaaa</entry>
-        <entry>initializeMaxS</entry>
-        <entry>createing new launcher database</entry>
-        <entry>creating</entry>
-        <entry encoding="base64">XDxjcmVhdGVXb3Jrc3BhY2VUYWJsZXNcPg==</entry>
-      </history-search>
-      <history-cmd>
-        <entry>source ~/.vimrc</entry>
-        <entry>!ls</entry>
-        <entry>!source ~/.vimrc</entry>
-        <entry>w!</entry>
-      </history-cmd>
+      <history-search />
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
@@ -294,38 +19,17 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
