@@ -45,11 +45,11 @@
       <jump line="2437" column="58" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyByZWluaXRpYWxpemUgd2l0aCBpbnRlcm5hbCBkYXRhCg==</text>
-      </register>
       <register name="&quot;" type="2">
         <text encoding="base64">Ly8gRk5TVDoyMDEzLTEyLTI2IDE0LTFzdCBDb3Zlcml0eSBVcGRhdGUgU1RBUlQK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyByZWluaXRpYWxpemUgd2l0aCBpbnRlcm5hbCBkYXRhCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYi5kZWxldGUoVEFCTEVfRkFWT1JJVEVTLCBudWxsLCBudWxsKTsK</text>
