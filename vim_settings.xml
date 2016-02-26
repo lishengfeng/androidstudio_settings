@@ -8,6 +8,7 @@
         <mark key="." line="26" column="27" />
         <mark key="[" line="26" column="26" />
       </file>
+      <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatFragment7inch/AndroidManifest.xml" timestamp="1456464597527" />
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" timestamp="1452578710412">
         <mark key="]" line="514" column="0" />
         <mark key="^" line="534" column="47" />
@@ -20,6 +21,9 @@
         <mark key="^" line="2436" column="34" />
         <mark key="." line="2818" column="0" />
         <mark key="[" line="2818" column="0" />
+      </file>
+      <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
+        <mark key="[" line="5" column="33" />
       </file>
       <file name="/Dummy.txt" timestamp="1456290312409">
         <mark key="[" line="0" column="0" />
@@ -46,40 +50,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gRk5TVDoyMDEzLTEyLTI2IDE0LTFzdCBDb3Zlcml0eSBVcGRhdGUgU1RBUlQK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRhcmdldFNka1ZlcnNpb249IjE3IiAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyByZWluaXRpYWxpemUgd2l0aCBpbnRlcm5hbCBkYXRhCg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYi5kZWxldGUoVEFCTEVfRkFWT1JJVEVTLCBudWxsLCBudWxsKTsK</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Ly8gRk5TVDoyMDEzLTEyLTI2IDE0LTFzdCBDb3Zlcml0eSBVcGRhdGUgU1RBUlQK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRhcmdldFNka1ZlcnNpb249IjE3IiAvPgo=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cGFnZSA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsYXVuY2hlcjp5PSIzIgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBsYXVuY2hlcjpzcGFuWD0iMyIK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBsYXVuY2hlcjpzcGFuWT0iMSIgLz4K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBJZiBlcnJvciBvY2N1ciwgZGVsZXRlIGFsbCB0aGUgZmF2b3JpdGVzIGFkZGVkLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyByZWluaXRpYWxpemUgd2l0aCBpbnRlcm5hbCBkYXRhCg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsYXVuY2hlcjpzY3JlZW49IjEiCg==</text>
+        <text encoding="base64">ICAgICAgICBsYXVuY2hlcjp4PSIwIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsYXVuY2hlcjp4PSIwIgo=</text>
+        <text encoding="base64">ICAgICAgICBsYXVuY2hlcjp5PSIzIgo=</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
