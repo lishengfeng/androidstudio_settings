@@ -8,7 +8,6 @@
         <mark key="." line="26" column="27" />
         <mark key="[" line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatFragment7inch/AndroidManifest.xml" timestamp="1456464597527" />
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" timestamp="1452578710412">
         <mark key="]" line="514" column="0" />
         <mark key="^" line="534" column="47" />
@@ -39,7 +38,6 @@
       <file name="$USER_HOME$/Eclipse_workspace/OldMachineReform/automatUnionPay/AndroidManifest.xml" timestamp="1456400482864">
         <mark key="[" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456466425476" />
     </filemarks>
     <jumps>
       <jump line="491" column="32" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" />
@@ -50,11 +48,11 @@
       <jump line="2437" column="58" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRhcmdldFNka1ZlcnNpb249IjE3IiAvPgo=</text>
-      </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYi5kZWxldGUoVEFCTEVfRkFWT1JJVEVTLCBudWxsLCBudWxsKTsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRhcmdldFNka1ZlcnNpb249IjE3IiAvPgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Ly8gRk5TVDoyMDEzLTEyLTI2IDE0LTFzdCBDb3Zlcml0eSBVcGRhdGUgU1RBUlQK</text>
