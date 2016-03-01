@@ -24,10 +24,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/settings.gradle" timestamp="1456819259700">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
-        <mark key="[" line="5" column="33" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1456829745778">
+      <file name="/Dummy.txt" timestamp="1456832184783">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/res/raw/default_workspace.xml" timestamp="1452578426644">
@@ -35,16 +32,8 @@
         <mark key="." line="85" column="0" />
         <mark key="[" line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1456821423866">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/a.dummy" timestamp="1456832142655">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Eclipse_workspace/OldMachineReform/automatUnionPay/AndroidManifest.xml" timestamp="1456400482864">
-        <mark key="[" line="3" column="31" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MultiTrader/settings.gradle" timestamp="1456819894509">
-        <mark key="[" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk`/automat3dianSdk`.iml" timestamp="1456831522179">
         <mark key="]" line="1" column="52" />
@@ -56,6 +45,20 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="45" />
         <mark key="[" line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
+        <mark key="[" line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1456821423866">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Eclipse_workspace/OldMachineReform/automatUnionPay/AndroidManifest.xml" timestamp="1456400482864">
+        <mark key="[" line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MultiTrader/settings.gradle" timestamp="1456819894509">
+        <mark key="[" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
         <mark key="[" line="9" column="47" />
@@ -70,11 +73,11 @@
       <jump line="2437" column="58" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>`</text>
-      </register>
       <register name="3" type="4">
         <text>build.gradle</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="2" type="4">
         <text>`</text>
