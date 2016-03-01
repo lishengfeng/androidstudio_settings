@@ -59,11 +59,13 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="http://192.9.230.249:81/svn/AutomatProject" />
         <option value="http://192.9.230.249:81/svn/BCLWebServiceProject" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="http://192.9.230.249:81/svn/AutomatProject" />
         <option value="http://192.9.230.249:81/svn/BCLWebServiceProject" />
       </list>
     </option>
