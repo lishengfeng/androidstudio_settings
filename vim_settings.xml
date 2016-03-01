@@ -14,9 +14,6 @@
         <mark key="." line="514" column="0" />
         <mark key="[" line="514" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/settings.gradle" timestamp="1456819259700">
-        <mark key="[" line="2" column="24" />
-      </file>
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452578296256">
         <mark key="'" line="2437" column="58" />
         <mark key="]" line="2818" column="0" />
@@ -24,10 +21,13 @@
         <mark key="." line="2818" column="0" />
         <mark key="[" line="2818" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/settings.gradle" timestamp="1456819259700">
+        <mark key="[" line="2" column="24" />
+      </file>
       <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
         <mark key="[" line="5" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1456832184783">
+      <file name="/Dummy.txt" timestamp="1456833999494">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/res/raw/default_workspace.xml" timestamp="1452578426644">
@@ -35,12 +35,12 @@
         <mark key="." line="85" column="0" />
         <mark key="[" line="85" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1456832142655">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1456821423866">
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1456832142655">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Eclipse_workspace/OldMachineReform/automatUnionPay/AndroidManifest.xml" timestamp="1456400482864">
@@ -73,11 +73,11 @@
       <jump line="2437" column="58" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>`</text>
-      </register>
       <register name="3" type="4">
         <text>build.gradle</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="2" type="4">
         <text>`</text>
