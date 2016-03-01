@@ -1,7 +1,7 @@
 <application>
   <component name="BackgroundImageConfiguration">
     <option name="filename" value="$USER_HOME$/Pictures/maxresdefault.jpg" />
-    <option name="localFile" value="false" />
+    <option name="localFile" value="true" />
     <option name="enabled" value="true" />
   </component>
   <component name="DebuggerSettings">
