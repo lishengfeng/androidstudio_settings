@@ -75,14 +75,14 @@
         <mark key="." line="18" column="39" />
         <mark key="[" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
-        <mark key="[" line="9" column="47" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/build.gradle" timestamp="1456909705162">
         <mark key="]" line="16" column="32" />
         <mark key="^" line="16" column="32" />
         <mark key="." line="16" column="32" />
         <mark key="[" line="16" column="31" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
+        <mark key="[" line="9" column="47" />
       </file>
     </filemarks>
     <jumps>
@@ -94,11 +94,11 @@
       <jump line="2437" column="58" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
       <register name="&quot;" type="4">
         <text>cgong</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="4">
         <text>zhifucheng</text>
