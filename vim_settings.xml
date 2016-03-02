@@ -8,11 +8,17 @@
         <mark key="." line="26" column="27" />
         <mark key="[" line="26" column="26" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatAliPayWave/AndroidManifest.xml" timestamp="1456835480752">
+        <mark key="[" line="3" column="31" />
+      </file>
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" timestamp="1452578710412">
         <mark key="]" line="514" column="0" />
         <mark key="^" line="534" column="47" />
         <mark key="." line="514" column="0" />
         <mark key="[" line="514" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/settings.gradle" timestamp="1456819259700">
+        <mark key="[" line="2" column="24" />
       </file>
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452578296256">
         <mark key="'" line="2437" column="58" />
@@ -21,13 +27,7 @@
         <mark key="." line="2818" column="0" />
         <mark key="[" line="2818" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/settings.gradle" timestamp="1456819259700">
-        <mark key="[" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
-        <mark key="[" line="5" column="33" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1456833999494">
+      <file name="/Dummy.txt" timestamp="1456834542587">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/res/raw/default_workspace.xml" timestamp="1452578426644">
@@ -35,19 +35,13 @@
         <mark key="." line="85" column="0" />
         <mark key="[" line="85" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1456832142655">
+      <file name="/a.dummy" timestamp="1456835309277">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1456821423866">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Eclipse_workspace/OldMachineReform/automatUnionPay/AndroidManifest.xml" timestamp="1456400482864">
-        <mark key="[" line="3" column="31" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/MultiTrader/settings.gradle" timestamp="1456819894509">
-        <mark key="[" line="3" column="25" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/AndroidManifest.xml" timestamp="1456835470656">
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="5" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk`/automat3dianSdk`.iml" timestamp="1456831522179">
         <mark key="]" line="1" column="52" />
@@ -59,6 +53,20 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="45" />
         <mark key="[" line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
+        <mark key="[" line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1456821423866">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Eclipse_workspace/OldMachineReform/automatUnionPay/AndroidManifest.xml" timestamp="1456400482864">
+        <mark key="[" line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/MultiTrader/settings.gradle" timestamp="1456819894509">
+        <mark key="[" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
         <mark key="[" line="9" column="47" />
@@ -73,41 +81,41 @@
       <jump line="2437" column="58" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>build.gradle</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRhcmdldFNka1ZlcnNpb249IjE3IiAvPgo=</text>
       </register>
-      <register name="&quot;" type="4">
+      <register name="3" type="4">
         <text>`</text>
       </register>
       <register name="2" type="4">
         <text>`</text>
       </register>
-      <register name="1" type="4">
-        <text>`</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRhcmdldFNka1ZlcnNpb249IjE3IiAvPgo=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cGFnZSA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gRk5TVDoyMDEzLTEyLTI2IDE0LTFzdCBDb3Zlcml0eSBVcGRhdGUgU1RBUlQK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRhcmdldFNka1ZlcnNpb249IjE3IiAvPgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CX0K</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW5jbHVkZSAnOmFwcCcK</text>
+      </register>
+      <register name="4" type="4">
+        <text>build.gradle</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyByZWluaXRpYWxpemUgd2l0aCBpbnRlcm5hbCBkYXRhCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYi5kZWxldGUoVEFCTEVfRkFWT1JJVEVTLCBudWxsLCBudWxsKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYi5kZWxldGUoVEFCTEVfRkFWT1JJVEVTLCBudWxsLCBudWxsKTsK</text>
+        <text encoding="base64">Ly8gRk5TVDoyMDEzLTEyLTI2IDE0LTFzdCBDb3Zlcml0eSBVcGRhdGUgU1RBUlQK</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
