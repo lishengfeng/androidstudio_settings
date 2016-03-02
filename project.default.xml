@@ -40,7 +40,7 @@
       <component name="PropertiesComponent">
         <property name="android.project.structure.last.selected" value="SDK Location" />
         <property name="android.project.structure.proportion" value="0.15" />
-        <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+        <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
@@ -128,6 +128,12 @@
         <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
           <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
         </configuration>
+      </component>
+      <component name="SvnConfiguration">
+        <configuration>$USER_HOME$/.subversion</configuration>
+      </component>
+      <component name="VcsContentAnnotationSettings">
+        <option name="myLimit" value="2678400000" />
       </component>
       <component name="masterDetails">
         <states>
