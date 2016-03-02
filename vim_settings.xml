@@ -20,13 +20,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/settings.gradle" timestamp="1456819259700">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452578296256">
-        <mark key="'" line="2437" column="58" />
-        <mark key="]" line="2818" column="0" />
-        <mark key="^" line="2436" column="34" />
-        <mark key="." line="2818" column="0" />
-        <mark key="[" line="2818" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatQuickPassNew/AndroidManifest.xml" timestamp="1456887242385">
         <mark key="[" line="3" column="31" />
       </file>
@@ -76,6 +69,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/MultiTrader/settings.gradle" timestamp="1456819894509">
         <mark key="[" line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/res/layout/pay_layout.xml" timestamp="1456911499530">
+        <mark key="]" line="18" column="39" />
+        <mark key="^" line="18" column="39" />
+        <mark key="." line="18" column="39" />
+        <mark key="[" line="18" column="39" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/build.gradle" timestamp="1456909705162">
         <mark key="]" line="16" column="32" />
         <mark key="^" line="16" column="32" />
@@ -95,47 +94,47 @@
       <jump line="2437" column="58" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>cgong</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZVRyZWUoZGlyOiAnbGlicycsIGluY2x1ZGU6ICcqLmphcicpCg==</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">fQo=</text>
+      </register>
+      <register name="2" type="4">
+        <text>zhifucheng</text>
+      </register>
+      <register name="1" type="4">
+        <text>cgong</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cGFnZSA=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRhcmdldFNka1ZlcnNpb249IjE3IiAvPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRDb21tb24nKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRGcmFnbWVudDdpbmNoJykK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRVbmlvblBheScpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgZmlsZVRyZWUoZGlyOiAnbGlicycsIGluY2x1ZGU6ICcqLmphcicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
-      <register name="9" type="4">
-        <text>`</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRhcmdldFNka1ZlcnNpb249IjE3IiAvPgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>`</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRDb21tb24nKQo=</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text>cgong</text>
       </register>
     </registers>
     <search>
