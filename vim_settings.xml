@@ -23,16 +23,19 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatQuickPassNew/AndroidManifest.xml" timestamp="1456887242385">
         <mark key="[" line="3" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1456983284721">
+      <file name="/Dummy.txt" timestamp="1456987164850">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch3dian_newUI/src/com/bcl/automat/AutomatActivity.java" timestamp="1456986951268">
+        <mark key="]" line="242" column="71" />
+        <mark key="^" line="242" column="71" />
+        <mark key="." line="242" column="71" />
+        <mark key="[" line="242" column="72" />
       </file>
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/res/raw/default_workspace.xml" timestamp="1452578426644">
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
         <mark key="[" line="85" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1456835309277">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch/build.gradle" timestamp="1456902183573">
         <mark key="]" line="16" column="0" />
@@ -117,46 +120,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>�</text>
+        <text>l</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXNkawogICAgICAgIGFuZHJvaWQ6bWluU2RrVmVyc2lvbj0iOCIgLz4K</text>
+      <register name="&quot;" type="4">
+        <text>drawable</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IOWPkemAgeaUtuWIsOmAmuefpeWbnuaJpyA=</text>
+        <text>e</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IOWPkemAgeafpeeci+WbnuaJpyA=</text>
+        <text>drawable</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLXNkawogICAgICAgIGFuZHJvaWQ6bWluU2RrVmVyc2lvbj0iOCIgLz4K</text>
+      <register name="0" type="4">
+        <text>anim</text>
       </register>
       <register name="7" type="4">
-        <text>�</text>
+        <text>a</text>
       </register>
       <register name="6" type="4">
-        <text>Ͳ</text>
+        <text>w</text>
       </register>
       <register name="5" type="4">
-        <text>鿴</text>
+        <text>a</text>
       </register>
       <register name="4" type="4">
-        <text>�</text>
+        <text>b</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
       <register name="9" type="4">
-        <text>�</text>
+        <text>d</text>
       </register>
       <register name="8" type="4">
-        <text>�</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IOWPkemAgeafpeeci+WbnuaJpyA=</text>
+        <text>drawable</text>
       </register>
     </registers>
     <search>
