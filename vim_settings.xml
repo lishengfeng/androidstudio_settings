@@ -55,18 +55,30 @@
         <mark key="." line="16" column="45" />
         <mark key="[" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/org/androidpn/client/NotificationDetailsActivity.java" timestamp="1456969389673">
-        <mark key="]" line="84" column="21" />
-        <mark key="." line="84" column="21" />
-        <mark key="[" line="84" column="21" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatQrPay/AndroidManifest.xml" timestamp="1456970300169">
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFuJiSdk/AndroidManifest.xml" timestamp="1456968144413">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/org/androidpn/client/NotificationDetailsActivity.java" timestamp="1456970239330">
+        <mark key="]" line="84" column="20" />
+        <mark key="^" line="84" column="20" />
+        <mark key="." line="84" column="20" />
+        <mark key="[" line="84" column="20" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFuJiSdk/AndroidManifest.xml" timestamp="1456970293744">
         <mark key="]" line="5" column="36" />
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
         <mark key="[" line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/org/androidpn/client/NotificationPacketListener.java" timestamp="1456970232787">
+        <mark key="]" line="72" column="28" />
+        <mark key="^" line="72" column="28" />
+        <mark key="." line="72" column="28" />
+        <mark key="[" line="72" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1456821423866">
         <mark key="]" line="0" column="0" />
@@ -105,16 +117,16 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>鿴</text>
-      </register>
-      <register name="&quot;" type="4">
         <text>�</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDx1c2VzLXNkawogICAgICAgIGFuZHJvaWQ6bWluU2RrVmVyc2lvbj0iOCIgLz4K</text>
       </register>
       <register name="2" type="4">
-        <text>�</text>
+        <text encoding="base64">IOWPkemAgeaUtuWIsOmAmuefpeWbnuaJpyA=</text>
       </register>
       <register name="1" type="4">
-        <text>�</text>
+        <text encoding="base64">IOWPkemAgeafpeeci+WbnuaJpyA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDx1c2VzLXNkawogICAgICAgIGFuZHJvaWQ6bWluU2RrVmVyc2lvbj0iOCIgLz4K</text>
@@ -123,28 +135,28 @@
         <text>�</text>
       </register>
       <register name="6" type="4">
-        <text>�</text>
+        <text>Ͳ</text>
       </register>
       <register name="5" type="4">
-        <text>�</text>
+        <text>鿴</text>
       </register>
       <register name="4" type="4">
-        <text>Ͳ</text>
+        <text>�</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
       <register name="9" type="4">
-        <text>zhifucheng</text>
+        <text>�</text>
       </register>
       <register name="8" type="4">
-        <text>cgong</text>
+        <text>�</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
       </register>
       <register name="-" type="4">
-        <text>�</text>
+        <text encoding="base64">IOWPkemAgeafpeeci+WbnuaJpyA=</text>
       </register>
     </registers>
     <search>
