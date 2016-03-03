@@ -39,10 +39,10 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/AndroidManifest.xml" timestamp="1456835470656">
-        <mark key="]" line="6" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/AndroidManifest.xml" timestamp="1456968139676">
+        <mark key="]" line="5" column="36" />
         <mark key="." line="6" column="0" />
-        <mark key="[" line="5" column="33" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk`/automat3dianSdk`.iml" timestamp="1456831522179">
         <mark key="]" line="1" column="52" />
@@ -54,6 +54,11 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="45" />
         <mark key="[" line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFuJiSdk/AndroidManifest.xml" timestamp="1456968144413">
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
         <mark key="[" line="5" column="33" />
@@ -75,14 +80,14 @@
         <mark key="." line="18" column="39" />
         <mark key="[" line="18" column="39" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
+        <mark key="[" line="9" column="47" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/build.gradle" timestamp="1456909705162">
         <mark key="]" line="16" column="32" />
         <mark key="^" line="16" column="32" />
         <mark key="." line="16" column="32" />
         <mark key="[" line="16" column="31" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
-        <mark key="[" line="9" column="47" />
       </file>
     </filemarks>
     <jumps>
@@ -94,11 +99,11 @@
       <jump line="2437" column="58" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cgong</text>
-      </register>
       <register name="3" type="2">
         <text encoding="base64">fQo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDx1c2VzLXNkawogICAgICAgIGFuZHJvaWQ6bWluU2RrVmVyc2lvbj0iOCIgLz4K</text>
       </register>
       <register name="2" type="4">
         <text>zhifucheng</text>
@@ -106,8 +111,8 @@
       <register name="1" type="4">
         <text>cgong</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">cGFnZSA=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDx1c2VzLXNkawogICAgICAgIGFuZHJvaWQ6bWluU2RrVmVyc2lvbj0iOCIgLz4K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRGcmFnbWVudDdpbmNoJykK</text>
