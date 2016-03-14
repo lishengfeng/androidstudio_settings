@@ -26,7 +26,7 @@
       <file name="/Dummy.txt" timestamp="1456990727417">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch3dian_newUI/src/com/bcl/automat/AutomatActivity.java" timestamp="1456986951268">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch3dian_newUI/src/com/bcl/automat/AutomatActivity.java" timestamp="1457938132967">
         <mark key="]" line="242" column="71" />
         <mark key="^" line="242" column="71" />
         <mark key="." line="242" column="71" />
@@ -77,16 +77,16 @@
       <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
         <mark key="[" line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1456821423866">
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/org/androidpn/client/NotificationPacketListener.java" timestamp="1456970232787">
         <mark key="]" line="72" column="28" />
         <mark key="^" line="72" column="28" />
         <mark key="." line="72" column="28" />
         <mark key="[" line="72" column="28" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1456821423866">
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Eclipse_workspace/OldMachineReform/automatUnionPay/AndroidManifest.xml" timestamp="1456400482864">
         <mark key="[" line="3" column="31" />
@@ -100,14 +100,14 @@
         <mark key="." line="18" column="39" />
         <mark key="[" line="18" column="39" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
+        <mark key="[" line="9" column="47" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/build.gradle" timestamp="1456909705162">
         <mark key="]" line="16" column="32" />
         <mark key="^" line="16" column="32" />
         <mark key="." line="16" column="32" />
         <mark key="[" line="16" column="31" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
-        <mark key="[" line="9" column="47" />
       </file>
     </filemarks>
     <jumps>
@@ -119,11 +119,11 @@
       <jump line="2437" column="58" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>drawable</text>
-      </register>
       <register name="3" type="4">
         <text>l</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>drawable</text>
       </register>
       <register name="2" type="4">
         <text>e</text>
