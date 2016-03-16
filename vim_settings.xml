@@ -26,7 +26,8 @@
         <mark key="." line="242" column="71" />
         <mark key="[" line="242" column="72" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/cn/com/bcl/maintenance/service/MaintenanceService.java" timestamp="1458118000082">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/cn/com/bcl/maintenance/service/MaintenanceService.java" timestamp="1458123494887">
+        <mark key="'" line="4664" column="45" />
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
         <mark key="[" line="132" column="0" />
@@ -137,6 +138,7 @@
       <jump line="152" column="33" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/org/androidpn/client/NotificationReceiver.java" />
       <jump line="30" column="0" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/cn/com/bcl/common/CommonWebServiceAPI.java" />
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inch_v1/res/layout/pay32_layout.xml" />
+      <jump line="4664" column="45" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/cn/com/bcl/maintenance/service/MaintenanceService.java" />
     </jumps>
     <registers>
       <register name="3" type="4">
