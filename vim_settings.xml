@@ -66,6 +66,9 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/cn/com/bcl/common/CommonWebServiceAPI.java" timestamp="1458023690738">
         <mark key="'" line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inch_v1/res/layout/pay32_layout.xml" timestamp="1458099036658">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/res/layout/pay_layout.xml" timestamp="1456911499530">
         <mark key="]" line="18" column="39" />
         <mark key="^" line="18" column="39" />
@@ -75,7 +78,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatAliPayWave/AndroidManifest.xml" timestamp="1456887225150">
         <mark key="[" line="3" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1458098504798">
+      <file name="/Dummy.txt" timestamp="1458098689352">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/res/raw/default_workspace.xml" timestamp="1452578426644">
@@ -122,6 +125,7 @@
       <jump line="2437" column="58" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
       <jump line="152" column="33" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/org/androidpn/client/NotificationReceiver.java" />
       <jump line="30" column="0" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/cn/com/bcl/common/CommonWebServiceAPI.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inch_v1/res/layout/pay32_layout.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -161,16 +165,16 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>call webservice</text>
+        <text>goods_pic</text>
       </register>
       <register name="-" type="4">
         <text>drawable</text>
       </register>
     </registers>
     <search>
-      <last-search>call webservice</last-search>
+      <last-search>goods_pic</last-search>
       <last-offset />
-      <last-pattern>call webservice</last-pattern>
+      <last-pattern>goods_pic</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -182,6 +186,7 @@
         <entry>aaaa</entry>
         <entry>download</entry>
         <entry>call webservice</entry>
+        <entry>goods_pic</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlbGVjdGlvbignZicp</entry>
