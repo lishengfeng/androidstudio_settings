@@ -118,4 +118,17 @@
       </list>
     </option>
   </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="http://192.9.230.249:81/svn/AutomatProject">
+          <value>
+            <set>
+              <option value="$USER_HOME$/AndroidStudioProjects/AutomatProject_test" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </application>
