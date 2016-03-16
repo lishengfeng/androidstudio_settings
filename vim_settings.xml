@@ -26,6 +26,11 @@
         <mark key="." line="242" column="71" />
         <mark key="[" line="242" column="72" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/cn/com/bcl/maintenance/service/MaintenanceService.java" timestamp="1458118000082">
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+        <mark key="[" line="132" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/AndroidManifest.xml" timestamp="1456968139676">
         <mark key="]" line="5" column="36" />
         <mark key="." line="6" column="0" />
@@ -134,41 +139,41 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inch_v1/res/layout/pay32_layout.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>drawable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIHN0b3JlR29vZHNQaWNQYXRoID0gIi9tbnQvc2RjYXJkL0dvb2RzUGljLyI7IC8vIOWVhuWTgeWbvueJh+WtmOWCqOWcsOWdgAo=</text>
       </register>
       <register name="3" type="4">
-        <text>l</text>
-      </register>
-      <register name="2" type="4">
         <text>e</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>drawable</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIHN0b3JlR29vZHNQaWNQYXRoID0gIi9tbnQvc2RjYXJkL0dvb2RzUGljLyI7IC8vIOWVhuWTgeWbvueJh+WtmOWCqOWcsOWdgAo=</text>
       </register>
       <register name="0" type="4">
         <text>anim</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
-      </register>
-      <register name="6" type="4">
         <text>w</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>a</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>b</text>
+      </register>
+      <register name="4" type="4">
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>goods_pic</text>
