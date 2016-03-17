@@ -32,7 +32,6 @@
         <mark key="." line="132" column="0" />
         <mark key="[" line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/src/com/bcl/automat/SerialPortSDK.java" timestamp="1458205309346" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/AndroidManifest.xml" timestamp="1456968139676">
         <mark key="]" line="5" column="36" />
         <mark key="." line="6" column="0" />
@@ -43,7 +42,6 @@
         <mark key="." line="1" column="52" />
         <mark key="[" line="1" column="52" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/src/com/bcl/payctrl/PayCtrlSDK.java" timestamp="1458214682281" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatQrPay/AndroidManifest.xml" timestamp="1456970300169">
         <mark key="]" line="5" column="36" />
         <mark key="." line="4" column="0" />
@@ -60,7 +58,6 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/src/com/bcl/automat/AutomatActivity.java" timestamp="1458214725887" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/Activity7Fragment.java" timestamp="1458214513304">
         <mark key="]" line="30" column="22" />
         <mark key="^" line="30" column="22" />
@@ -69,12 +66,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/.idea/vcs.xml" timestamp="1458105577095">
         <mark key="[" line="3" column="31" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1458212536830">
-        <mark key="]" line="3" column="8" />
-        <mark key="^" line="3" column="95" />
-        <mark key="." line="3" column="8" />
-        <mark key="[" line="3" column="8" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/org/androidpn/client/NotificationPacketListener.java" timestamp="1456970232787">
         <mark key="]" line="72" column="28" />
@@ -97,11 +88,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatAliPayWave/AndroidManifest.xml" timestamp="1456887225150">
         <mark key="[" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/build.gradle" timestamp="1458214986945">
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="3" column="3" />
-        <mark key="." line="7" column="0" />
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/build.gradle" timestamp="1458216421772">
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="[" line="12" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1458122799624">
         <mark key="[" line="0" column="0" />
@@ -116,8 +106,6 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatUnionPay/src/com/bcl/qrpay/QRPaySDK.java" timestamp="1458214595895" />
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatGuideNew/src/cn/com/bcl/guide/service/guideService.java" timestamp="1458211792656" />
       <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automat7inch/project.properties" timestamp="1456818767693">
         <mark key="]" line="16" column="45" />
         <mark key="^" line="16" column="45" />
@@ -130,7 +118,6 @@
       <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
         <mark key="[" line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch/src/com/bcl/automat/SerialPortSDK.java" timestamp="1458204789866" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/build.gradle" timestamp="1458214993289">
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -142,11 +129,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/MultiTrader/settings.gradle" timestamp="1456819894509">
         <mark key="[" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/src/com/bcl/automat/AutomatApplication.java" timestamp="1458214638951" />
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatUnionPay/build.gradle" timestamp="1458214975321">
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
+        <mark key="[" line="9" column="47" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/build.gradle" timestamp="1456909705162">
         <mark key="]" line="16" column="32" />
@@ -154,8 +138,10 @@
         <mark key="." line="16" column="32" />
         <mark key="[" line="16" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
-        <mark key="[" line="9" column="47" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatUnionPay/build.gradle" timestamp="1458214975321">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -172,32 +158,32 @@
       <jump line="134" column="51" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/cn/com/bcl/maintenance/service/MaintenanceService.java" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRDb21tb24nKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZmF1bHRDb25maWcgewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRDb21tb24nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6YXV0b21hdFVuaW9uUGF5JykKICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRGcmFnbWVudDdpbmNoJykK</text>
+        <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZWQgdHJ1ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRDb21tb24nKQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAgIGNvbXBpbGUgZmlsZVRyZWUoZGlyOiAnbGlicycsIGluY2x1ZGU6ICcqLmphcicpCi8vICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRDb21tb24nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6YXV0b21hdEZyYWdtZW50N2luY2gnKQogICAgY29tcGlsZSBwcm9qZWN0KCc6YXV0b21hdFVuaW9uUGF5JykKfQo=</text>
       </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRDb21tb24nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6YXV0b21hdFVuaW9uUGF5JykKICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRGcmFnbWVudDdpbmNoJykK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRDb21tb24nKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
@@ -206,7 +192,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>goods_pic</text>
