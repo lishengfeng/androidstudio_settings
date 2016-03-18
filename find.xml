@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'asm_qcom_service'" />
-    <option name="defaultScopeName" value="Project 'asm_qcom_service'" />
-    <option name="SEARCH_SCOPE" value="Project 'asm_qcom_service'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="customScope" value="Project 'AutomatProject'" />
+    <option name="defaultScopeName" value="Project 'AutomatProject'" />
+    <option name="SEARCH_SCOPE" value="Project 'AutomatProject'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
