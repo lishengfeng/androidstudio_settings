@@ -96,17 +96,18 @@
         <mark key="." line="7" column="0" />
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1458266812002">
-        <mark key="]" line="0" column="7" />
+      <file name="/Dummy.txt" timestamp="1458277108378">
+        <mark key="]" line="0" column="8" />
         <mark key="^" line="0" column="7" />
-        <mark key="." line="0" column="7" />
+        <mark key="." line="0" column="8" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/res/raw/default_workspace.xml" timestamp="1452578426644">
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
         <mark key="[" line="85" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1458270482800">
+      <file name="/a.dummy" timestamp="1458277233091">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch/build.gradle" timestamp="1456902183573">
@@ -126,11 +127,11 @@
       <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
         <mark key="[" line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/PicFragment.java" timestamp="1458272098139">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/PicFragment.java" timestamp="1458277386863">
         <mark key="]" line="219" column="0" />
-        <mark key="^" line="218" column="7" />
+        <mark key="^" line="220" column="28" />
         <mark key="." line="219" column="0" />
-        <mark key="[" line="218" column="9" />
+        <mark key="[" line="219" column="0" />
         <mark key="i" line="40" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/build.gradle" timestamp="1458214993289">
@@ -175,7 +176,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Ly/lpoLmnpzkuIPlr7jop6bmkbjlsY8K</text>
       </register>
       <register name="3" type="4">
         <text>0</text>
@@ -184,7 +185,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">Ly/lpoLmnpzkuIPlr7jop6bmkbjlsY8K</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGludCBtVHlwZTsK</text>
@@ -274,6 +275,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
