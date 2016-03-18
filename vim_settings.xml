@@ -16,6 +16,7 @@
         <mark key="." line="514" column="0" />
         <mark key="[" line="514" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatGuideNew/src/cn/com/bcl/guide/common/CommonDefine.java" timestamp="1458282384913" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatUnionPay/src/com/bcl/alipay/AliPayWaveSDK.java" timestamp="1458279855255" />
       <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/settings.gradle" timestamp="1456819259700">
         <mark key="[" line="2" column="24" />
@@ -78,6 +79,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/.idea/vcs.xml" timestamp="1458105577095">
         <mark key="[" line="3" column="31" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1458283622372">
+        <mark key="]" line="3" column="33" />
+        <mark key="^" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+        <mark key="[" line="3" column="34" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/org/androidpn/client/NotificationPacketListener.java" timestamp="1456970232787">
         <mark key="]" line="72" column="28" />
         <mark key="^" line="72" column="28" />
@@ -115,7 +122,7 @@
         <mark key="." line="85" column="0" />
         <mark key="[" line="85" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1458279710489">
+      <file name="/a.dummy" timestamp="1458282287451">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch/build.gradle" timestamp="1456902183573">
@@ -130,18 +137,20 @@
         <mark key="." line="16" column="45" />
         <mark key="[" line="13" column="17" />
       </file>
+      <file name="/fragment.java" timestamp="1458282013390">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/.idea/vcs.xml" timestamp="1458104671341">
         <mark key="[" line="3" column="31" />
       </file>
       <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
         <mark key="[" line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/PicFragment.java" timestamp="1458278152457">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/PicFragment.java" timestamp="1458282759307">
         <mark key="'" line="382" column="0" />
-        <mark key="]" line="81" column="50" />
-        <mark key="^" line="81" column="50" />
-        <mark key="." line="81" column="50" />
-        <mark key="[" line="81" column="34" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="[" line="51" column="0" />
         <mark key="i" line="40" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/build.gradle" timestamp="1458214993289">
@@ -187,46 +196,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>, ':automatBreakdown', ':automatAliPayWave', ':automatCommonCore', ':automatFuJiSdk', ':automatFragment7inchKubota', ':automatCore', ':automatQrPay', ':automatQuickPassNew', ':automat3dianSdk', ':automat32inch_v1', ':automatFragment32inch_v1'</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="4">
-        <text>p</text>
+        <text>, ':automatBreakdown', ':automatAliPayWave', ':automatCommonCore', ':automatFuJiSdk', ':automatFragment7inchKubota', ':automatCore', ':automatQrPay', ':automatQuickPassNew', ':automat3dianSdk', ':automat32inch_v1', ':automatFragment32inch_v1'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvL1BpY0ZyYWdtZW50IGZyZyA9IG5ldyBQaWNGcmFnbWVudChhdXRvbWF0LCBoYW5kbGVyLCAwLCB0eXBlKTsgLy8g6Kem5bGPCg==</text>
+        <text encoding="base64">Ly9pbmNsdWRlICc6YXV0b21hdDdpbmNoJywgJzphdXRvbWF0Q29tbW9uJywgJzphdXRvbWF0RnJhZ21lbnQ3aW5jaCcsICc6YXV0b21hdFVuaW9uUGF5JywgJzphdXRvbWF0N2luY2gzZGlhblRvdWNoJywgJzphdXRvbWF0RnJhZ21lbnRIQ29mZmVlJywgJzphdXRvbWF0R3VpZGVOZXcnLCAnOmF1dG9tYXRNYWludGVuYW5jZTNkaWFuJywgJzphdXRvbWF0QnJlYWtkb3duJywgJzphdXRvbWF0QWxpUGF5V2F2ZScsICc6YXV0b21hdENvbW1vbkNvcmUnLCAnOmF1dG9tYXRGdUppU2RrJywgJzphdXRvbWF0RnJhZ21lbnQ3aW5jaEt1Ym90YScsICc6YXV0b21hdENvcmUnLCAnOmF1dG9tYXRRclBheScsICc6YXV0b21hdFF1aWNrUGFzc05ldycsICc6YXV0b21hdDNkaWFuU2RrJywgJzphdXRvbWF0MzJpbmNoX3YxJywgJzphdXRvbWF0RnJhZ21lbnQzMmluY2hfdjEnCg==</text>
       </register>
       <register name="7" type="4">
-        <text>u</text>
+        <text>N</text>
       </register>
       <register name="6" type="4">
         <text>e</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
+        <text>w</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>d</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>goods_pic</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>, ':automatBreakdown', ':automatAliPayWave', ':automatCommonCore', ':automatFuJiSdk', ':automatFragment7inchKubota', ':automatCore', ':automatQrPay', ':automatQuickPassNew', ':automat3dianSdk', ':automat32inch_v1', ':automatFragment32inch_v1'</text>
       </register>
     </registers>
     <search>
