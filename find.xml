@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'AutomatProject'" />
-    <option name="defaultScopeName" value="Project 'AutomatProject'" />
-    <option name="SEARCH_SCOPE" value="Project 'AutomatProject'" />
+    <option name="customScope" value="Module 'automatFragment7inch'" />
+    <option name="defaultScopeName" value="Module 'automatFragment7inch'" />
+    <option name="SEARCH_SCOPE" value="Module 'automatFragment7inch'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
