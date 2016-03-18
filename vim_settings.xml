@@ -1,7 +1,9 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks />
+    <globalmarks>
+      <mark key="T" line="40" column="12" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/PicFragment.java" />
+    </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/AndroidManifest.xml" timestamp="1452578434678">
         <mark key="]" line="26" column="27" />
@@ -73,7 +75,6 @@
         <mark key="." line="72" column="28" />
         <mark key="[" line="72" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/res/layout/pic_layout.xml" timestamp="1458269735490" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/cn/com/bcl/common/CommonWebServiceAPI.java" timestamp="1458023690738">
         <mark key="'" line="30" column="0" />
       </file>
@@ -104,7 +105,7 @@
         <mark key="." line="85" column="0" />
         <mark key="[" line="85" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1458270044250">
+      <file name="/a.dummy" timestamp="1458270482800">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch/build.gradle" timestamp="1456902183573">
@@ -124,11 +125,12 @@
       <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
         <mark key="[" line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/PicFragment.java" timestamp="1458270094861">
-        <mark key="]" line="220" column="10" />
-        <mark key="^" line="220" column="10" />
-        <mark key="." line="220" column="10" />
-        <mark key="[" line="220" column="11" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/PicFragment.java" timestamp="1458271472445">
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="i" line="40" column="11" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/build.gradle" timestamp="1458214993289">
         <mark key="]" line="4" column="0" />
@@ -141,8 +143,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/MultiTrader/settings.gradle" timestamp="1456819894509">
         <mark key="[" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
-        <mark key="[" line="9" column="47" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatUnionPay/build.gradle" timestamp="1458214975321">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/build.gradle" timestamp="1456909705162">
         <mark key="]" line="16" column="32" />
@@ -150,10 +154,8 @@
         <mark key="." line="16" column="32" />
         <mark key="[" line="16" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatUnionPay/build.gradle" timestamp="1458214975321">
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
+        <mark key="[" line="9" column="47" />
       </file>
     </filemarks>
     <jumps>
@@ -171,47 +173,47 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>mType</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIENsb3NlUGFpcignKScpCg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGludCBtVHlwZTsK</text>
+      </register>
+      <register name="2" type="4">
+        <text>mType</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludCA7Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAgIGNvbXBpbGUgZmlsZVRyZWUoZGlyOiAnbGlicycsIGluY2x1ZGU6ICcqLmphcicpCi8vICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRDb21tb24nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6YXV0b21hdEZyYWdtZW50N2luY2gnKQogICAgY29tcGlsZSBwcm9qZWN0KCc6YXV0b21hdFVuaW9uUGF5JykKfQo=</text>
+        <text encoding="base64">ICAgIGludCBtVHlwZTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZWQgdHJ1ZQo=</text>
+      <register name="7" type="4">
+        <text>p</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="6" type="4">
+        <text>e</text>
       </register>
-      <register name="5" type="4">
-        <text>t</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
+        <text encoding="base64">QFN1cHByZXNzTGludCh7ICJWYWxpZEZyYWdtZW50IiwgIk5ld0FwaSIgfSkKcHVibGljIGNsYXNzIFBpY0ZyYWdtZW50IGV4dGVuZHMgRnJhZ21lbnQgewogICAgcHVibGljIFN0cmluZyBUQUcgPSAiUGljRnJhZ21lbnQiOwogICAgVmlldyBtVndMYXlvdXQgPSBudWxsOwogICAgcHVibGljIExpc3Q8U3RyaW5nPiBwaWNMaXN0OwogICAgQ29udGV4dCBjb250ZXh0OwogICAgSGFuZGxlciBtSGFuZGxlcjsKICAgIGludCBtVHlwZQ==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRDb21tb24nKQo=</text>
+      <register name="9" type="4">
+        <text>T</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRDb25maWcgewo=</text>
+      <register name="8" type="4">
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>goods_pic</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>mType</text>
       </register>
     </registers>
     <search>
@@ -232,8 +234,8 @@
         <entry>goods_pic</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlbGVjdGlvbignZicp</entry>
         <entry>w!</entry>
+        <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlbGVjdGlvbignZicp</entry>
       </history-cmd>
       <history-expr />
       <history-input />
