@@ -79,11 +79,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/.idea/vcs.xml" timestamp="1458105577095">
         <mark key="[" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1458284481512">
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="2" column="1" />
-        <mark key="." line="1" column="0" />
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1458289229393">
+        <mark key="]" line="2" column="141" />
+        <mark key="^" line="2" column="115" />
+        <mark key="." line="2" column="141" />
+        <mark key="[" line="2" column="141" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/org/androidpn/client/NotificationPacketListener.java" timestamp="1456970232787">
         <mark key="]" line="72" column="28" />
@@ -137,6 +137,11 @@
       <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
         <mark key="[" line="5" column="33" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/build.gradle" timestamp="1458288554781">
+        <mark key="]" line="48" column="8" />
+        <mark key="." line="48" column="8" />
+        <mark key="[" line="46" column="31" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/PicFragment.java" timestamp="1458284891562">
         <mark key="'" line="382" column="0" />
         <mark key="]" line="51" column="0" />
@@ -188,46 +193,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text>/</text>
+        <text>1</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text>'</text>
       </register>
       <register name="1" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ3Jhc2hIYW5kbGVyIG1DcmFzaEhhbmRsZXI7Cg==</text>
+        <text encoding="base64">aW5jbHVkZSAnOmF1dG9tYXQ3aW5jaCcsICc6YXV0b21hdENvbW1vbicsICc6YXV0b21hdEZyYWdtZW50N2luY2gnLCAnOmF1dG9tYXRVbmlvblBheScsICc6YXV0b21hdDdpbmNoM2RpYW5Ub3VjaCcsICc6YXV0b21hdEZyYWdtZW50SENvZmZlZScsICc6YXV0b21hdEd1aWRlTmV3JywgJzphdXRvbWF0TWFpbnRlbmFuY2UzZGlhbicsICc6YXV0b21hdEJyZWFrZG93bicsICc6YXV0b21hdEFsaVBheVdhdmUnLCAnOmF1dG9tYXRDb21tb25Db3JlJywgJzphdXRvbWF0RnVKaVNkaycsICc6YXV0b21hdEZyYWdtZW50N2luY2hLdWJvdGEnLCAnOmF1dG9tYXRDb3JlJywgJzphdXRvbWF0UXJQYXknLCAnOmF1dG9tYXRRdWlja1Bhc3NOZXcnLCAnOmF1dG9tYXQzZGlhblNkaycsICc6YXV0b21hdDMyaW5jaF92MScsICc6YXV0b21hdEZyYWdtZW50MzJpbmNoX3YxJwo=</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>c</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5TaGFyZWRQcmVmZXJlbmNlczsK</text>
+      <register name="6" type="4">
+        <text>h</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuY29udGVudC5wbS5QYWNrYWdlTWFuYWdlci5OYW1lTm90Rm91bmRFeGNlcHRpb247Cg==</text>
+      <register name="5" type="4">
+        <text>_</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text>v</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>goods_pic</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
