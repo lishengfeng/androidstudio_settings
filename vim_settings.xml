@@ -129,10 +129,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/MultiTrader/settings.gradle" timestamp="1456819894509">
         <mark key="[" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatUnionPay/build.gradle" timestamp="1458214975321">
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
+        <mark key="[" line="9" column="47" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/build.gradle" timestamp="1456909705162">
         <mark key="]" line="16" column="32" />
@@ -140,8 +138,10 @@
         <mark key="." line="16" column="32" />
         <mark key="[" line="16" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
-        <mark key="[" line="9" column="47" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatUnionPay/build.gradle" timestamp="1458214975321">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -158,11 +158,11 @@
       <jump line="134" column="51" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/cn/com/bcl/maintenance/service/MaintenanceService.java" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRDb25maWcgewo=</text>
-      </register>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGRlZmF1bHRDb25maWcgewo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZWQgdHJ1ZQo=</text>
