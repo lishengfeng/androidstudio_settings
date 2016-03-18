@@ -88,13 +88,15 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatAliPayWave/AndroidManifest.xml" timestamp="1456887225150">
         <mark key="[" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/build.gradle" timestamp="1458265636947">
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/build.gradle" timestamp="1458267120291">
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="[" line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1458122799624">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1458266812002">
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/res/raw/default_workspace.xml" timestamp="1452578426644">
         <mark key="]" line="85" column="0" />
@@ -156,49 +158,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inch_v1/res/layout/pay32_layout.xml" />
       <jump line="4664" column="45" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/cn/com/bcl/maintenance/service/MaintenanceService.java" />
       <jump line="134" column="51" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/cn/com/bcl/maintenance/service/MaintenanceService.java" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHRDb25maWcgewo=</text>
+      <register name="3" type="4">
+        <text>)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZWQgdHJ1ZQo=</text>
+        <text encoding="base64">ICAgIENsb3NlUGFpcignKScpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVwZW5kZW5jaWVzIHsKICAgIGNvbXBpbGUgZmlsZVRyZWUoZGlyOiAnbGlicycsIGluY2x1ZGU6ICcqLmphcicpCi8vICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRDb21tb24nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6YXV0b21hdEZyYWdtZW50N2luY2gnKQogICAgY29tcGlsZSBwcm9qZWN0KCc6YXV0b21hdFVuaW9uUGF5JykKfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtdWx0aURleEVuYWJsZWQgdHJ1ZQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRDb21tb24nKQogICAgY29tcGlsZSBwcm9qZWN0KCc6YXV0b21hdFVuaW9uUGF5JykKICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRGcmFnbWVudDdpbmNoJykK</text>
+      <register name="5" type="4">
+        <text>t</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRDb21tb24nKQo=</text>
+      <register name="4" type="4">
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRDb21tb24nKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRlZmF1bHRDb25maWcgewo=</text>
       </register>
       <register name="/" type="4">
         <text>goods_pic</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
