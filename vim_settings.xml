@@ -34,7 +34,6 @@
         <mark key="." line="132" column="0" />
         <mark key="[" line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch/src/com/bcl/automat/BaseActivity.java" timestamp="1458296359446" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/AndroidManifest.xml" timestamp="1456968139676">
         <mark key="]" line="5" column="36" />
         <mark key="." line="6" column="0" />
@@ -105,7 +104,6 @@
         <mark key="." line="18" column="39" />
         <mark key="[" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch/build/intermediates/exploded-aar/AutomatProject/automatCommon/unspecified/res/values/values.xml" timestamp="1458296303803" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatAliPayWave/AndroidManifest.xml" timestamp="1456887225150">
         <mark key="[" line="3" column="31" />
       </file>
@@ -171,10 +169,8 @@
       <file name="$USER_HOME$/AndroidStudioProjects/MultiTrader/settings.gradle" timestamp="1456819894509">
         <mark key="[" line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatUnionPay/build.gradle" timestamp="1458214975321">
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
+        <mark key="[" line="9" column="47" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/build.gradle" timestamp="1456909705162">
         <mark key="]" line="16" column="32" />
@@ -182,8 +178,10 @@
         <mark key="." line="16" column="32" />
         <mark key="[" line="16" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
-        <mark key="[" line="9" column="47" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatUnionPay/build.gradle" timestamp="1458214975321">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -203,10 +201,10 @@
       <jump line="0" column="4" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/res/layout/pic_layout.xml" />
     </jumps>
     <registers>
-      <register name="3" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
