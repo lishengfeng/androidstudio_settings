@@ -1,7 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Module 'automatFragment7inch'" />
     <option name="defaultScopeName" value="Module 'automatFragment7inch'" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'automatFragment7inch'" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
