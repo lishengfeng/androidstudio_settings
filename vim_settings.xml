@@ -98,12 +98,12 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inch_v1/res/layout/pay32_layout.xml" timestamp="1458624904189">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inch_v1/res/layout/pay32_layout.xml" timestamp="1458625712552">
         <mark key="'" line="1" column="44" />
-        <mark key="]" line="222" column="51" />
-        <mark key="^" line="222" column="51" />
-        <mark key="." line="222" column="51" />
-        <mark key="[" line="222" column="44" />
+        <mark key="]" line="89" column="0" />
+        <mark key="^" line="22" column="47" />
+        <mark key="." line="89" column="0" />
+        <mark key="[" line="89" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/res/layout/pay_layout.xml" timestamp="1456911499530">
         <mark key="]" line="18" column="39" />
@@ -170,6 +170,12 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inch_v1/res/values/strings.xml" timestamp="1458625624148">
+        <mark key="]" line="3" column="24" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="[" line="3" column="5" />
+      </file>
       <file name="$USER_HOME$/Eclipse_workspace/OldMachineReform/automatUnionPay/AndroidManifest.xml" timestamp="1456400482864">
         <mark key="[" line="3" column="31" />
       </file>
@@ -210,41 +216,41 @@
       <jump line="1" column="44" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inch_v1/res/layout/pay32_layout.xml" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25Ub3A9IkAraWQvc3BlY3MiCg==</text>
-      </register>
-      <register name="&quot;" type="4">
+      <register name="3" type="4">
         <text>invalid layout delete</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfdG9SaWdodE9mPSJAK2lkL3NwZWNzIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSIiCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>invalid layout delete</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSIiCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW5jbHVkZSAnOmF1dG9tYXQ3aW5jaCcsICc6YXV0b21hdENvbW1vbicsICc6YXV0b21hdEZyYWdtZW50N2luY2gnLCAnOmF1dG9tYXRVbmlvblBheScsICc6YXV0b21hdDdpbmNoM2RpYW5Ub3VjaCcsICc6YXV0b21hdEZyYWdtZW50SENvZmZlZScsICc6YXV0b21hdEd1aWRlTmV3JywgJzphdXRvbWF0TWFpbnRlbmFuY2UzZGlhbicsICc6YXV0b21hdEJyZWFrZG93bicsICc6YXV0b21hdEFsaVBheVdhdmUnLCAnOmF1dG9tYXRDb21tb25Db3JlJywgJzphdXRvbWF0RnVKaVNkaycsICc6YXV0b21hdEZyYWdtZW50N2luY2hLdWJvdGEnLCAnOmF1dG9tYXRDb3JlJywgJzphdXRvbWF0UXJQYXknLCAnOmF1dG9tYXRRdWlja1Bhc3NOZXcnLCAnOmF1dG9tYXQzZGlhblNkaycsICc6YXV0b21hdDMyaW5jaF92MScsICc6YXV0b21hdEZyYWdtZW50MzJpbmNoX3YxJwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvUmVsYXRpdmVMYXlvdXQ+Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>wrap_cont</text>
-      </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>ent</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>wrap_content</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfYWxpZ25Ub3A9IkAraWQvc3BlY3MiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfdG9SaWdodE9mPSJAK2lkL3NwZWNzIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
-      <register name="9" type="4">
-        <text>'</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDwvUmVsYXRpdmVMYXlvdXQ+Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>wrap_cont</text>
       </register>
       <register name="/" type="4">
         <text>textViewStyle</text>
