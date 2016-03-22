@@ -80,11 +80,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/.idea/vcs.xml" timestamp="1458105577095">
         <mark key="[" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1458289229393">
-        <mark key="]" line="2" column="141" />
-        <mark key="^" line="2" column="115" />
-        <mark key="." line="2" column="141" />
-        <mark key="[" line="2" column="141" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1458615039735">
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/org/androidpn/client/NotificationPacketListener.java" timestamp="1456970232787">
         <mark key="]" line="72" column="28" />
@@ -98,11 +98,8 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inch_v1/res/layout/pay32_layout.xml" timestamp="1458613378365">
-        <mark key="]" line="216" column="37" />
-        <mark key="^" line="216" column="36" />
-        <mark key="." line="216" column="37" />
-        <mark key="[" line="216" column="36" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inch_v1/res/layout/pay32_layout.xml" timestamp="1458614653678">
+        <mark key="'" line="1" column="44" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/res/layout/pay_layout.xml" timestamp="1456911499530">
         <mark key="]" line="18" column="39" />
@@ -205,55 +202,57 @@
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="382" column="0" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/PicFragment.java" />
       <jump line="0" column="4" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/res/layout/pic_layout.xml" />
+      <jump line="6" column="4" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inch_v1/res/layout/pay32_layout.xml" />
+      <jump line="1" column="44" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inch_v1/res/layout/pay32_layout.xml" />
     </jumps>
     <registers>
       <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>/</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW5jbHVkZSAnOmF1dG9tYXQ3aW5jaCcsICc6YXV0b21hdENvbW1vbicsICc6YXV0b21hdEZyYWdtZW50N2luY2gnLCAnOmF1dG9tYXRVbmlvblBheScsICc6YXV0b21hdDdpbmNoM2RpYW5Ub3VjaCcsICc6YXV0b21hdEZyYWdtZW50SENvZmZlZScsICc6YXV0b21hdEd1aWRlTmV3JywgJzphdXRvbWF0TWFpbnRlbmFuY2UzZGlhbicsICc6YXV0b21hdEJyZWFrZG93bicsICc6YXV0b21hdEFsaVBheVdhdmUnLCAnOmF1dG9tYXRDb21tb25Db3JlJywgJzphdXRvbWF0RnVKaVNkaycsICc6YXV0b21hdEZyYWdtZW50N2luY2hLdWJvdGEnLCAnOmF1dG9tYXRDb3JlJywgJzphdXRvbWF0UXJQYXknLCAnOmF1dG9tYXRRdWlja1Bhc3NOZXcnLCAnOmF1dG9tYXQzZGlhblNkaycsICc6YXV0b21hdDMyaW5jaF92MScsICc6YXV0b21hdEZyYWdtZW50MzJpbmNoX3YxJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Igo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIiA+Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">PC9MaW5lYXJMYXlvdXQ+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PExpbmVhckxheW91dAo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50Igo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIiA+Cg==</text>
       </register>
       <register name="/" type="4">
-        <text>goods_pic</text>
+        <text>tools</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHhtbG5zOmFuZHJvaWQ9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL2Fway9yZXMvYW5kcm9pZCI=</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
-      <last-search>goods_pic</last-search>
+      <last-search>tools</last-search>
       <last-offset />
-      <last-pattern>goods_pic</last-pattern>
+      <last-pattern>tools</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -266,6 +265,7 @@
         <entry>download</entry>
         <entry>call webservice</entry>
         <entry>goods_pic</entry>
+        <entry>tools</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
