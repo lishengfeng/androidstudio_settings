@@ -98,7 +98,7 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inch_v1/res/layout/pay32_layout.xml" timestamp="1458614653678">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inch_v1/res/layout/pay32_layout.xml" timestamp="1458621112584">
         <mark key="'" line="1" column="44" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/res/layout/pay_layout.xml" timestamp="1456911499530">
@@ -243,16 +243,16 @@
         <text encoding="base64">ICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIiA+Cg==</text>
       </register>
       <register name="/" type="4">
-        <text>tools</text>
+        <text>textViewStyle</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
       </register>
     </registers>
     <search>
-      <last-search>tools</last-search>
+      <last-search>textViewStyle</last-search>
       <last-offset />
-      <last-pattern>tools</last-pattern>
+      <last-pattern>textViewStyle</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -266,6 +266,7 @@
         <entry>call webservice</entry>
         <entry>goods_pic</entry>
         <entry>tools</entry>
+        <entry>textViewStyle</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
