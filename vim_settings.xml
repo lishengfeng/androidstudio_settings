@@ -21,11 +21,11 @@
         <mark key="." line="6" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/VendingMachine/app/src/main/AndroidManifest.xml" timestamp="1458718262201">
-        <mark key="]" line="4" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/VendingMachine/app/src/main/AndroidManifest.xml" timestamp="1458719274899">
+        <mark key="]" line="23" column="42" />
         <mark key="^" line="2" column="28" />
-        <mark key="." line="4" column="0" />
-        <mark key="[" line="4" column="0" />
+        <mark key="." line="23" column="42" />
+        <mark key="[" line="23" column="42" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatQrPay/AndroidManifest.xml" timestamp="1456970300169">
         <mark key="]" line="5" column="36" />
@@ -182,7 +182,7 @@
         <mark key="." line="3" column="24" />
         <mark key="[" line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch_v1/build.gradle" timestamp="1458630325898">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch_v1/build.gradle" timestamp="1458719469308">
         <mark key="]" line="20" column="17" />
         <mark key="^" line="20" column="17" />
         <mark key="." line="20" column="17" />
@@ -219,46 +219,46 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRhcmdldFNka1ZlcnNpb249IjE3IiAvPgo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgIDx1c2VzLXNkawo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="&quot;" type="4">
+        <text>AutomatActivity</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>AutomatActivity</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW5jbHVkZSAnOmF1dG9tYXQ3aW5jaCcsICc6YXV0b21hdENvbW1vbicsICc6YXV0b21hdEZyYWdtZW50N2luY2gnLCAnOmF1dG9tYXRVbmlvblBheScsICc6YXV0b21hdDdpbmNoM2RpYW5Ub3VjaCcsICc6YXV0b21hdEZyYWdtZW50SENvZmZlZScsICc6YXV0b21hdEd1aWRlTmV3JywgJzphdXRvbWF0TWFpbnRlbmFuY2UzZGlhbicsICc6YXV0b21hdEJyZWFrZG93bicsICc6YXV0b21hdEFsaVBheVdhdmUnLCAnOmF1dG9tYXRDb21tb25Db3JlJywgJzphdXRvbWF0RnVKaVNkaycsICc6YXV0b21hdEZyYWdtZW50N2luY2hLdWJvdGEnLCAnOmF1dG9tYXRDb3JlJywgJzphdXRvbWF0UXJQYXknLCAnOmF1dG9tYXRRdWlja1Bhc3NOZXcnLCAnOmF1dG9tYXQzZGlhblNkaycsICc6YXV0b21hdDMyaW5jaF92MScsICc6YXV0b21hdEZyYWdtZW50MzJpbmNoX3YxJwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6dmVyc2lvbkNvZGU9IjEiCg==</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">YW5kcm9pZDp2ZXJzaW9uTmFtZT0iMS4wIiA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjIzLjIuMScK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOm1pblNka1ZlcnNpb249IjE2Igo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRhcmdldFNka1ZlcnNpb249IjE3IiAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
-      <register name="9" type="4">
-        <text>a</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjYwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFjYwo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6dmVyc2lvbkNvZGU9IjEiCg==</text>
       </register>
       <register name="/" type="4">
         <text>textViewStyle</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kcm9pZDp2ZXJzaW9uTmFtZT0iMS4wIiA=</text>
+        <text>AutomatActivity</text>
       </register>
     </registers>
     <search>
