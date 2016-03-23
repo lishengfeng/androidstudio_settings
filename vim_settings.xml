@@ -19,6 +19,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/settings.gradle" timestamp="1456819259700">
         <mark key="[" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/android-mvvm-example/MVVM-Example/app/src/main/java/de/rheinfabrik/mvvm_example/activities/DetailsActivity.java" timestamp="1458713164176" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatQuickPassNew/AndroidManifest.xml" timestamp="1456887242385">
         <mark key="[" line="3" column="31" />
       </file>
@@ -28,13 +29,14 @@
         <mark key="." line="242" column="71" />
         <mark key="[" line="242" column="72" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/android-mvvm-example/MVVM-Example/app/src/main/java/de/rheinfabrik/mvvm_example/utils/rx/BindViewImmediate.java" timestamp="1458711982175" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/cn/com/bcl/maintenance/service/MaintenanceService.java" timestamp="1458290594546">
         <mark key="'" line="134" column="51" />
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
         <mark key="[" line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/android-mvvm-example/MVVM-Example/app/src/main/java/de/rheinfabrik/mvvm_example/activities/SearchActivity.java" timestamp="1458710676411" />
+      <file name="$USER_HOME$/AndroidStudioProjects/android-mvvm-example/MVVM-Example/app/src/main/java/de/rheinfabrik/mvvm_example/activities/SearchActivity.java" timestamp="1458712402091" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/AndroidManifest.xml" timestamp="1456968139676">
         <mark key="]" line="5" column="36" />
         <mark key="." line="6" column="0" />
@@ -93,6 +95,7 @@
         <mark key="." line="72" column="28" />
         <mark key="[" line="72" column="28" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/android-mvvm-example/MVVM-Example/app/src/main/AndroidManifest.xml" timestamp="1458712827177" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/res/layout/pic_layout.xml" timestamp="1458297766669">
         <mark key="'" line="0" column="4" />
         <mark key="]" line="1" column="0" />
@@ -115,6 +118,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatAliPayWave/AndroidManifest.xml" timestamp="1456887225150">
         <mark key="[" line="3" column="31" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/android-mvvm-example/MVVM-Example/app/src/main/java/de/rheinfabrik/mvvm_example/viewmodels/DetailsViewModel.java" timestamp="1458713214743" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/build.gradle" timestamp="1458632541300">
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
@@ -140,6 +144,7 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/android-mvvm-example/MVVM-Example/app/src/main/java/de/rheinfabrik/mvvm_example/network/models/SearchResult.java" timestamp="1458712618978" />
       <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automat7inch/project.properties" timestamp="1456818767693">
         <mark key="]" line="16" column="45" />
         <mark key="^" line="16" column="45" />
@@ -172,6 +177,7 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/android-mvvm-example/MVVM-Example/app/src/main/java/de/rheinfabrik/mvvm_example/viewmodels/SearchViewModel.java" timestamp="1458712029126" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch_v1/build.gradle" timestamp="1458630325898">
         <mark key="]" line="20" column="17" />
         <mark key="^" line="20" column="17" />
