@@ -89,11 +89,11 @@
         <mark key="." line="16" column="45" />
         <mark key="[" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/settings.gradle" timestamp="1458799697336">
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="8" column="0" />
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/settings.gradle" timestamp="1458804010084">
+        <mark key="]" line="10" column="143" />
+        <mark key="^" line="7" column="27" />
+        <mark key="." line="10" column="143" />
+        <mark key="[" line="10" column="143" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inch_v1/src/com/bcl/fragment/ActivityInputFragment.java" timestamp="1458799512668">
         <mark key="]" line="32" column="26" />
@@ -151,7 +151,12 @@
         <mark key="." line="26" column="20" />
         <mark key="[" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1458803127333" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1458804298194">
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="[" line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch3dian_newUI/src/com/bcl/automat/AutomatActivity.java" timestamp="1457938132967">
         <mark key="]" line="242" column="71" />
         <mark key="^" line="242" column="71" />
@@ -264,46 +269,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>, ':automatUnionPay', ':automat32inch_v1', ':automatFragment32inch_v1'</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text>'</text>
       </register>
       <register name="1" type="4">
-        <text>/</text>
+        <text>, ':automatUnionPay', ':automat32inch_v1', ':automatFragment32inch_v1'</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAnOmF1dG9tYXRVbmlvblBheScsICc6YXV0b21hdDMyaW5jaF92MScsICc6YXV0b21hdEZyYWdtZW50MzJpbmNoX3YxJw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly9hdXRvbWF0Q29yZQo=</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
-      </register>
-      <register name="6" type="4">
-        <text>s</text>
-      </register>
-      <register name="5" type="4">
         <text>i</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>e</text>
+      </register>
+      <register name="5" type="4">
+        <text>s</text>
+      </register>
+      <register name="4" type="4">
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>textViewStyle</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>, ':automatUnionPay', ':automat32inch_v1', ':automatFragment32inch_v1'</text>
       </register>
     </registers>
     <search>
