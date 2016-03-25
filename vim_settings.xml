@@ -118,12 +118,12 @@
         <mark key="." line="26" column="37" />
         <mark key="[" line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1458880417287">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1458881833940">
         <mark key="'" line="37" column="36" />
-        <mark key="]" line="71" column="50" />
-        <mark key="^" line="72" column="76" />
-        <mark key="." line="72" column="0" />
-        <mark key="[" line="71" column="21" />
+        <mark key="]" line="21" column="14" />
+        <mark key="^" line="21" column="14" />
+        <mark key="." line="21" column="14" />
+        <mark key="[" line="21" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -138,46 +138,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">T25GcmFnbWVudEludGVyYWN0aW9uTGlzdGVuZXIg</text>
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
+        <text>x</text>
       </register>
       <register name="2" type="4">
-        <text>i</text>
+        <text>t</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBVcGRhdGUgYXJndW1lbnQgdHlwZSBhbmQgbmFtZQo=</text>
+      <register name="1" type="4">
+        <text>t</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">T25GcmFnbWVudEludGVyYWN0aW9uTGlzdGVuZXIg</text>
+        <text>int fragmentId,int messageType,Bundle data</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>n</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>u</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0Vmlldy5zZXRUZXh0KFIuc3RyaW5nLmhlbGxvX2JsYW5rX2ZyYWdtZW50KTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">Y29udGV4dCA=</text>
       </register>
       <register name="8" type="4">
-        <text>U</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>t</text>
       </register>
     </registers>
     <search>
