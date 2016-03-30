@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" timestamp="1452578710412">
-        <mark key="]" line="514" column="0" />
-        <mark key="^" line="534" column="47" />
-        <mark key="." line="514" column="0" />
-        <mark key="[" line="514" column="0" />
-      </file>
       <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452578296256">
         <mark key="'" line="2437" column="58" />
         <mark key="]" line="2818" column="0" />
@@ -16,9 +10,24 @@
         <mark key="." line="2818" column="0" />
         <mark key="[" line="2818" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatQuickPassNew/AndroidManifest.xml" timestamp="1459348448841">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/AndroidManifest.xml" timestamp="1459348419721">
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/Main7Fragment.java" timestamp="1459343211756">
         <mark key="]" line="20" column="37" />
         <mark key="[" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/AndroidManifest.xml" timestamp="1459348389762">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1458880504041">
         <mark key="'" line="157" column="17" />
@@ -33,6 +42,11 @@
         <mark key="." line="18" column="11" />
         <mark key="[" line="18" column="18" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/AndroidManifest.xml" timestamp="1459348460809">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1459339269700">
         <mark key="'" line="56" column="5" />
         <mark key="]" line="18" column="0" />
@@ -40,11 +54,10 @@
         <mark key="." line="18" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PayIconFragment.java" timestamp="1459339252082">
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="17" column="40" />
-        <mark key="." line="14" column="0" />
-        <mark key="[" line="14" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatQrPay/AndroidManifest.xml" timestamp="1459348442200">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/AdFragment.java" timestamp="1459339312638">
         <mark key="'" line="47" column="8" />
@@ -53,11 +66,10 @@
         <mark key="." line="11" column="0" />
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFuJiSdk/AndroidManifest.xml" timestamp="1456928785781">
-        <mark key="]" line="4" column="24" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-        <mark key="[" line="3" column="31" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFuJiSdk/AndroidManifest.xml" timestamp="1459348433568">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="vcs.xml" timestamp="1459339868949">
         <mark key="[" line="0" column="0" />
@@ -75,23 +87,12 @@
         <mark key="." line="4" column="157" />
         <mark key="[" line="4" column="157" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1459346831382">
-        <mark key="]" line="5" column="14" />
-        <mark key="^" line="69" column="29" />
-        <mark key="." line="5" column="14" />
-        <mark key="[" line="5" column="14" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/LogoFragment.java" timestamp="1459339263068">
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="22" column="37" />
-        <mark key="." line="17" column="0" />
-        <mark key="[" line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PayFragment.java" timestamp="1459339225193">
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="26" column="36" />
-        <mark key="." line="22" column="0" />
-        <mark key="[" line="22" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1459348758315">
+        <mark key="'" line="61" column="31" />
+        <mark key="]" line="98" column="50" />
+        <mark key="^" line="98" column="50" />
+        <mark key="." line="98" column="50" />
+        <mark key="[" line="98" column="50" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/ActivitiesInput7KeyboardFragment.java" timestamp="1459343353756">
         <mark key="]" line="20" column="37" />
@@ -103,6 +104,16 @@
         <mark key="^" line="19" column="37" />
         <mark key="." line="15" column="0" />
         <mark key="[" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatAliPayWave/AndroidManifest.xml" timestamp="1459348398616">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCommonCore/build.gradle" timestamp="1459347850775">
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="[" line="10" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1459341889150">
         <mark key="[" line="0" column="0" />
@@ -124,9 +135,8 @@
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/build.gradle" timestamp="1459344371285">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/build.gradle" timestamp="1459347358872">
         <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="0" />
         <mark key="[" line="5" column="0" />
       </file>
@@ -140,17 +150,10 @@
         <mark key="." line="19" column="0" />
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PicFragment.java" timestamp="1459339205534">
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="33" column="36" />
-        <mark key="." line="31" column="0" />
-        <mark key="[" line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/SubMainFragment.java" timestamp="1459339241341">
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="17" column="40" />
-        <mark key="." line="12" column="0" />
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCommonCore/AndroidManifest.xml" timestamp="1459348384951">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Eclipse_workspace/OldMachineReform/automatUnionPay/AndroidManifest.xml" timestamp="1456400482864">
         <mark key="[" line="3" column="31" />
@@ -172,49 +175,50 @@
       <jump line="147" column="8" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/ActivityQrcodeFragment.java" />
       <jump line="68" column="15" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/ActivityInputFragment.java" />
       <jump line="103" column="20" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/ActivityFragment.java" />
+      <jump line="65" column="31" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQ7Cg==</text>
+      <register name="3" type="4">
+        <text>{</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.support.v4</text>
+        <text>;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQ7Cg==</text>
+      <register name="2" type="4">
+        <text>}</text>
       </register>
       <register name="1" type="4">
-        <text>.support.v4</text>
+        <text>;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly9pbmNsdWRlICc6YXV0b21hdDdpbmNoJywgJzphdXRvbWF0Q29tbW9uJywgJzphdXRvbWF0RnJhZ21lbnQ3aW5jaCcsICc6YXV0b21hdFVuaW9uUGF5JywgJzphdXRvbWF0N2luY2gzZGlhblRvdWNoJywgJzphdXRvbWF0RnJhZ21lbnRIQ29mZmVlJywgJzphdXRvbWF0R3VpZGVOZXcnLCAnOmF1dG9tYXRNYWludGVuYW5jZTNkaWFuJywgJzphdXRvbWF0QnJlYWtkb3duJywgJzphdXRvbWF0QWxpUGF5V2F2ZScsICc6YXV0b21hdENvbW1vbkNvcmUnLCAnOmF1dG9tYXRGdUppU2RrJywgJzphdXRvbWF0RnJhZ21lbnQ3aW5jaEt1Ym90YScsICc6YXV0b21hdENvcmUnLCAnOmF1dG9tYXRRclBheScsICc6YXV0b21hdFF1aWNrUGFzc05ldycsICc6YXV0b21hdDNkaWFuU2RrJywgJzphdXRvbWF0MzJpbmNoX3YxJywgJzphdXRvbWF0RnJhZ21lbnQzMmluY2hfdjEnCg==</text>
+      <register name="0" type="4">
+        <text>BaseFragment frg,Message msg</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm1pblNka1ZlcnNpb249IjgiIC8+Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>, ':automatFragment32inch_v1'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICogVXNlIHRoZSB7QGxpbmsgQmFzZUZyYWdtZW50I25ld0luc3RhbmNlfSBmYWN0b3J5IG1ldGhvZCB0bwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQ7Cg==</text>
+        <text encoding="base64">ICogVXNlIHRoZSB7QGxpbmsgQmFzZUZyYWdtZW50I25ld0luc3RhbmNlfSBmYWN0b3J5IG1ldGhvZCB0bwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQ7Cg==</text>
+      <register name="4" type="4">
+        <text>*</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JzphdXRvbWF0M2RpYW5TZGsnLCA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOm1pblNka1ZlcnNpb249IjExIiAvPgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">JzphdXRvbWF0MzJpbmNoX3YxJywg</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDx1c2VzLXNkawo=</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
       </register>
       <register name="-" type="4">
-        <text>.support.v4</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
