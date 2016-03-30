@@ -115,10 +115,13 @@
         <mark key="." line="10" column="0" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1459341889150">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1459350038902">
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="[" line="0" column="7" />
       </file>
-      <file name="/a.dummy" timestamp="1456402017709">
+      <file name="/a.dummy" timestamp="1459350031083">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/ActivityFragment.java" timestamp="1459339347676">
