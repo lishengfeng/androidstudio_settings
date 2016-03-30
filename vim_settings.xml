@@ -75,11 +75,11 @@
         <mark key="." line="4" column="157" />
         <mark key="[" line="4" column="157" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1459339481435">
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="73" column="29" />
-        <mark key="." line="31" column="0" />
-        <mark key="[" line="31" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1459346831382">
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="69" column="29" />
+        <mark key="." line="5" column="14" />
+        <mark key="[" line="5" column="14" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/LogoFragment.java" timestamp="1459339263068">
         <mark key="]" line="17" column="0" />
@@ -174,47 +174,47 @@
       <jump line="103" column="20" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/ActivityFragment.java" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text encoding="base64">JzphdXRvbWF0MzJpbmNoX3YxJywg</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQ7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>, ':automatFragment32inch_v1'</text>
+        <text>.support.v4</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LCA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQ7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>, ':automatFragment32inch_v1'</text>
+        <text>.support.v4</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly9pbmNsdWRlICc6YXV0b21hdDdpbmNoJywgJzphdXRvbWF0Q29tbW9uJywgJzphdXRvbWF0RnJhZ21lbnQ3aW5jaCcsICc6YXV0b21hdFVuaW9uUGF5JywgJzphdXRvbWF0N2luY2gzZGlhblRvdWNoJywgJzphdXRvbWF0RnJhZ21lbnRIQ29mZmVlJywgJzphdXRvbWF0R3VpZGVOZXcnLCAnOmF1dG9tYXRNYWludGVuYW5jZTNkaWFuJywgJzphdXRvbWF0QnJlYWtkb3duJywgJzphdXRvbWF0QWxpUGF5V2F2ZScsICc6YXV0b21hdENvbW1vbkNvcmUnLCAnOmF1dG9tYXRGdUppU2RrJywgJzphdXRvbWF0RnJhZ21lbnQ3aW5jaEt1Ym90YScsICc6YXV0b21hdENvcmUnLCAnOmF1dG9tYXRRclBheScsICc6YXV0b21hdFF1aWNrUGFzc05ldycsICc6YXV0b21hdDNkaWFuU2RrJywgJzphdXRvbWF0MzJpbmNoX3YxJywgJzphdXRvbWF0RnJhZ21lbnQzMmluY2hfdjEnCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">JzphdXRvbWF0R3VpZGVOZXcnLCA=</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">JzphdXRvbWF0TWFpbnRlbmFuY2UzZGlhbicsIA==</text>
+        <text>, ':automatFragment32inch_v1'</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">JzphdXRvbWF0QnJlYWtkb3duJywg</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQ7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">JzphdXRvbWF0M2RpYW5TZGsnLCA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52NC5hcHAuRnJhZ21lbnQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">JzphdXRvbWF0N2luY2gzZGlhblRvdWNoJywg</text>
+        <text encoding="base64">JzphdXRvbWF0M2RpYW5TZGsnLCA=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">JzphdXRvbWF0RnJhZ21lbnRIQ29mZmVlJywg</text>
+        <text encoding="base64">JzphdXRvbWF0MzJpbmNoX3YxJywg</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
       </register>
       <register name="-" type="4">
-        <text>, ':automatFragment32inch_v1'</text>
+        <text>.support.v4</text>
       </register>
     </registers>
     <search>
@@ -257,7 +257,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed M</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
