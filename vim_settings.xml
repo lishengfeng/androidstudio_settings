@@ -69,11 +69,11 @@
         <mark key="." line="15" column="0" />
         <mark key="[" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1459343693354">
-        <mark key="]" line="4" column="8" />
-        <mark key="^" line="4" column="185" />
-        <mark key="." line="4" column="8" />
-        <mark key="[" line="4" column="8" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1459345660190">
+        <mark key="]" line="4" column="157" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="4" column="157" />
+        <mark key="[" line="4" column="157" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1459339481435">
         <mark key="]" line="31" column="0" />
@@ -175,46 +175,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>/</text>
+        <text encoding="base64">JzphdXRvbWF0MzJpbmNoX3YxJywg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>, ':automatFragment32inch_v1'</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="1" type="4">
-        <text>/</text>
+        <text>, ':automatFragment32inch_v1'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5leGFtcGxlLmF1dG9tYXRmcmFnbWVudC5SOwo=</text>
+        <text encoding="base64">Ly9pbmNsdWRlICc6YXV0b21hdDdpbmNoJywgJzphdXRvbWF0Q29tbW9uJywgJzphdXRvbWF0RnJhZ21lbnQ3aW5jaCcsICc6YXV0b21hdFVuaW9uUGF5JywgJzphdXRvbWF0N2luY2gzZGlhblRvdWNoJywgJzphdXRvbWF0RnJhZ21lbnRIQ29mZmVlJywgJzphdXRvbWF0R3VpZGVOZXcnLCAnOmF1dG9tYXRNYWludGVuYW5jZTNkaWFuJywgJzphdXRvbWF0QnJlYWtkb3duJywgJzphdXRvbWF0QWxpUGF5V2F2ZScsICc6YXV0b21hdENvbW1vbkNvcmUnLCAnOmF1dG9tYXRGdUppU2RrJywgJzphdXRvbWF0RnJhZ21lbnQ3aW5jaEt1Ym90YScsICc6YXV0b21hdENvcmUnLCAnOmF1dG9tYXRRclBheScsICc6YXV0b21hdFF1aWNrUGFzc05ldycsICc6YXV0b21hdDNkaWFuU2RrJywgJzphdXRvbWF0MzJpbmNoX3YxJywgJzphdXRvbWF0RnJhZ21lbnQzMmluY2hfdjEnCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgY29tLmJjbC5mcmFnbWVudC5SOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">JzphdXRvbWF0R3VpZGVOZXcnLCA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">JzphdXRvbWF0TWFpbnRlbmFuY2UzZGlhbicsIA==</text>
       </register>
       <register name="5" type="4">
-        <text>.automatfragment.R;</text>
+        <text encoding="base64">JzphdXRvbWF0QnJlYWtkb3duJywg</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text encoding="base64">JzphdXRvbWF0M2RpYW5TZGsnLCA=</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0Vmlldy5zZXRUZXh0KFIuc3RyaW5nLmhlbGxvX2JsYW5rX2ZyYWdtZW50KTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">JzphdXRvbWF0N2luY2gzZGlhblRvdWNoJywg</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0Vmlldy5zZXRUZXh0KFIuc3RyaW5nLmhlbGxvX2JsYW5rX2ZyYWdtZW50KTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">JzphdXRvbWF0RnJhZ21lbnRIQ29mZmVlJywg</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>, ':automatFragment32inch_v1'</text>
       </register>
     </registers>
     <search>
