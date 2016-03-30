@@ -15,6 +15,13 @@
         <mark key="." line="514" column="0" />
         <mark key="[" line="514" column="0" />
       </file>
+      <file name="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" timestamp="1452578296256">
+        <mark key="'" line="2437" column="58" />
+        <mark key="]" line="2818" column="0" />
+        <mark key="^" line="2436" column="34" />
+        <mark key="." line="2818" column="0" />
+        <mark key="[" line="2818" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1456290312409">
         <mark key="[" line="0" column="0" />
       </file>
@@ -28,19 +35,20 @@
         <mark key="." line="24" column="61" />
         <mark key="[" line="24" column="61" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/MainFragment.java" timestamp="1458880288580">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/MainFragment.java" timestamp="1458995290377">
         <mark key="]" line="20" column="37" />
         <mark key="^" line="20" column="37" />
         <mark key="." line="20" column="37" />
         <mark key="[" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/ActivityFragment.java" timestamp="1458880232513">
-        <mark key="]" line="27" column="41" />
-        <mark key="^" line="27" column="41" />
-        <mark key="." line="27" column="41" />
-        <mark key="[" line="27" column="38" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/ActivityFragment.java" timestamp="1458882214040">
+        <mark key="]" line="103" column="20" />
+        <mark key="^" line="103" column="20" />
+        <mark key="." line="103" column="20" />
+        <mark key="[" line="103" column="15" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1458880211877">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1458882194980">
+        <mark key="'" line="57" column="5" />
         <mark key="]" line="20" column="37" />
         <mark key="^" line="20" column="37" />
         <mark key="." line="20" column="37" />
@@ -118,12 +126,12 @@
         <mark key="." line="26" column="37" />
         <mark key="[" line="26" column="34" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1458881833940">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1458882172286">
         <mark key="'" line="37" column="36" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="21" column="14" />
-        <mark key="." line="21" column="14" />
-        <mark key="[" line="21" column="6" />
+        <mark key="]" line="80" column="29" />
+        <mark key="^" line="80" column="29" />
+        <mark key="." line="80" column="29" />
+        <mark key="[" line="80" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -135,49 +143,50 @@
       <jump line="2437" column="58" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherModel.java" />
       <jump line="157" column="17" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/AutomatActivity.java" />
       <jump line="37" column="36" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" />
+      <jump line="57" column="5" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/HomeFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>d</text>
       </register>
       <register name="3" type="4">
-        <text>x</text>
+        <text>e</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text>n</text>
       </register>
       <register name="1" type="4">
-        <text>t</text>
+        <text>d</text>
       </register>
       <register name="0" type="4">
         <text>int fragmentId,int messageType,Bundle data</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
         <text>n</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>d</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Y29udGV4dCA=</text>
+        <text>}</text>
       </register>
       <register name="8" type="4">
-        <text>x</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>d</text>
       </register>
     </registers>
     <search>
