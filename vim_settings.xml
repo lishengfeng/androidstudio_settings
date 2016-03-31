@@ -284,11 +284,12 @@
         <mark key="." line="115" column="79" />
         <mark key="[" line="115" column="78" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1459415068113">
-        <mark key="]" line="115" column="25" />
-        <mark key="^" line="115" column="25" />
-        <mark key="." line="115" column="25" />
-        <mark key="[" line="119" column="7" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1459415854404">
+        <mark key="]" line="101" column="71" />
+        <mark key="^" line="101" column="71" />
+        <mark key="." line="101" column="71" />
+        <mark key="[" line="105" column="26" />
+        <mark key="i" line="97" column="8" />
       </file>
       <file name="/fragment.java" timestamp="1458718538197">
         <mark key="[" line="0" column="0" />
@@ -394,46 +395,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>l</text>
+        <text>tran</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>i</text>
+        <text>transaction</text>
       </register>
-      <register name="1" type="4">
-        <text>c</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IE1TR19TSE9XX1BBWV9GUkFHTUVOVCAgPSBNU0dfRlJBR01FTlRfQkFTRSArIDI7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>c</text>
+        <text>)</text>
       </register>
-      <register name="6" type="4">
-        <text>p</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBGcmFnbWVudE1hbmFnZXIgZm0gPSBnZXRGcmFnbWVudE1hbmFnZXIoKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>u</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBGcmFnbWVudFRyYW5zYWN0aW9uIHRyYW5zYWN0aW9uID0gZm0uYmVnaW5UcmFuc2FjdGlvbigpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>b</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0cmFuc2FjdGlvbi5jb21taXQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/    /g</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>w</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>\t</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>transaction</text>
       </register>
     </registers>
     <search>
