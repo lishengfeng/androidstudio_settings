@@ -75,9 +75,6 @@
         <mark key="." line="7" column="0" />
         <mark key="[" line="7" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1458797907934">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch/build.gradle" timestamp="1456902183573">
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -88,6 +85,11 @@
         <mark key="^" line="16" column="45" />
         <mark key="." line="16" column="45" />
         <mark key="[" line="13" column="17" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/ActivityFragment.java" timestamp="1459388324185">
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="[" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inch_v1/src/com/bcl/fragment/ActivityInputFragment.java" timestamp="1458799512668">
         <mark key="]" line="32" column="26" />
@@ -106,7 +108,6 @@
       <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
         <mark key="[" line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/PicFragment.java" timestamp="1458786850770" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/build.gradle" timestamp="1458214993289">
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -116,6 +117,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1459387903787">
+        <mark key="]" line="34" column="44" />
+        <mark key="[" line="34" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inch_v1/src/com/bcl/fragment/MainFragment.java" timestamp="1458799568672">
         <mark key="]" line="128" column="47" />
@@ -187,6 +192,11 @@
         <mark key="." line="2" column="1" />
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/BlankFragment.java" timestamp="1459388022869">
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="[" line="79" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1458799094610">
         <mark key="[" line="0" column="0" />
       </file>
@@ -214,6 +224,9 @@
         <mark key="]" line="48" column="8" />
         <mark key="." line="48" column="8" />
         <mark key="[" line="46" column="31" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1459386958105">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch_v1/build.gradle" timestamp="1458719469308">
         <mark key="]" line="20" column="17" />
@@ -264,41 +277,41 @@
       <jump line="1" column="44" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inch_v1/res/layout/pay32_layout.xml" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>/</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>, ':automatUnionPay', ':automat32inch_v1', ':automatFragment32inch_v1'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>'</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>, ':automatUnionPay', ':automat32inch_v1', ':automatFragment32inch_v1'</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly9hdXRvbWF0Q29yZQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZXF1aXJlZCBlbXB0eSBwdWJsaWMgY29uc3RydWN0b3IK</text>
       </register>
-      <register name="7" type="4">
-        <text>i</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>e</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIG9uQ3JlYXRlKEJ1bmRsZSBzYXZlZEluc3RhbmNlU3RhdGUpIHsK</text>
       </register>
-      <register name="5" type="4">
-        <text>s</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>/</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0QXJndW1lbnRzKCkuZ2V0bGkK</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
-      <register name="9" type="4">
-        <text>e</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>s</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZihudWxsICE9IGdldEFyZ3VtZW50cygpKXsK</text>
       </register>
       <register name="/" type="4">
         <text>textViewStyle</text>
