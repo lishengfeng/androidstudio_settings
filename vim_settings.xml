@@ -194,11 +194,11 @@
         <mark key="." line="26" column="20" />
         <mark key="[" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1459398992465">
-        <mark key="'" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="." line="168" column="0" />
-        <mark key="[" line="168" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1459401186791">
+        <mark key="]" line="172" column="26" />
+        <mark key="^" line="172" column="26" />
+        <mark key="." line="172" column="26" />
+        <mark key="[" line="172" column="26" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch3dian_newUI/src/com/bcl/automat/AutomatActivity.java" timestamp="1457938132967">
         <mark key="]" line="242" column="71" />
@@ -240,11 +240,10 @@
         <mark key="'" line="71" column="8" />
         <mark key="[" line="42" column="26" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/BlankFragment.java" timestamp="1459399053994">
-        <mark key="]" line="14" column="4" />
-        <mark key="^" line="14" column="4" />
-        <mark key="." line="14" column="4" />
-        <mark key="[" line="20" column="4" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/BlankFragment.java" timestamp="1459401233783">
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="[" line="27" column="30" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/SubMainFragment.java" timestamp="1459390422599">
         <mark key="'" line="74" column="8" />
@@ -265,6 +264,7 @@
         <mark key="." line="26" column="0" />
         <mark key="[" line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automat32inch_v1/src/com/bcl/automat/AutomatActivity.java" timestamp="1459400804009" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inch_v1/src/com/bcl/fragment/PayFragment.java" timestamp="1458799187199">
         <mark key="]" line="38" column="16" />
         <mark key="^" line="38" column="19" />
@@ -349,47 +349,47 @@
       <jump line="168" column="0" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/AutomatActivity.java" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>a</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBmbS5iZWdpblRyYW5zYWN0aW9uKCkuYWRkKFIuaWQuZnJhZ21lbnRfcG9zdGVyX2xheW91dCxtQmxhbmtGcmFnbWVudCk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
-      <register name="2" type="4">
-        <text>t</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8vCg==</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBUkdfQUNUX0lORk9fTElTVCA9ICJBQ1RfSU5GT19MSVNUIgo=</text>
       </register>
       <register name="7" type="4">
-        <text>p</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="4">
-        <text>v</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmbS5iZWdpblRyYW5zYWN0aW9uKCkuaGlkZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w!</text>
       </register>
-      <register name="9" type="4">
-        <text>e</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>textViewStyle</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
