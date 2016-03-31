@@ -59,7 +59,7 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1459392926107">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1459407993411">
         <mark key="]" line="30" column="1" />
         <mark key="^" line="30" column="1" />
         <mark key="." line="30" column="1" />
@@ -194,11 +194,11 @@
         <mark key="." line="26" column="20" />
         <mark key="[" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1459407813689">
-        <mark key="]" line="349" column="68" />
-        <mark key="^" line="349" column="68" />
-        <mark key="." line="349" column="68" />
-        <mark key="[" line="349" column="71" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1459408538486">
+        <mark key="]" line="353" column="103" />
+        <mark key="^" line="353" column="103" />
+        <mark key="." line="353" column="103" />
+        <mark key="[" line="353" column="115" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch3dian_newUI/src/com/bcl/automat/AutomatActivity.java" timestamp="1457938132967">
         <mark key="]" line="242" column="71" />
@@ -217,6 +217,7 @@
         <mark key="." line="185" column="48" />
         <mark key="[" line="185" column="47" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/src/com/bcl/common/CommonContentResolver.java" timestamp="1459408085401" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/HelpFragment.java" timestamp="1459401949931">
         <mark key="]" line="80" column="0" />
         <mark key="^" line="29" column="25" />
