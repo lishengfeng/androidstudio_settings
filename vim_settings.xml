@@ -168,7 +168,7 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1459415079584">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1459475375025">
         <mark key="'" line="99" column="45" />
         <mark key="]" line="114" column="55" />
         <mark key="^" line="114" column="55" />
@@ -208,11 +208,11 @@
         <mark key="." line="26" column="20" />
         <mark key="[" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1459474735550">
-        <mark key="]" line="298" column="61" />
-        <mark key="^" line="298" column="61" />
-        <mark key="." line="298" column="61" />
-        <mark key="[" line="298" column="45" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1459475510168">
+        <mark key="]" line="291" column="29" />
+        <mark key="^" line="156" column="11" />
+        <mark key="." line="291" column="0" />
+        <mark key="[" line="291" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch3dian_newUI/src/com/bcl/automat/AutomatActivity.java" timestamp="1457938132967">
         <mark key="]" line="242" column="71" />
@@ -395,40 +395,40 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>a</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>e</text>
-      </register>
-      <register name="2" type="4">
         <text>t</text>
       </register>
-      <register name="1" type="4">
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdWlTdGF0ZSA9IFVJX1BBWV9TRUw7Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>e</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtQmxhbmtGcmFnbWVudAo=</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBGcmFnbWVudCBmcmcgPSBtRnJhZ21lbnRNYW5hZ2VyLmZpbmRGcmFnbWVudEJ5VGFnKFRBR19BQ1RJVklUWV9GUkFHTUVOVCk7CiAgICAgICAgaWYobnVsbCAhPSBmcmcpewogICAgICAgICAgICBtRnJhZ21lbnRNYW5hZ2VyLmJlZ2luVHJhbnNhY3Rpb24oKS5yZW1vdmUoZnJnKS5jb21taXQoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdWlTdGF0ZSA9IFVJX1BBWV9TRUw7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>r</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>i</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>v</text>
+      </register>
+      <register name="4" type="4">
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/    /g</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaG93UGljRnJhZ21lbnQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93UGljRnJhZ21lbnQoKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="/" type="4">
         <text>\t</text>
@@ -513,6 +513,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
