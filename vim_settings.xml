@@ -74,11 +74,11 @@
         <mark key="." line="1" column="49" />
         <mark key="[" line="1" column="50" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/ControlDevFragment.java" timestamp="1459401942906">
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="20" column="3" />
-        <mark key="." line="39" column="0" />
-        <mark key="[" line="39" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/ControlDevFragment.java" timestamp="1459489604811">
+        <mark key="]" line="13" column="60" />
+        <mark key="^" line="13" column="60" />
+        <mark key="." line="13" column="60" />
+        <mark key="[" line="11" column="54" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/Activity7Fragment.java" timestamp="1458214513304">
         <mark key="]" line="30" column="22" />
@@ -113,6 +113,7 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Android/Sdk/sources/android-19/android/app/Fragment.java" timestamp="1459488785666" />
       <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automat7inch/project.properties" timestamp="1456818767693">
         <mark key="]" line="16" column="45" />
         <mark key="^" line="16" column="45" />
@@ -163,9 +164,12 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1459487295962">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1459490155612">
         <mark key="'" line="16" column="23" />
-        <mark key="[" line="126" column="37" />
+        <mark key="]" line="130" column="0" />
+        <mark key="^" line="121" column="41" />
+        <mark key="." line="130" column="0" />
+        <mark key="[" line="130" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inch_v1/src/com/bcl/fragment/MainFragment.java" timestamp="1459477454262">
         <mark key="]" line="128" column="47" />
@@ -200,12 +204,12 @@
         <mark key="." line="26" column="20" />
         <mark key="[" line="26" column="20" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1459488240068">
-        <mark key="'" line="189" column="16" />
-        <mark key="]" line="306" column="69" />
-        <mark key="^" line="306" column="69" />
-        <mark key="." line="306" column="69" />
-        <mark key="[" line="306" column="49" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1459490502890">
+        <mark key="'" line="190" column="16" />
+        <mark key="]" line="425" column="56" />
+        <mark key="^" line="425" column="56" />
+        <mark key="." line="425" column="56" />
+        <mark key="[" line="424" column="63" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch3dian_newUI/src/com/bcl/automat/AutomatActivity.java" timestamp="1457938132967">
         <mark key="]" line="242" column="71" />
@@ -394,46 +398,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>ME_FRAGMENT;</text>
+        <text>f</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Ib21lRnJhZ21lbnQuc2hvd0FjdGl2aXR5RnJhZ21lbnQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text>ACTIVITY_FRAGMENT:</text>
+        <text>m</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1Ib21lRnJhZ21lbnQuc2hvd0FjdGl2aXR5RnJhZ21lbnQoKTsK</text>
+      <register name="1" type="4">
+        <text>.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBDb21tb25NZXNzYWdlRGVmLk1TR19TSE9XX0FDVElWSVRZX0ZSQUdNRU5UOgogICAgICAgICAgICAgICAgbUhvbWVGcmFnbWVudC5zaG93QWN0aXZpdHlGcmFnbWVudCgpOwogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG51bGwhPW1Ib21lRnJhZ21lbnQgJiYgbUhvbWVGcmFnbWVudC5pc0hpZGRlbigpKXsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVuZGxlLnB1dEJvb2xlYW4oQ29tbW9uTWVzc2FnZURlZi5JU19IT01FX0ZSQUdNRU5UX0VYSVNULChudWxsICE9IG1Ib21lRnJhZ21lbnQpKTsK</text>
+      <register name="7" type="4">
+        <text>.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnLnNldERhdGEoYnVuZGxlKTsK</text>
+      <register name="6" type="4">
+        <text>v</text>
       </register>
       <register name="5" type="4">
-        <text>H</text>
+        <text>4</text>
       </register>
       <register name="4" type="4">
-        <text>O</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/    /g</text>
       </register>
       <register name="9" type="4">
-        <text>Y</text>
+        <text>r</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQnVuZGxlIGJ1bmRsZSA9IG5ldyBCdW5kbGUoKTsK</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNU0dfSElERV9BQ1RJVklUWV9CVVRUT05cPg==</text>
       </register>
       <register name="-" type="4">
-        <text>ACTIVITY_FRAGMENT:</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
