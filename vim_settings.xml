@@ -8,10 +8,6 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/Main7Fragment.java" timestamp="1459343211756">
-        <mark key="]" line="20" column="37" />
-        <mark key="[" line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/AndroidManifest.xml" timestamp="1459348419721">
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -43,9 +39,7 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="vcs.xml" timestamp="1459339868949">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch_v1/src/com/bcl/payctrl/PayCtrlSDK.java" timestamp="1459606019117" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1459602497841">
         <mark key="]" line="5" column="157" />
         <mark key="^" line="5" column="157" />
@@ -53,10 +47,6 @@
         <mark key="[" line="5" column="157" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/ErrorInfoActivity.java" timestamp="1459603547121" />
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/ActivitiesInput7KeyboardFragment.java" timestamp="1459343353756">
-        <mark key="]" line="20" column="37" />
-        <mark key="[" line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatAliPayWave/AndroidManifest.xml" timestamp="1459348398616">
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -73,9 +63,7 @@
         <mark key="." line="0" column="7" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1459350161685">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/a.dummy" timestamp="1459605583113" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/build.gradle" timestamp="1459347358872">
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -84,9 +72,6 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch_v1/src/com/bcl/automat/BaseActivity.java" timestamp="1459602750817">
         <mark key="[" line="874" column="22" />
       </file>
-      <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
-        <mark key="[" line="5" column="33" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCommonCore/AndroidManifest.xml" timestamp="1459348384951">
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -94,9 +79,6 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1459602412032" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch_v1/src/com/bcl/automat/AutomatActivity.java" timestamp="1459601148251" />
-      <file name="$USER_HOME$/Eclipse_workspace/OldMachineReform/automatUnionPay/AndroidManifest.xml" timestamp="1456400482864">
-        <mark key="[" line="3" column="31" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="491" column="32" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" />
@@ -118,28 +100,28 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICc6YXV0b21hdENvbW1vbicsICAnOmF1dG9tYXRVbmlvblBheScsICc6YXV0b21hdDMyaW5jaF92MScsICc6YXV0b21hdEZyYWdtZW50MzJpbmNoX3YxJw==</text>
+        <text />
       </register>
       <register name="3" type="4">
         <text>/</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text>s</text>
       </register>
       <register name="1" type="4">
-        <text>/</text>
+        <text />
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICc6YXV0b21hdENvbW1vbicsICAnOmF1dG9tYXRVbmlvblBheScsICc6YXV0b21hdDMyaW5jaF92MScsICc6YXV0b21hdEZyYWdtZW50MzJpbmNoX3YxJw==</text>
       </register>
       <register name="7" type="4">
-        <text>{</text>
+        <text>;</text>
       </register>
       <register name="6" type="4">
-        <text>}</text>
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text>;</text>
+        <text>/</text>
       </register>
       <register name="4" type="4">
         <text>/</text>
@@ -147,17 +129,17 @@
       <register name=":" type="4">
         <text>w!</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICogVXNlIHRoZSB7QGxpbmsgQmFzZUZyYWdtZW50I25ld0luc3RhbmNlfSBmYWN0b3J5IG1ldGhvZCB0bwo=</text>
+      <register name="9" type="4">
+        <text>{</text>
       </register>
       <register name="8" type="4">
-        <text>*</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>aaaa</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text />
       </register>
     </registers>
     <search>
