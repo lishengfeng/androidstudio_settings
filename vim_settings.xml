@@ -29,7 +29,7 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1459693878418">
+      <file name="/Dummy.txt" timestamp="1459781337469">
         <mark key="e" line="0" column="32" />
         <mark key="]" line="0" column="32" />
         <mark key="^" line="0" column="7" />
@@ -41,7 +41,7 @@
         <mark key="." line="6" column="0" />
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1459693856349">
+      <file name="/a.dummy" timestamp="1459781330212">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1459691864120">
@@ -94,6 +94,7 @@
         <mark key="." line="7" column="59" />
         <mark key="[" line="7" column="59" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inchKubota/src/com/bcl/fragment/Pic32Fragment.java" timestamp="1459781170250" />
     </filemarks>
     <jumps>
       <jump line="491" column="32" filename="$USER_HOME$/tunam_workspace/LINUX/android/vendor/fujitsu/apps/kantanhome/src/com/fujitsu/mobile_phone/simple_home2/LauncherProvider.java" />
