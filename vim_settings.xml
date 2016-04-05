@@ -20,6 +20,9 @@
         <mark key="." line="83" column="60" />
         <mark key="[" line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/MainFragment.java" timestamp="1459834923346">
+        <mark key="[" line="78" column="5" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/org/androidpn/client/NotificationDetailsActivity.java" timestamp="1456970239330">
         <mark key="]" line="84" column="20" />
         <mark key="^" line="84" column="20" />
@@ -70,7 +73,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatAliPayWave/AndroidManifest.xml" timestamp="1456887225150">
         <mark key="[" line="3" column="31" />
       </file>
-      <file name="/a.dummy" timestamp="1459829917300">
+      <file name="/a.dummy" timestamp="1459834406860">
         <mark key="e" line="0" column="4" />
         <mark key="'" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -96,29 +99,29 @@
         <mark key="." line="158" column="44" />
         <mark key="[" line="158" column="44" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/settings.gradle" timestamp="1459820929526">
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="6" column="0" />
-        <mark key="[" line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inch_v1/src/com/bcl/fragment/ActivityInputFragment.java" timestamp="1458799512668">
         <mark key="]" line="32" column="26" />
         <mark key="^" line="32" column="20" />
         <mark key="." line="32" column="26" />
         <mark key="[" line="32" column="26" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/settings.gradle" timestamp="1459820929526">
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/.idea/vcs.xml" timestamp="1458104671341">
         <mark key="[" line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
+        <mark key="[" line="5" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/ActivityInputFragment.java" timestamp="1459503089615">
         <mark key="]" line="186" column="47" />
         <mark key="^" line="186" column="47" />
         <mark key="." line="186" column="47" />
         <mark key="[" line="185" column="22" />
-      </file>
-      <file name="$USER_HOME$/Eclipse_workspace/NewMachine7inchTouch/automatUnionPay/AndroidManifest.xml" timestamp="1456464624500">
-        <mark key="[" line="5" column="33" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/PicFragment.java" timestamp="1459819922973" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/PayIconFragment.java" timestamp="1459499802971">
@@ -148,11 +151,11 @@
       <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
         <mark key="[" line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1459825213893">
-        <mark key="]" line="95" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1459835010713">
+        <mark key="]" line="102" column="0" />
         <mark key="^" line="93" column="57" />
-        <mark key="." line="95" column="0" />
-        <mark key="[" line="95" column="0" />
+        <mark key="." line="102" column="0" />
+        <mark key="[" line="102" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/build.gradle" timestamp="1459390774254">
         <mark key="]" line="5" column="0" />
@@ -163,11 +166,12 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatQuickPassNew/AndroidManifest.xml" timestamp="1456887242385">
         <mark key="[" line="3" column="31" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1459831437721">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1459834341331">
         <mark key="'" line="43" column="0" />
-        <mark key="]" line="658" column="0" />
-        <mark key="." line="658" column="0" />
-        <mark key="[" line="656" column="61" />
+        <mark key="]" line="761" column="0" />
+        <mark key="^" line="762" column="52" />
+        <mark key="." line="761" column="0" />
+        <mark key="[" line="761" column="0" />
         <mark key="i" line="53" column="28" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch3dian_newUI/src/com/bcl/automat/AutomatActivity.java" timestamp="1457938132967">
@@ -256,38 +260,38 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/model/JSInterface.java" timestamp="1459818538634">
         <mark key="[" line="16" column="4" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch_v1/build.gradle" timestamp="1458719469308">
-        <mark key="]" line="20" column="17" />
-        <mark key="^" line="20" column="17" />
-        <mark key="." line="20" column="17" />
-        <mark key="[" line="20" column="17" />
-      </file>
-      <file name="vim_settings.xml" timestamp="1459386958105">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Eclipse_workspace/OldMachineReform/automatUnionPay/AndroidManifest.xml" timestamp="1456400482864">
-        <mark key="[" line="3" column="31" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inch_v1/res/values/strings.xml" timestamp="1458628008346">
         <mark key="]" line="3" column="24" />
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="24" />
         <mark key="[" line="3" column="5" />
       </file>
+      <file name="$USER_HOME$/Eclipse_workspace/OldMachineReform/automatUnionPay/AndroidManifest.xml" timestamp="1456400482864">
+        <mark key="[" line="3" column="31" />
+      </file>
+      <file name="vim_settings.xml" timestamp="1459386958105">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat32inch_v1/build.gradle" timestamp="1458719469308">
+        <mark key="]" line="20" column="17" />
+        <mark key="^" line="20" column="17" />
+        <mark key="." line="20" column="17" />
+        <mark key="[" line="20" column="17" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/MultiTrader/settings.gradle" timestamp="1456819894509">
         <mark key="[" line="3" column="25" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/build.gradle" timestamp="1456909705162">
-        <mark key="]" line="16" column="32" />
-        <mark key="^" line="16" column="32" />
-        <mark key="." line="16" column="32" />
-        <mark key="[" line="16" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/ActivityQrcodeFragment.java" timestamp="1459502882394">
         <mark key="]" line="139" column="60" />
         <mark key="^" line="139" column="60" />
         <mark key="." line="139" column="60" />
         <mark key="[" line="138" column="35" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat3dianSdk/build.gradle" timestamp="1456909705162">
+        <mark key="]" line="16" column="32" />
+        <mark key="^" line="16" column="32" />
+        <mark key="." line="16" column="32" />
+        <mark key="[" line="16" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -344,47 +348,47 @@
       <jump line="43" column="0" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/AutomatActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtQ3VycmVudEZyYWdtZW50U3RhdGUgPSBDdXJyZW50RnJhZ21lbnRTdGF0ZS5QQVk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXdNc2cud2hhdCA9IENvbW1vbk1lc3NhZ2VEZWYuTVNHX1NIT1dfN0lOQ0hfSE9NRV9GUkFHTUVOVDsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtVUlTdGF0ZSA9IFVJX1BBWV9TRUw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtTGlzdGVuZXIub25GcmFnbWVudEludGVyYWN0aW9uKG51bGwsbmV3TXNnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ICAgIC8qKuWIm+W7uuS4u+eUu+mdonNob3dNYWluMzJGcmFnbWVudCoqLwogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBzaG93TWFpbkZyYWdtZW50KGludCB0eXBlKSB7CiAgICAgICAgaWYgKHR5cGUgPT0gMiAmJiBtYWluRnJnICE9IG51bGwpIHsKICAgICAgICAgICAgLyog5rS75Yqo6YCJ5oup55S76Z2iICovCiAgICAgICAgICAgIGlmIChtQWN0aXZpdGllc0luZm9MaXN0ICE9IG51bGwgJiYgbUFjdGl2aXRpZXNJbmZvTGlzdC5zaXplKCkgPT0gMSkgewogICAgICAgICAgICAgICAgLyog5Y+q5pyJ5LiA5Liq5rS75Yqo77yM55u05o6l6L+b5YWl5rS75Yqo5YWR5o2i56CB6L6T5YWl55S76Z2iICovCiAgICAgICAgICAgICAgICBtYWluRnJnLnNldG1BY3RJbmZvTGlzdChtQWN0aXZpdGllc0luZm9MaXN0KTsKICAgICAgICAgICAgICAgIG1haW5Gcmcuc2V0bVJlc0luZm9MaXN0KG1SZXNvdXJjZUluZm9MaXN0KTsKICAgICAgICAgICAgICAgIG1haW5Gcmcuc2V0QWN0aXZpdGllc0lucHV0MzJGcmFnbWVudCgoU3RyaW5nKW1BY3Rpdml0aWVzSW5mb0xpc3QuZ2V0KDApLmdldChBdXRvbWF0Q29uc3QuQUNUSVZJVFlfQ09ERSkpOwogICAgICAgICAgICAgICAgTG9nLmQoVEFHLCAiYWN0SUQgPSAiICsgKFN0cmluZyltQWN0aXZpdGllc0luZm9MaXN0LmdldCgwKS5nZXQoQXV0b21hdENvbnN0LkFDVElWSVRZX0NPREUpKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIG1haW5Gcmcuc2V0bUFjdEluZm9MaXN0KG1BY3Rpdml0aWVzSW5mb0xpc3QpOwogICAgICAgICAgICAgICAgbWFpbkZyZy5zZXRtUmVzSW5mb0xpc3QobVJlc291cmNlSW5mb0xpc3QpOwogICAgICAgICAgICAgICAgbWFpbkZyZy5zZXRGcmdGbGFnKDApOwogICAgICAgICAgICAgICAgbWFpbkZyZy5zZXRBY3Rpdml0eTMyRnJhZ21lbnQoMSk7CiAgICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgaWYgKHR5cGUgPT0gNCAmJiBtYWluRnJnICE9IG51bGwpIHsKICAgICAgICAgICAgLyog5rS+6YCB55S76Z2iICovCiAgICAgICAgICAgIG1haW5Gcmcuc2V0bUFjdEluZm9MaXN0KG1EaXN0cmlidXRlSW5mb0xpc3QpOwogICAgICAgICAgICBtYWluRnJnLnNldERpc3RyaWJ1dGVGcmFnbWVudChtQWN0SWQpOwogICAgICAgIH0gZWxzZSBpZiAodHlwZSA9PSA1ICYmIG1haW5GcmcgIT0gbnVsbCkgewogICAgICAgICAgICAvKiDmtL7pgIHmiJDlip/nlLvpnaIgKi8KICAgICAgICAgICAgbWFpbkZyZy5zZXRSZWNlaXZlU3VjY2Vzc0ZyYWdtZW50KCk7CiAgICAgICAgICAgIAogICAgICAgIH0gZWxzZSBpZiAodHlwZSA9PSA2ICYmIG1haW5GcmcgIT0gbnVsbCkgewogICAgICAgICAgICAvKiDmtL7pgIHpgInmi6nnlLvpnaIgKi8KICAgICAgICAgICAgaWYgKG1EaXN0cmlidXRlSW5mb0xpc3QgIT0gbnVsbCAmJiBtRGlzdHJpYnV0ZUluZm9MaXN0LnNpemUoKSA9PSAxKSB7CiAgICAgICAgICAgICAgICAvKiDlj6rmnInkuIDkuKrmtL7pgIHvvIznm7TmjqXov5vlhaXmtL7pgIHnlLvpnaIgKi8KICAgICAgICAgICAgICAgIG1haW5Gcmcuc2V0bUFjdEluZm9MaXN0KG1EaXN0cmlidXRlSW5mb0xpc3QpOwogICAgICAgICAgICAgICAgbWFpbkZyZy5zZXRtUmVzSW5mb0xpc3QobVJlc291cmNlSW5mb0xpc3QpOwogICAgICAgICAgICAgICAgbWFpbkZyZy5zZXREaXN0cmlidXRlRnJhZ21lbnQoKFN0cmluZyltRGlzdHJpYnV0ZUluZm9MaXN0LmdldCgwKS5nZXQoQXV0b21hdENvbnN0LkFDVElWSVRZX0NPREUpKTsKICAgICAgICAgICAgICAgIExvZy5kKFRBRywgImRpc0lEID0gIiArIChTdHJpbmcpbURpc3RyaWJ1dGVJbmZvTGlzdC5nZXQoMCkuZ2V0KEF1dG9tYXRDb25zdC5BQ1RJVklUWV9DT0RFKSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBtYWluRnJnLnNldG1BY3RJbmZvTGlzdChtRGlzdHJpYnV0ZUluZm9MaXN0KTsKICAgICAgICAgICAgICAgIG1haW5Gcmcuc2V0bVJlc0luZm9MaXN0KG1SZXNvdXJjZUluZm9MaXN0KTsKICAgICAgICAgICAgICAgIG1haW5Gcmcuc2V0RnJnRmxhZygxKTsKICAgICAgICAgICAgICAgIG1haW5Gcmcuc2V0QWN0aXZpdHkzMkZyYWdtZW50KDEpOwogICAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgLyog5pSv5LuY55S76Z2i77yM5rS75Yqo5ZKM5rS+6YCB6YCJ5oup55S76Z2iICovCiAgICAgICAgICAgIEZyYWdtZW50TWFuYWdlciBmbSA9IGdldEZyYWdtZW50TWFuYWdlcigpOwogICAgICAgICAgICBGcmFnbWVudFRyYW5zYWN0aW9uIHRyYW5zYWN0aW9uID0gZm0uYmVnaW5UcmFuc2FjdGlvbigpOwogICAgICAgICAgICBNYWluMzJGcmFnbWVudCBmcmcgPSBuZXcgTWFpbjMyRnJhZ21lbnQoYXV0b21hdCwgbUhhbmRsZXIsIFJFQUxfREVWLCBtUGF5Q3RybFNESy5nZXRQYXlTdGF0dXMoKSwgdHlwZSk7CiAgICAgICAgICAgIG1haW5GcmcgPSBmcmc7CiAgICAgICAgICAgIGNvbnRyb2xGcmcgPSBudWxsOwogICAgICAgICAgICBwaWNGcmcgPSBudWxsOwogICAgICAgICAgICBtYWluRnJnLnNldEZyZ0ZsYWcoLTEpOwogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKG1BY3Rpdml0aWVzSW5mb0xpc3QgPT0gbnVsbCB8fCBtQWN0aXZpdGllc0luZm9MaXN0LnNpemUoKSA8IDEpIHsKICAgICAgICAgICAgICAgIGlmIChtRGlzdHJpYnV0ZUluZm9MaXN0ICE9IG51bGwgJiYgbURpc3RyaWJ1dGVJbmZvTGlzdC5zaXplKCkgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgLyog5Y+q5pyJ5rS+6YCBICovCiAgICAgICAgICAgICAgICAgICAgbWFpbkZyZy5zZXRGcmdGbGFnKDEpOwogICAgICAgICAgICAgICAgICAgIG1haW5Gcmcuc2V0bUFjdEluZm9MaXN0KG1EaXN0cmlidXRlSW5mb0xpc3QpOwogICAgICAgICAgICAgICAgICAgIG1haW5Gcmcuc2V0bVJlc0luZm9MaXN0KG1SZXNvdXJjZUluZm9MaXN0KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICAKICAgICAgICAgICAgaWYgKG1EaXN0cmlidXRlSW5mb0xpc3QgPT0gbnVsbCB8fCBtRGlzdHJpYnV0ZUluZm9MaXN0LnNpemUoKSA8IDEpIHsKICAgICAgICAgICAgICAgIGlmIChtQWN0aXZpdGllc0luZm9MaXN0ICE9IG51bGwgJiYgbUFjdGl2aXRpZXNJbmZvTGlzdC5zaXplKCkgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgLyog5Y+q5pyJ5rS75YqoICovCiAgICAgICAgICAgICAgICAgICAgbWFpbkZyZy5zZXRGcmdGbGFnKDApOwogICAgICAgICAgICAgICAgICAgIG1haW5Gcmcuc2V0bUFjdEluZm9MaXN0KG1BY3Rpdml0aWVzSW5mb0xpc3QpOwogICAgICAgICAgICAgICAgICAgIG1haW5Gcmcuc2V0bVJlc0luZm9MaXN0KG1SZXNvdXJjZUluZm9MaXN0KTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICAKLy8gICAgICAgICAgaWYgKG1BY3Rpdml0aWVzSW5mb0xpc3QgPT0gbnVsbCB8fCBtQWN0aXZpdGllc0luZm9MaXN0LnNpemUoKSA8IDEpIHsKLy8gICAgICAgICAgICAgIGlmIChtRGlzdHJpYnV0ZUluZm9MaXN0ICE9IG51bGwgJiYgbURpc3RyaWJ1dGVJbmZvTGlzdC5zaXplKCkgPT0gMSkgewovLyAgICAgICAgICAgICAgICAgIG1haW5Gcmcuc2V0RnJnRmxhZygxKTsgLy8g5Y+q5pyJ5LiA5Liq5rS+6YCBCi8vICAgICAgICAgICAgICAgICAgbWFpbkZyZy5zZXRtQWN0SW5mb0xpc3QobURpc3RyaWJ1dGVJbmZvTGlzdCk7Ci8vICAgICAgICAgICAgICAgICAgbWFpbkZyZy5zZXRtUmVzSW5mb0xpc3QobVJlc291cmNlSW5mb0xpc3QpOwovLyAgICAgICAgICAgICAgfQovLyAgICAgICAgICB9IGVsc2UgaWYgKG1EaXN0cmlidXRlSW5mb0xpc3QgPT0gbnVsbCB8fCBtRGlzdHJpYnV0ZUluZm9MaXN0LnNpemUoKSA8IDEpIHsKLy8gICAgICAgICAgICAgIGlmIChtQWN0aXZpdGllc0luZm9MaXN0ICE9IG51bGwgJiYgbUFjdGl2aXRpZXNJbmZvTGlzdC5zaXplKCkgPT0gMSkgewovLyAgICAgICAgICAgICAgICAgIG1haW5Gcmcuc2V0RnJnRmxhZygwKTsgLy8g5Y+q5pyJ5LiA5Liq5rS75YqoCi8vICAgICAgICAgICAgICAgICAgbWFpbkZyZy5zZXRtQWN0SW5mb0xpc3QobUFjdGl2aXRpZXNJbmZvTGlzdCk7Ci8vICAgICAgICAgICAgICAgICAgbWFpbkZyZy5zZXRtUmVzSW5mb0xpc3QobVJlc291cmNlSW5mb0xpc3QpOwovLyAgICAgICAgICAgICAgfQovLyAgICAgICAgICB9IGVsc2UgaWYgKG1BY3Rpdml0aWVzSW5mb0xpc3QgIT0gbnVsbCAmJiBtQWN0aXZpdGllc0luZm9MaXN0LnNpemUoKSA9PSAxKSB7Ci8vICAgICAgICAgICAgICBpZiAobURpc3RyaWJ1dGVJbmZvTGlzdCA9PSBudWxsIHx8IG1EaXN0cmlidXRlSW5mb0xpc3Quc2l6ZSgpIDwgMSkgewovLyAgICAgICAgICAgICAgICAgIG1haW5Gcmcuc2V0RnJnRmxhZygwKTsgLy8g5Y+q5pyJ5LiA5Liq5rS75YqoCi8vICAgICAgICAgICAgICAgICAgbWFpbkZyZy5zZXRtQWN0SW5mb0xpc3QobUFjdGl2aXRpZXNJbmZvTGlzdCk7Ci8vICAgICAgICAgICAgICAgICAgbWFpbkZyZy5zZXRtUmVzSW5mb0xpc3QobVJlc291cmNlSW5mb0xpc3QpOwovLyAgICAgICAgICAgICAgfQovLyAgICAgICAgICB9IGVsc2UgaWYgKG1EaXN0cmlidXRlSW5mb0xpc3QgIT0gbnVsbCAmJiBtRGlzdHJpYnV0ZUluZm9MaXN0LnNpemUoKSA9PSAxKSB7Ci8vICAgICAgICAgICAgICBpZiAobUFjdGl2aXRpZXNJbmZvTGlzdCA9PSBudWxsIHx8IG1BY3Rpdml0aWVzSW5mb0xpc3Quc2l6ZSgpIDwgMSkgewovLyAgICAgICAgICAgICAgICAgIG1haW5Gcmcuc2V0RnJnRmxhZygxKTsgLy8g5Y+q5pyJ5LiA5Liq5rS+6YCBCi8vICAgICAgICAgICAgICAgICAgbWFpbkZyZy5zZXRtQWN0SW5mb0xpc3QobURpc3RyaWJ1dGVJbmZvTGlzdCk7Ci8vICAgICAgICAgICAgICAgICAgbWFpbkZyZy5zZXRtUmVzSW5mb0xpc3QobVJlc291cmNlSW5mb0xpc3QpOwovLyAgICAgICAgICAgICAgfQovLyAgICAgICAgICB9CiAgICAgICAgICAgIHRyYW5zYWN0aW9uLnJlcGxhY2UoUi5pZC5mcmFnbWVudF9wb3N0ZXJfbGF5b3V0LCBmcmcpOwogICAgICAgICAgICB0cmFuc2FjdGlvbi5jb21taXQoKTsKICAgICAgICB9CiAgICAgICAgcmVtb3ZlSGVscEZyYWdtZW50KCk7IC8v5YWz6Zet5biu5Yqp55S76Z2iCiAgICAgICAgdWlTdGF0ZSA9IDM7CiAgICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZW51bSBGcmFnbWVudFR5cGUgewo=</text>
+        <text encoding="base64">ICAgICAgICBtVUlTdGF0ZSA9IFVJX0FDVElWSVRZOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vbWFrZSBzdXJlIHRoYXQgaG9tZSBpcyBzaG93aW5nCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG1Ib21lRnJhZ21lbnQuaXNIaWRkZW4oKSl7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoVG9GcmFnbWVudCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXdNc2cuY29weUZyb20obXNnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/    /g</text>
       </register>
-      <register name="9" type="4">
-        <text>2</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
-      <register name="8" type="4">
-        <text>int type</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNU0dfSElERV9BQ1RJVklUWV9CVVRUT05cPg==</text>
       </register>
       <register name="-" type="4">
-        <text>int type</text>
+        <text>FragmentType</text>
       </register>
     </registers>
     <search>
