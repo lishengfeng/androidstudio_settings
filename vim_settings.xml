@@ -70,7 +70,8 @@
         <mark key="." line="105" column="0" />
         <mark key="[" line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1460082002331">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/src/com/bcl/common/AutomatConst.java" timestamp="1460104738633" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1460104766308">
         <mark key="]" line="56" column="4" />
         <mark key="." line="56" column="4" />
         <mark key="[" line="56" column="4" />
@@ -104,7 +105,7 @@
         <mark key="." line="142" column="64" />
         <mark key="[" line="142" column="64" />
       </file>
-      <file name="/a.dummy" timestamp="1460100968317">
+      <file name="/a.dummy" timestamp="1460104674131">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/ReceiveSuccessFragment.java" timestamp="1459906227155">
@@ -148,6 +149,7 @@
         <mark key="." line="7" column="158" />
         <mark key="[" line="7" column="158" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/src/com/bcl/common/DEXUtil.java" timestamp="1460104759304" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/ActivityMainFragment.java" timestamp="1459922911222">
         <mark key="'" line="348" column="16" />
         <mark key="]" line="358" column="40" />
@@ -167,7 +169,7 @@
         <mark key="." line="75" column="40" />
         <mark key="[" line="72" column="79" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1460079074971">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1460104540347">
         <mark key="]" line="492" column="8" />
         <mark key="^" line="235" column="73" />
         <mark key="." line="492" column="8" />
