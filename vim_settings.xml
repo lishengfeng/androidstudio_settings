@@ -87,6 +87,7 @@
         <mark key="." line="251" column="61" />
         <mark key="[" line="250" column="74" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/cn/com/bcl/common/CommonDefine.java" timestamp="1460096037509" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/PayIconFragment.java" timestamp="1460080348261">
         <mark key="]" line="105" column="16" />
         <mark key="^" line="105" column="16" />
@@ -103,15 +104,6 @@
         <mark key="." line="142" column="64" />
         <mark key="[" line="142" column="64" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1459931880922">
-        <mark key="s" line="193" column="0" />
-        <mark key="'" line="130" column="4" />
-        <mark key="]" line="92" column="39" />
-        <mark key="^" line="92" column="39" />
-        <mark key="." line="92" column="39" />
-        <mark key="[" line="91" column="42" />
-        <mark key="i" line="177" column="12" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/ReceiveSuccessFragment.java" timestamp="1459906227155">
         <mark key="]" line="58" column="66" />
         <mark key="^" line="58" column="66" />
@@ -126,6 +118,7 @@
         <mark key="." line="130" column="41" />
         <mark key="[" line="129" column="33" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/AndroidManifest.xml" timestamp="1460095950880" />
       <file name="/fragment.java" timestamp="1460080212170">
         <mark key="[" line="0" column="0" />
       </file>
@@ -248,46 +241,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, ':automatMaintenance3dian'</text>
+        <text>220.231.57.150</text>
       </register>
       <register name="3" type="4">
         <text>/</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text>, ':automatGuideNew'</text>
       </register>
       <register name="1" type="4">
-        <text>, ':automatGuideNew'</text>
+        <text>220.231.57.150</text>
       </register>
       <register name="0" type="4">
         <text>, ':automatMaintenance3dian'</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
-      </register>
-      <register name="6" type="4">
         <text>s</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>t</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/    /g</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>L</text>
       </register>
       <register name="8" type="4">
-        <text>L</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNU0dfSElERV9BQ1RJVklUWV9CVVRUT05cPg==</text>
       </register>
       <register name="-" type="4">
-        <text>, ':automatGuideNew'</text>
+        <text>220.231.57.150</text>
       </register>
     </registers>
     <search>
