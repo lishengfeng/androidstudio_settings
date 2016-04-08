@@ -87,7 +87,7 @@
         <mark key="." line="251" column="61" />
         <mark key="[" line="250" column="74" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/cn/com/bcl/common/CommonDefine.java" timestamp="1460096037509" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/cn/com/bcl/common/CommonDefine.java" timestamp="1460096260287" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/PayIconFragment.java" timestamp="1460080348261">
         <mark key="]" line="105" column="16" />
         <mark key="^" line="105" column="16" />
@@ -109,6 +109,13 @@
         <mark key="^" line="58" column="66" />
         <mark key="." line="58" column="66" />
         <mark key="[" line="57" column="85" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/cn/com/bcl/maintenance/service/MaintenanceService.java" timestamp="1460096484182" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/src/com/bcl/common/ExceptionWebServiceAPI.java" timestamp="1460096649403">
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="26" column="1" />
+        <mark key="." line="23" column="0" />
+        <mark key="[" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatGuideNew/src/cn/com/bcl/guide/common/CommonDefine.java" timestamp="1460094485160" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/ActivityFragment.java" timestamp="1459923409915">
@@ -145,7 +152,6 @@
         <mark key="." line="358" column="40" />
         <mark key="[" line="358" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inch/src/com/bcl/fragment/PicFragment.java" timestamp="1460078287614" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/HelpBaseFragment.java" timestamp="1459912250646">
         <mark key="]" line="70" column="58" />
         <mark key="^" line="58" column="49" />
@@ -241,46 +247,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>220.231.57.150</text>
-      </register>
-      <register name="3" type="4">
         <text>/</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">MTgyLjkyLjEwNi40NAo=</text>
+      </register>
       <register name="2" type="4">
-        <text>, ':automatGuideNew'</text>
+        <text>/</text>
       </register>
       <register name="1" type="4">
-        <text>220.231.57.150</text>
+        <text>/</text>
       </register>
       <register name="0" type="4">
         <text>, ':automatMaintenance3dian'</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>/</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text>/</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text>, ':automatGuideNew'</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text>220.231.57.150</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/    /g</text>
       </register>
       <register name="9" type="4">
-        <text>L</text>
+        <text>t</text>
       </register>
-      <register name="8" type="4">
-        <text>i</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNU0dfSElERV9BQ1RJVklUWV9CVVRUT05cPg==</text>
       </register>
       <register name="-" type="4">
-        <text>220.231.57.150</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
