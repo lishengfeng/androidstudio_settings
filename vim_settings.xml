@@ -12,7 +12,12 @@
         <mark key="." line="54" column="40" />
         <mark key="[" line="54" column="40" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/src/com/bcl/common/CommonWebServiceAPI.java" timestamp="1460089756412" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/src/com/bcl/common/CommonWebServiceAPI.java" timestamp="1460090961309">
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="49" column="1" />
+        <mark key="." line="47" column="0" />
+        <mark key="[" line="47" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/build.gradle" timestamp="1459933045211">
         <mark key="]" line="11" column="36" />
         <mark key="^" line="11" column="36" />
@@ -238,47 +243,47 @@
       <jump line="346" column="16" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/ActivityMainFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
-      <register name="3" type="4">
-        <text>s</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text>/</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="1" type="4">
+        <text>/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8TWFwPFN0cmluZywgT2JqZWN0Pj4gIGFjdGl2aXRpZXNJbmZvTGlzdCA9IENvbW1vbkNvbnRlbnRSZXNvbHZlci5xdWVyeUFjdGl2aXR5RGF0YShnZXRBY3Rpdml0eSgpLCBkYXRlVGltZSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>f</text>
-      </register>
-      <register name="6" type="4">
-        <text>o</text>
-      </register>
-      <register name="5" type="4">
         <text>L</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>i</text>
+      </register>
+      <register name="5" type="4">
+        <text>s</text>
+      </register>
+      <register name="4" type="4">
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/    /g</text>
       </register>
       <register name="9" type="4">
-        <text>I</text>
+        <text>f</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNU0dfSElERV9BQ1RJVklUWV9CVVRUT05cPg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
