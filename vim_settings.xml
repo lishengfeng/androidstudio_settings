@@ -23,7 +23,13 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inchKubota/src/com/bcl/fragment/PayFragment.java" timestamp="1459862871266">
         <mark key="[" line="76" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1460345194594" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1460345514578" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PayIconFragment.java" timestamp="1460345893715">
+        <mark key="]" line="92" column="49" />
+        <mark key="^" line="92" column="49" />
+        <mark key="." line="92" column="49" />
+        <mark key="[" line="92" column="48" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatAliPayWave/src/com/bcl/alipaywave/AliPayWaveSDK.java" timestamp="1460340940918" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/org/androidpn/client/NotificationDetailsActivity.java" timestamp="1456970239330">
         <mark key="]" line="84" column="20" />
@@ -236,10 +242,11 @@
         <mark key="." line="354" column="56" />
         <mark key="[" line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1460344060126" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1460345497828" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PicFragment.java" timestamp="1459865820260">
         <mark key="[" line="146" column="53" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/res/layout/payicon_layout.xml" timestamp="1460345583493" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/model/JSInterface.java" timestamp="1459818538634">
         <mark key="[" line="16" column="4" />
       </file>
@@ -332,47 +339,66 @@
       <jump line="100" column="40" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/AutomatActivity.java" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9LDEwMDApOwo=</text>
+      <register name="3" type="4">
+        <text>二</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtc2cuZ2V0RGF0YSgpLmdldHMK</text>
+      <register name="&quot;" type="4">
+        <text>码</text>
       </register>
       <register name="2" type="4">
-        <text>getArguments().</text>
+        <text>维</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtc2cuZ2V0RGF0YSgpLmdldHMK</text>
+      <register name="1" type="4">
+        <text>码</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG51bGwgIT0gbUhvbWVGcmFnbWVudCl7CiAgICAgICAgICAgICAgICAgICAgbUhvbWVGcmFnbWVudC5zZXRQYXlJY29uRnJhZ21lbnQoKEhhc2hNYXApIGdldEFyZ3VtZW50cygpLmdldFNlcmlhbGl6YWJsZShDb21tb25NZXNzYWdlRGVmLkFSR19QQVlfU1RBVFVTKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>//        if(statusHM != null) {
+//            wave_status = Integer.valueOf(statusHM.get(
+//                    AutomatConst.MODE_ALIPAY_WAVE).toString());//支付宝声波
+//            alipay_qr_status = Integer.valueOf(statusHM.get(AutomatConst.MODE_ALIPAY_QR)
+//                    .toString());//支付宝二维码
+//            weixin_qr_status = Integer.valueOf(statusHM.get(AutomatConst.MODE_WEIXIN_QR)
+//                    .toString());//微信二维码
+//            baidu_qr_status = Integer.valueOf(statusHM.get(AutomatConst.MODE_BAIDU_QR)
+//                    .toString());//百度二维码
+//            qp_status = Integer.valueOf(statusHM.get(AutomatConst.MODE_QUICKPASS)
+//                    .toString());//银联
+//            suning_qr_status = Integer.valueOf(statusHM.get(AutomatConst.MODE_SUNING_QR)
+//                    .toString());//苏宁二维码
+//            jingdong_qr_status = Integer.valueOf(statusHM.get(AutomatConst.MODE_JD_QR)
+//                    .toString());//京东二维码
+//            Log.i(TAG,&quot;潘军&quot;+wave_status+&quot;,&quot;+alipay_qr_status+&quot;,&quot;+
+//                    weixin_qr_status+&quot;,&quot;+baidu_qr_status+&quot;,&quot;+qp_status+
+//                    &quot;,&quot;+suning_qr_status+&quot;,&quot;+jingdong_qr_status);
+//        }
+//</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgcnVuKCkgewo=</text>
+      <register name="6" type="8">
+        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhhbmRsZU1lc3NhZ2UobXNnKTsK</text>
+      <register name="5" type="4">
+        <text>潘</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      <register name="4" type="4">
+        <text>军</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/    /g</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2xvb3AgZXZlcnkgMSBzZWNvbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtc2cuZ2V0RGF0YSgpLmdldHMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgVGltZXIoKS5zY2hlZHVsZShuZXcgVGltZXJUYXNrKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="/" type="4">
         <text>onfr</text>
       </register>
       <register name="-" type="4">
-        <text>getArguments().</text>
+        <text>码</text>
       </register>
     </registers>
     <search>
