@@ -23,6 +23,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inchKubota/src/com/bcl/fragment/PayFragment.java" timestamp="1459862871266">
         <mark key="[" line="76" column="29" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatAliPayWave/src/com/bcl/alipaywave/AliPayWaveSDK.java" timestamp="1460340940918" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/org/androidpn/client/NotificationDetailsActivity.java" timestamp="1456970239330">
         <mark key="]" line="84" column="20" />
         <mark key="^" line="84" column="20" />
@@ -71,6 +72,7 @@
         <mark key="." line="18" column="39" />
         <mark key="[" line="18" column="39" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1460340758261" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatAliPayWave/AndroidManifest.xml" timestamp="1456887225150">
         <mark key="[" line="3" column="31" />
       </file>
@@ -151,7 +153,7 @@
         <mark key="." line="242" column="71" />
         <mark key="[" line="242" column="72" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1460335397617">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1460340762892">
         <mark key="'" line="100" column="40" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/src/com/bcl/automat/BaseActivity.java" timestamp="1458297361567">
@@ -228,7 +230,7 @@
         <mark key="." line="354" column="56" />
         <mark key="[" line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1460335768196" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1460340904434" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PicFragment.java" timestamp="1459865820260">
         <mark key="[" line="146" column="53" />
       </file>
