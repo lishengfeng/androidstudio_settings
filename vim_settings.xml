@@ -23,7 +23,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inchKubota/src/com/bcl/fragment/PayFragment.java" timestamp="1460355870851">
         <mark key="[" line="76" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1460354076103" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1460356879836" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PayIconFragment.java" timestamp="1460349869930">
         <mark key="]" line="75" column="105" />
         <mark key="^" line="93" column="49" />
@@ -80,8 +80,8 @@
         <mark key="." line="18" column="39" />
         <mark key="[" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PayFragment.java" timestamp="1460354926810" />
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1460354087911">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PayFragment.java" timestamp="1460356874767" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1460356885100">
         <mark key="]" line="159" column="76" />
         <mark key="^" line="159" column="76" />
         <mark key="." line="159" column="76" />
@@ -91,7 +91,7 @@
         <mark key="[" line="3" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BCLWebServiceProject/automatFragment7inch/src/com/bcl/fragment/PayFragment.java" timestamp="1460355400955" />
-      <file name="/a.dummy" timestamp="1460355103898">
+      <file name="/a.dummy" timestamp="1460356933095">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BCLWebServiceProject/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1460355442322" />
@@ -101,7 +101,7 @@
         <mark key="." line="16" column="45" />
         <mark key="[" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/org/androidpn/client/NotificationReceiver.java" timestamp="1460354210305" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/org/androidpn/client/NotificationReceiver.java" timestamp="1460356988453" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inch_v1/src/com/bcl/fragment/ActivityInputFragment.java" timestamp="1458799512668">
         <mark key="]" line="32" column="26" />
         <mark key="^" line="32" column="20" />
@@ -169,7 +169,7 @@
         <mark key="." line="242" column="71" />
         <mark key="[" line="242" column="72" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1460354098423">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1460356889954">
         <mark key="'" line="100" column="40" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch/src/com/bcl/automat/BaseActivity.java" timestamp="1460355458820" />
@@ -201,13 +201,13 @@
         <mark key="." line="72" column="28" />
         <mark key="[" line="72" column="28" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1460340181053">
-        <mark key="]" line="8" column="60" />
-        <mark key="^" line="8" column="88" />
-        <mark key="." line="8" column="60" />
-        <mark key="[" line="8" column="60" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1460357062908">
+        <mark key="]" line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="[" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/payctrl/PayCtrlSDK.java" timestamp="1460354169872" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/payctrl/PayCtrlSDK.java" timestamp="1460356908250" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/SubMainFragment.java" timestamp="1459495984890">
         <mark key="]" line="17" column="21" />
         <mark key="^" line="17" column="21" />
@@ -235,7 +235,7 @@
         <mark key="." line="354" column="56" />
         <mark key="[" line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1460355913867" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1460356949369" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PicFragment.java" timestamp="1459865820260">
         <mark key="[" line="146" column="53" />
       </file>
@@ -333,46 +333,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>二</text>
+        <text encoding="base64">JzphdXRvbWF0Q29yZScsIA==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGFzaE1hcCBzdGF0dXNITSA9IChIYXNoTWFwKSBnZXRBcmd1bWVudHMoKS5nZXRTZXJpYWxpemFibGUoQ29tbW9uTWVzc2FnZURlZi5BUkdfUEFZX1NUQVRVUyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JzphdXRvbWF0UXVpY2tQYXNzTmV3Jywg</text>
       </register>
       <register name="2" type="4">
-        <text>维</text>
+        <text encoding="base64">JzphdXRvbWF0UXJQYXknLCA=</text>
       </register>
       <register name="1" type="4">
-        <text>码</text>
+        <text encoding="base64">JzphdXRvbWF0UXVpY2tQYXNzTmV3Jywg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGFzaE1hcCBzdGF0dXNITSA9IChIYXNoTWFwKSBnZXRBcmd1bWVudHMoKS5nZXRTZXJpYWxpemFibGUoQ29tbW9uTWVzc2FnZURlZi5BUkdfUEFZX1NUQVRVUyk7Cg==</text>
+        <text encoding="base64">aW5jbHVkZSAnOmF1dG9tYXRBbGlQYXlXYXZlJywgJzphdXRvbWF0Q29tbW9uQ29yZScsICdhdXRvbWF0RnVKaVNkaycsICc6YXV0b21hdEZyYWdtZW50N2luY2hLdWJvdGEnLCAnOmF1dG9tYXRDb3JlJywgJzphdXRvbWF0UXJQYXknLCAnOmF1dG9tYXRRdWlja1Bhc3NOZXcnLCAnOmF1dG9tYXRNYWludGVuYW5jZTNkaWFuJwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICc6YXV0b21hdEFsaVBheVdhdmUnLCA=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="6" type="4">
+        <text encoding="base64">JzphdXRvbWF0Q29tbW9uQ29yZScsIA==</text>
       </register>
       <register name="5" type="4">
-        <text>潘</text>
+        <text encoding="base64">J2F1dG9tYXRGdUppU2RrJywg</text>
       </register>
       <register name="4" type="4">
-        <text>军</text>
+        <text encoding="base64">JzphdXRvbWF0RnJhZ21lbnQ3aW5jaEt1Ym90YScsIA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/    /g</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtc2cuZ2V0RGF0YSgpLmdldHMK</text>
+      <register name="9" type="4">
+        <text>码</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW5jbHVkZSAnOmF1dG9tYXRBbGlQYXlXYXZlJywgJzphdXRvbWF0Q29tbW9uQ29yZScsICdhdXRvbWF0RnVKaVNkaycsICc6YXV0b21hdEZyYWdtZW50N2luY2hLdWJvdGEnLCAnOmF1dG9tYXRDb3JlJywgJzphdXRvbWF0UXJQYXknLCAnOmF1dG9tYXRRdWlja1Bhc3NOZXcnLCAnOmF1dG9tYXRNYWludGVuYW5jZTNkaWFuJwo=</text>
       </register>
       <register name="/" type="4">
         <text>onfr</text>
       </register>
       <register name="-" type="4">
-        <text>码</text>
+        <text encoding="base64">JzphdXRvbWF0UXVpY2tQYXNzTmV3Jywg</text>
       </register>
     </registers>
     <search>
