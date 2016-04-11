@@ -23,7 +23,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inchKubota/src/com/bcl/fragment/PayFragment.java" timestamp="1459862871266">
         <mark key="[" line="76" column="29" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1460345514578" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1460354076103" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PayIconFragment.java" timestamp="1460349869930">
         <mark key="]" line="75" column="105" />
         <mark key="^" line="93" column="49" />
@@ -73,14 +73,14 @@
         <mark key="." line="30" column="22" />
         <mark key="[" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/res/layout/pay_layout.xml" timestamp="1456911499530">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/res/layout/pay_layout.xml" timestamp="1460353482431">
         <mark key="]" line="18" column="39" />
         <mark key="^" line="18" column="39" />
         <mark key="." line="18" column="39" />
         <mark key="[" line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PayFragment.java" timestamp="1460352967196" />
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1460345317094">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PayFragment.java" timestamp="1460354618874" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1460354087911">
         <mark key="]" line="159" column="76" />
         <mark key="^" line="159" column="76" />
         <mark key="." line="159" column="76" />
@@ -89,7 +89,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatAliPayWave/AndroidManifest.xml" timestamp="1456887225150">
         <mark key="[" line="3" column="31" />
       </file>
-      <file name="/a.dummy" timestamp="1459868162838">
+      <file name="/a.dummy" timestamp="1460354184564">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automat7inch/project.properties" timestamp="1456818767693">
@@ -98,6 +98,7 @@
         <mark key="." line="16" column="45" />
         <mark key="[" line="13" column="17" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/org/androidpn/client/NotificationReceiver.java" timestamp="1460354210305" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inch_v1/src/com/bcl/fragment/ActivityInputFragment.java" timestamp="1458799512668">
         <mark key="]" line="32" column="26" />
         <mark key="^" line="32" column="20" />
@@ -165,7 +166,7 @@
         <mark key="." line="242" column="71" />
         <mark key="[" line="242" column="72" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1460342115685">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1460354098423">
         <mark key="'" line="100" column="40" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/src/com/bcl/automat/BaseActivity.java" timestamp="1458297361567">
@@ -202,6 +203,7 @@
         <mark key="." line="8" column="60" />
         <mark key="[" line="8" column="60" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/payctrl/PayCtrlSDK.java" timestamp="1460354169872" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/SubMainFragment.java" timestamp="1459495984890">
         <mark key="]" line="17" column="21" />
         <mark key="^" line="17" column="21" />
@@ -233,7 +235,7 @@
         <mark key="." line="354" column="56" />
         <mark key="[" line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1460353065003" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1460354573455" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PicFragment.java" timestamp="1459865820260">
         <mark key="[" line="146" column="53" />
       </file>
