@@ -24,11 +24,11 @@
         <mark key="[" line="76" column="29" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1460345514578" />
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PayIconFragment.java" timestamp="1460345893715">
-        <mark key="]" line="92" column="49" />
-        <mark key="^" line="92" column="49" />
-        <mark key="." line="92" column="49" />
-        <mark key="[" line="92" column="48" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PayIconFragment.java" timestamp="1460349869930">
+        <mark key="]" line="75" column="105" />
+        <mark key="^" line="93" column="49" />
+        <mark key="." line="75" column="0" />
+        <mark key="[" line="75" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatAliPayWave/src/com/bcl/alipaywave/AliPayWaveSDK.java" timestamp="1460340940918" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatMaintenance3dian/src/org/androidpn/client/NotificationDetailsActivity.java" timestamp="1456970239330">
@@ -135,11 +135,11 @@
         <mark key="." line="128" column="47" />
         <mark key="[" line="257" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inchKubota/src/com/bcl/fragment/PayIconFragment.java" timestamp="1459862917978">
-        <mark key="]" line="160" column="60" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inchKubota/src/com/bcl/fragment/PayIconFragment.java" timestamp="1460349867159">
+        <mark key="]" line="88" column="105" />
         <mark key="^" line="160" column="60" />
         <mark key="." line="160" column="60" />
-        <mark key="[" line="160" column="53" />
+        <mark key="[" line="88" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
         <mark key="[" line="9" column="47" />
@@ -333,8 +333,8 @@
       <register name="3" type="4">
         <text>二</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>码</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSGFzaE1hcCBzdGF0dXNITSA9IChIYXNoTWFwKSBnZXRBcmd1bWVudHMoKS5nZXRTZXJpYWxpemFibGUoQ29tbW9uTWVzc2FnZURlZi5BUkdfUEFZX1NUQVRVUyk7Cg==</text>
       </register>
       <register name="2" type="4">
         <text>维</text>
@@ -342,27 +342,8 @@
       <register name="1" type="4">
         <text>码</text>
       </register>
-      <register name="0" type="4">
-        <text>//        if(statusHM != null) {
-//            wave_status = Integer.valueOf(statusHM.get(
-//                    AutomatConst.MODE_ALIPAY_WAVE).toString());//支付宝声波
-//            alipay_qr_status = Integer.valueOf(statusHM.get(AutomatConst.MODE_ALIPAY_QR)
-//                    .toString());//支付宝二维码
-//            weixin_qr_status = Integer.valueOf(statusHM.get(AutomatConst.MODE_WEIXIN_QR)
-//                    .toString());//微信二维码
-//            baidu_qr_status = Integer.valueOf(statusHM.get(AutomatConst.MODE_BAIDU_QR)
-//                    .toString());//百度二维码
-//            qp_status = Integer.valueOf(statusHM.get(AutomatConst.MODE_QUICKPASS)
-//                    .toString());//银联
-//            suning_qr_status = Integer.valueOf(statusHM.get(AutomatConst.MODE_SUNING_QR)
-//                    .toString());//苏宁二维码
-//            jingdong_qr_status = Integer.valueOf(statusHM.get(AutomatConst.MODE_JD_QR)
-//                    .toString());//京东二维码
-//            Log.i(TAG,&quot;潘军&quot;+wave_status+&quot;,&quot;+alipay_qr_status+&quot;,&quot;+
-//                    weixin_qr_status+&quot;,&quot;+baidu_qr_status+&quot;,&quot;+qp_status+
-//                    &quot;,&quot;+suning_qr_status+&quot;,&quot;+jingdong_qr_status);
-//        }
-//</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSGFzaE1hcCBzdGF0dXNITSA9IChIYXNoTWFwKSBnZXRBcmd1bWVudHMoKS5nZXRTZXJpYWxpemFibGUoQ29tbW9uTWVzc2FnZURlZi5BUkdfUEFZX1NUQVRVUyk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgIAo=</text>
