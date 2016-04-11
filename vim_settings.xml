@@ -91,9 +91,6 @@
         <mark key="[" line="3" column="31" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BCLWebServiceProject/automatFragment7inch/src/com/bcl/fragment/PayFragment.java" timestamp="1460355400955" />
-      <file name="/a.dummy" timestamp="1460356933095">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/BCLWebServiceProject/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1460355442322" />
       <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automat7inch/project.properties" timestamp="1456818767693">
         <mark key="]" line="16" column="45" />
@@ -160,6 +157,9 @@
         <mark key="." line="5" column="0" />
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="/a.regexp" timestamp="1460357883376">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatQuickPassNew/AndroidManifest.xml" timestamp="1456887242385">
         <mark key="[" line="3" column="31" />
       </file>
@@ -186,6 +186,7 @@
         <mark key="[" line="346" column="34" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/AdFragment.java" timestamp="1460349041341" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatGuideNew/src/cn/com/bcl/guide/common/CommonWebServiceAPI.java" timestamp="1460357747245" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/HelpFragment.java" timestamp="1459503172957">
         <mark key="]" line="96" column="47" />
         <mark key="^" line="96" column="47" />
