@@ -114,6 +114,7 @@
         <mark key="." line="18" column="60" />
         <mark key="[" line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1460335736259" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inch_v1/src/com/bcl/fragment/MainFragment.java" timestamp="1459492364303">
         <mark key="]" line="262" column="5" />
         <mark key="^" line="128" column="47" />
@@ -143,6 +144,9 @@
         <mark key="^" line="242" column="71" />
         <mark key="." line="242" column="71" />
         <mark key="[" line="242" column="72" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1460335397617">
+        <mark key="'" line="100" column="40" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/src/com/bcl/automat/BaseActivity.java" timestamp="1458297361567">
         <mark key="]" line="185" column="48" />
@@ -218,6 +222,7 @@
         <mark key="." line="354" column="56" />
         <mark key="[" line="62" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1460335768196" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PicFragment.java" timestamp="1459865820260">
         <mark key="[" line="146" column="53" />
       </file>
@@ -310,6 +315,7 @@
       <jump line="101" column="28" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/ActivityFragment.java" />
       <jump line="88" column="12" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inchKubota/src/com/bcl/fragment/EntranceFragment.java" />
       <jump line="39" column="30" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inchKubota/src/com/bcl/fragment/EntranceFragment.java" />
+      <jump line="100" column="40" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/AutomatActivity.java" />
     </jumps>
     <registers>
       <register name="3" type="2">
@@ -349,19 +355,19 @@
         <text>context</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNU0dfSElERV9BQ1RJVklUWV9CVVRUT05cPg==</text>
+        <text>onfr</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNU0dfSElERV9BQ1RJVklUWV9CVVRUT05cPg==</last-search>
+      <last-search>onfr</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNU0dfSElERV9BQ1RJVklUWV9CVVRUT05cPg==</last-pattern>
+      <last-pattern>onfr</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
       <last-substitute>\t</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -377,12 +383,14 @@
         <entry>textViewStyle</entry>
         <entry>\t</entry>
         <entry encoding="base64">XDxNU0dfSElERV9BQ1RJVklUWV9CVVRUT05cPg==</entry>
+        <entry>onfr</entry>
       </history-search>
       <history-cmd>
         <entry>w!</entry>
         <entry encoding="base64">JzwsJz5jYWxsIFZpc3VhbFNlbGVjdGlvbignZicp</entry>
         <entry>%s/</entry>
         <entry>%s/\t/    /g</entry>
+        <entry>WMToggle</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -441,6 +449,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>pressed F8</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
