@@ -2,9 +2,23 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/build.gradle" timestamp="1460471300727">
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/settings.gradle" timestamp="1460471343411" />
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgY29tcGlsZSBwcm9qZWN0KCc6YXV0b21hdENvbW1vbicpCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gICAgY29tcGlsZSBwcm9qZWN0KCc6YXV0b21hdENvbW1vbicpCg==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>true</show-last>
