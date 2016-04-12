@@ -3,6 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AutomatProject_release/AutomatProject/automat32inch_v1/build.gradle" timestamp="1460475196973">
+        <mark key="]" line="9" column="23" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+        <mark key="[" line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/AutomatProject_release/AutomatProject/settings.gradle" timestamp="1460476151103">
+        <mark key="]" line="15" column="1" />
+        <mark key="^" line="15" column="1" />
+        <mark key="." line="15" column="1" />
+        <mark key="[" line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/build.gradle" timestamp="1460471300727">
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -13,6 +25,9 @@
         <mark key="^" line="0" column="95" />
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/AutomatProject_release/AutomatProject/automatBreakdown/build.gradle" timestamp="1460475199592">
+        <mark key="[" line="39" column="5" />
       </file>
       <file name="$USER_HOME$/AutomatProject_release/Automat7inch/automat7inch/build.gradle" timestamp="1460474080723">
         <mark key="'" line="29" column="4" />
@@ -34,41 +49,41 @@
       <jump line="29" column="4" filename="$USER_HOME$/AutomatProject_release/Automat7inch/automat7inch/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRDb21tb24nKQo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="3" type="4">
-        <text>u</text>
+        <text>n</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgcHJvamVjdCgnOmF1dG9tYXRDb21tb24nKQo=</text>
+      <register name="1" type="4">
+        <text>/</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly9pbmNsdWRlICc6YXV0b21hdDdpbmNoJywgJzphdXRvbWF0Q29tbW9uJywgJzphdXRvbWF0RnJhZ21lbnQ3aW5jaCcsICc6YXV0b21hdFVuaW9uUGF5JywgJzphdXRvbWF0N2luY2gzZGlhblRvdWNoJywgJzphdXRvbWF0RnJhZ21lbnRIQ29mZmVlJywgJzphdXRvbWF0R3VpZGVOZXcnLCAnOmF1dG9tYXRNYWludGVuYW5jZTNkaWFuJywgJzphdXRvbWF0QnJlYWtkb3duJywgJzphdXRvbWF0QWxpUGF5V2F2ZScsICc6YXV0b21hdENvbW1vbkNvcmUnLCAnOmF1dG9tYXRGdUppU2RrJywgJzphdXRvbWF0RnJhZ21lbnQ3aW5jaEt1Ym90YScsICc6YXV0b21hdENvcmUnLCAnOmF1dG9tYXRRclBheScsICc6YXV0b21hdFF1aWNrUGFzc05ldycsICc6YXV0b21hdDNkaWFuU2RrJywgJzphdXRvbWF0MzJpbmNoX3YxJywgJzphdXRvbWF0RnJhZ21lbnQzMmluY2hfdjEnCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICdhdXRvbWF0M2RpYW5TZGsnLA==</text>
       </register>
       <register name="7" type="4">
-        <text>false</text>
+        <text>3</text>
       </register>
       <register name="6" type="4">
-        <text>rules</text>
+        <text>d</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>r</text>
+        <text>a</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gaW5jbHVkZSBhbGwgbW9kdWxlCg==</text>
+      <register name="9" type="4">
+        <text>n</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSBwcm9qZWN0KCc6YXV0b21hdENvbW1vbicpCg==</text>
+      <register name="8" type="4">
+        <text>'</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
@@ -84,6 +99,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
