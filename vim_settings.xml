@@ -14,12 +14,12 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AutomatProject_release/Automat7inch3dianTouch/automat7inch3dianTouch/build.gradle" timestamp="1460473104686">
+      <file name="$USER_HOME$/AutomatProject_release/Automat7inch3dianTouch/automat7inch3dianTouch/build.gradle" timestamp="1460473812737">
         <mark key="'" line="21" column="4" />
-        <mark key="]" line="52" column="29" />
-        <mark key="^" line="52" column="29" />
-        <mark key="." line="52" column="29" />
-        <mark key="[" line="52" column="26" />
+        <mark key="]" line="52" column="30" />
+        <mark key="^" line="52" column="30" />
+        <mark key="." line="52" column="30" />
+        <mark key="[" line="52" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -27,40 +27,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>e</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Ly8gaW5jbHVkZSBhbGwgbW9kdWxlCg==</text>
+      <register name="3" type="4">
+        <text>r</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSBwcm9qZWN0KCc6YXV0b21hdENvbW1vbicpCg==</text>
+      <register name="2" type="4">
+        <text>u</text>
       </register>
       <register name="1" type="4">
-        <text>false</text>
+        <text>e</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly9pbmNsdWRlICc6YXV0b21hdDdpbmNoJywgJzphdXRvbWF0Q29tbW9uJywgJzphdXRvbWF0RnJhZ21lbnQ3aW5jaCcsICc6YXV0b21hdFVuaW9uUGF5JywgJzphdXRvbWF0N2luY2gzZGlhblRvdWNoJywgJzphdXRvbWF0RnJhZ21lbnRIQ29mZmVlJywgJzphdXRvbWF0R3VpZGVOZXcnLCAnOmF1dG9tYXRNYWludGVuYW5jZTNkaWFuJywgJzphdXRvbWF0QnJlYWtkb3duJywgJzphdXRvbWF0QWxpUGF5V2F2ZScsICc6YXV0b21hdENvbW1vbkNvcmUnLCAnOmF1dG9tYXRGdUppU2RrJywgJzphdXRvbWF0RnJhZ21lbnQ3aW5jaEt1Ym90YScsICc6YXV0b21hdENvcmUnLCAnOmF1dG9tYXRRclBheScsICc6YXV0b21hdFF1aWNrUGFzc05ldycsICc6YXV0b21hdDNkaWFuU2RrJywgJzphdXRvbWF0MzJpbmNoX3YxJywgJzphdXRvbWF0RnJhZ21lbnQzMmluY2hfdjEnCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICc6YXV0b21hdDdpbmNoJywg</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgY29tcGlsZSBwcm9qZWN0KCc6YXV0b21hdENvbW1vbicpCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>false</text>
       </register>
       <register name="5" type="4">
-        <text>, ':automatFragmentHCoffee', ':automatGuideNew', ':automatMaintenance3dian', ':automatBreakdown', ':automatAliPayWave', ':automatCommonCore', ':automatFuJiSdk', ':automatFragment7inchKubota', ':automatCore', ':automatQrPay', ':automatQuickPassNew', ':automat3dianSdk', ':automat32inch_v1', ':automatFragment32inch_v1'</text>
+        <text>rules</text>
       </register>
-      <register name="4" type="2">
+      <register name="4" type="4">
+        <text>t</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">Ly9pbmNsdWRlICc6YXV0b21hdDdpbmNoJywgJzphdXRvbWF0Q29tbW9uJywgJzphdXRvbWF0RnJhZ21lbnQ3aW5jaCcsICc6YXV0b21hdFVuaW9uUGF5JywgJzphdXRvbWF0N2luY2gzZGlhblRvdWNoJywgJzphdXRvbWF0RnJhZ21lbnRIQ29mZmVlJywgJzphdXRvbWF0R3VpZGVOZXcnLCAnOmF1dG9tYXRNYWludGVuYW5jZTNkaWFuJywgJzphdXRvbWF0QnJlYWtkb3duJywgJzphdXRvbWF0QWxpUGF5V2F2ZScsICc6YXV0b21hdENvbW1vbkNvcmUnLCAnOmF1dG9tYXRGdUppU2RrJywgJzphdXRvbWF0RnJhZ21lbnQ3aW5jaEt1Ym90YScsICc6YXV0b21hdENvcmUnLCAnOmF1dG9tYXRRclBheScsICc6YXV0b21hdFF1aWNrUGFzc05ldycsICc6YXV0b21hdDNkaWFuU2RrJywgJzphdXRvbWF0MzJpbmNoX3YxJywgJzphdXRvbWF0RnJhZ21lbnQzMmluY2hfdjEnCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>/</text>
-      </register>
-      <register name="8" type="4">
-        <text>/</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gaW5jbHVkZSBhbGwgbW9kdWxlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
@@ -73,6 +73,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
