@@ -8,14 +8,41 @@
         <mark key="." line="6" column="0" />
         <mark key="[" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/AutomatProject_release/Automat7inch3dianTouch/settings.gradle" timestamp="1460472499814">
+        <mark key="]" line="2" column="95" />
+        <mark key="^" line="2" column="95" />
+        <mark key="." line="2" column="95" />
+        <mark key="[" line="2" column="96" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
+      <register name="3" type="4">
+        <text encoding="base64">ICc6YXV0b21hdDdpbmNoJywg</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>, ':automatFragmentHCoffee', ':automatGuideNew', ':automatMaintenance3dian', ':automatBreakdown', ':automatAliPayWave', ':automatCommonCore', ':automatFuJiSdk', ':automatFragment7inchKubota', ':automatCore', ':automatQrPay', ':automatQuickPassNew', ':automat3dianSdk', ':automat32inch_v1', ':automatFragment32inch_v1'</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">LCA=</text>
+      </register>
+      <register name="1" type="4">
+        <text>, ':automatFragmentHCoffee', ':automatGuideNew', ':automatMaintenance3dian', ':automatBreakdown', ':automatAliPayWave', ':automatCommonCore', ':automatFuJiSdk', ':automatFragment7inchKubota', ':automatCore', ':automatQrPay', ':automatQuickPassNew', ':automat3dianSdk', ':automat32inch_v1', ':automatFragment32inch_v1'</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">Ly9pbmNsdWRlICc6YXV0b21hdDdpbmNoJywgJzphdXRvbWF0Q29tbW9uJywgJzphdXRvbWF0RnJhZ21lbnQ3aW5jaCcsICc6YXV0b21hdFVuaW9uUGF5JywgJzphdXRvbWF0N2luY2gzZGlhblRvdWNoJywgJzphdXRvbWF0RnJhZ21lbnRIQ29mZmVlJywgJzphdXRvbWF0R3VpZGVOZXcnLCAnOmF1dG9tYXRNYWludGVuYW5jZTNkaWFuJywgJzphdXRvbWF0QnJlYWtkb3duJywgJzphdXRvbWF0QWxpUGF5V2F2ZScsICc6YXV0b21hdENvbW1vbkNvcmUnLCAnOmF1dG9tYXRGdUppU2RrJywgJzphdXRvbWF0RnJhZ21lbnQ3aW5jaEt1Ym90YScsICc6YXV0b21hdENvcmUnLCAnOmF1dG9tYXRRclBheScsICc6YXV0b21hdFF1aWNrUGFzc05ldycsICc6YXV0b21hdDNkaWFuU2RrJywgJzphdXRvbWF0MzJpbmNoX3YxJywgJzphdXRvbWF0RnJhZ21lbnQzMmluY2hfdjEnCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Ly8gICAgY29tcGlsZSBwcm9qZWN0KCc6YXV0b21hdENvbW1vbicpCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZSBwcm9qZWN0KCc6YXV0b21hdENvbW1vbicpCg==</text>
+      <register name="5" type="4">
+        <text>/</text>
+      </register>
+      <register name="4" type="4">
+        <text>/</text>
+      </register>
+      <register name="-" type="4">
+        <text>, ':automatFragmentHCoffee', ':automatGuideNew', ':automatMaintenance3dian', ':automatBreakdown', ':automatAliPayWave', ':automatCommonCore', ':automatFuJiSdk', ':automatFragment7inchKubota', ':automatCore', ':automatQrPay', ':automatQuickPassNew', ':automat3dianSdk', ':automat32inch_v1', ':automatFragment32inch_v1'</text>
       </register>
     </registers>
     <search>
