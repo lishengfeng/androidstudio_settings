@@ -89,6 +89,7 @@
         <mark key="." line="16" column="45" />
         <mark key="[" line="13" column="17" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/ActivityFragment.java" timestamp="1460604533025" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/settings.gradle" timestamp="1460597085955">
         <mark key="'" line="16" column="0" />
         <mark key="]" line="3" column="0" />
@@ -209,7 +210,9 @@
         <mark key="." line="17" column="21" />
         <mark key="[" line="17" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1460598521760">
+      <file name="/Dummy.txt" timestamp="1460604297707">
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/src/com/bcl/common/CommonMessageDef.java" timestamp="1460601872125">
@@ -341,47 +344,47 @@
       <jump line="95" column="0" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/src/com/bcl/common/BCLProtocol.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>Tab to space</text>
       </register>
       <register name="3" type="4">
-        <text>t</text>
-      </register>
-      <register name="2" type="4">
         <text>y</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>Tab to space</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1MaXN0ZW5lci5vbkZyYWdtZW50SW50ZXJhY3Rpb24oYWN0aXZpdHlGcmFnbWVudCxuZXdNc2cpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>i</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
-      </register>
-      <register name="5" type="4">
         <text>v</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>i</text>
+      </register>
+      <register name="4" type="4">
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/    /g</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>c</text>
       </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNU0dfSElERV9BQ1RJVklUWV9CVVRUT05cPg==</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>Tab to space</text>
       </register>
     </registers>
     <search>
