@@ -45,7 +45,7 @@
         <mark key="." line="225" column="68" />
         <mark key="[" line="224" column="82" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1460602924538">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/BaseActivity.java" timestamp="1460608863541">
         <mark key="]" line="93" column="19" />
         <mark key="^" line="93" column="19" />
         <mark key="." line="93" column="19" />
@@ -81,7 +81,7 @@
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatAliPayWave/AndroidManifest.xml" timestamp="1456887225150">
         <mark key="[" line="3" column="31" />
       </file>
-      <file name="/a.dummy" timestamp="1460600759741">
+      <file name="/a.dummy" timestamp="1460609305690">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automat7inch/project.properties" timestamp="1456818767693">
@@ -200,18 +200,13 @@
         <mark key="." line="2" column="1" />
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/MainFragment.java" timestamp="1459500810827">
-        <mark key="]" line="199" column="38" />
-        <mark key="." line="120" column="0" />
-        <mark key="[" line="193" column="0" />
-      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/SubMainFragment.java" timestamp="1459495984890">
         <mark key="]" line="17" column="21" />
         <mark key="^" line="17" column="21" />
         <mark key="." line="17" column="21" />
         <mark key="[" line="17" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1460604297707">
+      <file name="/Dummy.txt" timestamp="1460608624721">
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
         <mark key="[" line="0" column="0" />
@@ -223,13 +218,14 @@
         <mark key="[" line="151" column="54" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1460599210975" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/cn/com/bcl/maintenance/service/MaintenanceService.java" timestamp="1460609352365">
+        <mark key="]" line="702" column="7" />
+        <mark key="^" line="702" column="7" />
+        <mark key="." line="702" column="7" />
+        <mark key="[" line="702" column="8" />
+      </file>
       <file name="/fragment.java" timestamp="1458718538197">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automat32inch_v1/src/com/bcl/automat/AutomatActivity.java" timestamp="1459819841359">
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="[" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inch_v1/src/com/bcl/fragment/PayFragment.java" timestamp="1459492482877">
         <mark key="]" line="205" column="107" />
@@ -346,46 +342,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>}</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
+        <text>s</text>
       </register>
-      <register name="2" type="4">
-        <text>e</text>
+      <register name="2" type="8">
+        <text>Unnamed-0</text>
       </register>
       <register name="1" type="4">
-        <text>s</text>
+        <text>}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIEFSR19SRVNfSU5GT19MSVNUID0gInJlc19pbmZvX2xpc3QiOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cuc2V0Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>R</text>
-      </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>E</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>S</text>
+      </register>
+      <register name="5" type="4">
+        <text>r</text>
+      </register>
+      <register name="4" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/    /g</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBtc2cuc2V0Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>Tab to space</text>
+        <text>R</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNU0dfSElERV9BQ1RJVklUWV9CVVRUT05cPg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>}</text>
       </register>
     </registers>
     <search>
