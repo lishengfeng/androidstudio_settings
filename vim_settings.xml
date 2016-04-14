@@ -189,10 +189,11 @@
         <mark key="." line="17" column="21" />
         <mark key="[" line="17" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1459868168705">
-        <mark key="a" line="0" column="30" />
+      <file name="/Dummy.txt" timestamp="1460598521760">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/src/com/bcl/common/CommonMessageDef.java" timestamp="1460598017094" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/HomeFragment.java" timestamp="1460599210975" />
       <file name="/fragment.java" timestamp="1458718538197">
         <mark key="[" line="0" column="0" />
       </file>
@@ -315,37 +316,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>fragment separate final 1</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2FjdGlvbi5jb21taXQoKTsK</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>context, mHandler, actId, mActivitiesInfoList);</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>;</text>
+      </register>
+      <register name="1" type="4">
+        <text>fragment separate final 1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBEaXN0cmlidXRlRnJhZ21lbnQgZnJnID0gbmV3IERpc3RyaWJ1dGVGcmFnbWVudChjb250ZXh0LCBtSGFuZGxlciwgYWN0SWQsIG1BY3Rpdml0aWVzSW5mb0xpc3QpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>context</text>
-      </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBGcmFnbWVudE1hbmFnZXIgZm0gPSBnZXRGcmFnbWVudE1hbmFnZXIoKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBGcmFnbWVudFRyYW5zYWN0aW9uIHRyYW5zYWN0aW9uID0gZm0uYmVnaW5UcmFuc2FjdGlvbigpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>transaction</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0cmFuc2FjdGlvbi5jb21taXQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/    /g</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>context</text>
       </register>
       <register name="8" type="4">
         <text>context</text>
@@ -354,7 +355,7 @@
         <text encoding="base64">XDxNU0dfSElERV9BQ1RJVklUWV9CVVRUT05cPg==</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>fragment separate final 1</text>
       </register>
     </registers>
     <search>
