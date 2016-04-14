@@ -83,7 +83,8 @@
         <mark key="." line="16" column="45" />
         <mark key="[" line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/settings.gradle" timestamp="1459819440222">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/settings.gradle" timestamp="1460597085955">
+        <mark key="'" line="16" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="6" column="1" />
         <mark key="." line="3" column="0" />
@@ -310,6 +311,7 @@
       <jump line="101" column="28" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment7inchKubota/src/com/bcl/fragment/ActivityFragment.java" />
       <jump line="88" column="12" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inchKubota/src/com/bcl/fragment/EntranceFragment.java" />
       <jump line="39" column="30" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment32inchKubota/src/com/bcl/fragment/EntranceFragment.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/settings.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
