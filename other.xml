@@ -1,4 +1,9 @@
 <application>
+  <component name="BackgroundImageConfiguration">
+    <option name="filename" value="$USER_HOME$/Pictures/maxresdefault.jpg" />
+    <option name="localFile" value="true" />
+    <option name="enabled" value="true" />
+  </component>
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
     <option name="FORCE_CLASSIC_VM" value="true" />

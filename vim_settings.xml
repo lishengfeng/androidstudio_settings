@@ -15,6 +15,13 @@
         <mark key="." line="9" column="23" />
         <mark key="[" line="10" column="30" />
       </file>
+      <file name="$USER_HOME$/AutomatProject_release/AutomatProject/automat32inch_v1/build.gradle" timestamp="1460475196973">
+        <mark key="]" line="9" column="23" />
+        <mark key="^" line="9" column="23" />
+        <mark key="." line="9" column="23" />
+        <mark key="[" line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/src/com/bcl/common/CommonContentResolver.java" timestamp="1460609890761" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/build.gradle" timestamp="1460471300727">
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -26,6 +33,7 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1460609861476" />
       <file name="$USER_HOME$/AutomatProject_release/AutomatProject/automatBreakdown/build.gradle" timestamp="1460475199592">
         <mark key="[" line="39" column="5" />
       </file>
@@ -51,6 +59,9 @@
     <registers>
       <register name="3" type="4">
         <text>n</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="&quot;" type="4">
         <text>/</text>
@@ -102,6 +113,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
