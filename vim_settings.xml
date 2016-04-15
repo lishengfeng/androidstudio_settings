@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/com/bcl/database/AutomateDatabase.java" timestamp="1460727080520">
-        <mark key="[" line="57" column="37" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/src/com/bcl/common/AutomatConst.java" timestamp="1460728175188" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/com/bcl/database/AutomateDatabase.java" timestamp="1460727232574">
+        <mark key="]" line="71" column="47" />
+        <mark key="^" line="25" column="56" />
+        <mark key="." line="71" column="47" />
+        <mark key="[" line="71" column="47" />
       </file>
       <file name="$USER_HOME$/AutomatProject_release/AutomatProject/settings.gradle" timestamp="1460476151103">
         <mark key="]" line="15" column="1" />
@@ -32,6 +36,12 @@
       <file name="$USER_HOME$/AutomatProject_release/AutomatProject/automatBreakdown/build.gradle" timestamp="1460475199592">
         <mark key="[" line="39" column="5" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/com/bcl/database/AutomateContentProvider.java" timestamp="1460727757333">
+        <mark key="]" line="351" column="58" />
+        <mark key="^" line="351" column="58" />
+        <mark key="." line="351" column="58" />
+        <mark key="[" line="350" column="57" />
+      </file>
       <file name="$USER_HOME$/AutomatProject_release/Automat7inch/automat7inch/build.gradle" timestamp="1460474080723">
         <mark key="'" line="29" column="4" />
         <mark key="]" line="29" column="4" />
@@ -39,7 +49,7 @@
         <mark key="." line="29" column="4" />
         <mark key="[" line="53" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1460723923858">
+      <file name="/a.dummy" timestamp="1460727758458">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AutomatProject_release/Automat7inch3dianTouch/automat7inch3dianTouch/build.gradle" timestamp="1460473812737">
@@ -56,40 +66,40 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgQ0xJRU5UVFJBQ0tJTkZPOiAgIC8vIOiHquWKqOWUrui0p+acuui0p+mBk+S/oeaBr+ihqCAKICAgICAgICAgICAgICAgICAgICBudW1iZXIgPSBkYi5kZWxldGUoQXV0b21hdGVEYXRhYmFzZS5DTElFTlRUUkFDS0lORk8sIHNlbGVjdGlvbiwgc2VsZWN0aW9uQXJncyk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="4">
-        <text>/</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHFiLnNldFByb2plY3Rpb25NYXAobUNsaWVudFRyYWNrSW5mb01hcCk7Cg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICdhdXRvbWF0M2RpYW5TZGsnLA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgQ0xJRU5UVFJBQ0tJTkZPOiAgIC8vIOiHquWKqOWUrui0p+acuui0p+mBk+S/oeaBr+ihqCAKICAgICAgICAgICAgICAgICAgICBudW1iZXIgPSBkYi5kZWxldGUoQXV0b21hdGVEYXRhYmFzZS5DTElFTlRUUkFDS0lORk8sIHNlbGVjdGlvbiwgc2VsZWN0aW9uQXJncyk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>3</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -111,6 +121,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
