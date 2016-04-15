@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/com/bcl/database/AutomateDatabase.java" timestamp="1460723903048">
+        <mark key="[" line="57" column="37" />
+      </file>
       <file name="$USER_HOME$/AutomatProject_release/AutomatProject/settings.gradle" timestamp="1460476151103">
         <mark key="]" line="15" column="1" />
         <mark key="^" line="15" column="1" />
@@ -15,13 +18,6 @@
         <mark key="." line="9" column="23" />
         <mark key="[" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/AutomatProject_release/AutomatProject/automat32inch_v1/build.gradle" timestamp="1460475196973">
-        <mark key="]" line="9" column="23" />
-        <mark key="^" line="9" column="23" />
-        <mark key="." line="9" column="23" />
-        <mark key="[" line="10" column="30" />
-      </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/src/com/bcl/common/CommonContentResolver.java" timestamp="1460609890761" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/build.gradle" timestamp="1460471300727">
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -33,7 +29,6 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1460609861476" />
       <file name="$USER_HOME$/AutomatProject_release/AutomatProject/automatBreakdown/build.gradle" timestamp="1460475199592">
         <mark key="[" line="39" column="5" />
       </file>
@@ -43,6 +38,9 @@
         <mark key="^" line="29" column="4" />
         <mark key="." line="29" column="4" />
         <mark key="[" line="53" column="5" />
+      </file>
+      <file name="/a.dummy" timestamp="1460723923858">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AutomatProject_release/Automat7inch3dianTouch/automat7inch3dianTouch/build.gradle" timestamp="1460473812737">
         <mark key="'" line="21" column="4" />
@@ -59,9 +57,6 @@
     <registers>
       <register name="3" type="4">
         <text>n</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
       </register>
       <register name="&quot;" type="4">
         <text>/</text>
@@ -113,12 +108,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
