@@ -49,7 +49,7 @@
         <mark key="." line="29" column="4" />
         <mark key="[" line="53" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1460727758458">
+      <file name="/a.dummy" timestamp="1460730098545">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/AutomatProject_release/Automat7inch3dianTouch/automat7inch3dianTouch/build.gradle" timestamp="1460473812737">
@@ -59,6 +59,7 @@
         <mark key="." line="52" column="30" />
         <mark key="[" line="52" column="25" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/res/values/strings.xml" timestamp="1460730131629" />
     </filemarks>
     <jumps>
       <jump line="21" column="4" filename="$USER_HOME$/AutomatProject_release/Automat7inch3dianTouch/automat7inch3dianTouch/build.gradle" />
@@ -66,40 +67,40 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgQ0xJRU5UVFJBQ0tJTkZPOiAgIC8vIOiHquWKqOWUrui0p+acuui0p+mBk+S/oeaBr+ihqCAKICAgICAgICAgICAgICAgICAgICBudW1iZXIgPSBkYi5kZWxldGUoQXV0b21hdGVEYXRhYmFzZS5DTElFTlRUUkFDS0lORk8sIHNlbGVjdGlvbiwgc2VsZWN0aW9uQXJncyk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>_</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHFiLnNldFByb2plY3Rpb25NYXAobUNsaWVudFRyYWNrSW5mb01hcCk7Cg==</text>
+      <register name="1" type="4">
+        <text>h</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgQ0xJRU5UVFJBQ0tJTkZPOiAgIC8vIOiHquWKqOWUrui0p+acuui0p+mBk+S/oeaBr+ihqCAKICAgICAgICAgICAgICAgICAgICBudW1iZXIgPSBkYi5kZWxldGUoQXV0b21hdGVEYXRhYmFzZS5DTElFTlRUUkFDS0lORk8sIHNlbGVjdGlvbiwgc2VsZWN0aW9uQXJncyk7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>P</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>o</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>h</text>
       </register>
     </registers>
     <search>
@@ -116,7 +117,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -127,6 +128,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
