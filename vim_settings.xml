@@ -15,13 +15,15 @@
         <mark key="." line="15" column="1" />
         <mark key="[" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/cn/com/bcl/common/XMLDocumentCheck.java" timestamp="1460861103559" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/cn/com/bcl/common/XMLDocumentCheck.java" timestamp="1460862370534">
+        <mark key="[" line="398" column="5" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/build.gradle" timestamp="1460471300727">
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/com/bcl/database/StoreClintInformation.java" timestamp="1460861426350">
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/com/bcl/database/StoreClintInformation.java" timestamp="1460862307548">
         <mark key="]" line="474" column="84" />
         <mark key="^" line="474" column="42" />
         <mark key="." line="474" column="84" />
@@ -34,14 +36,14 @@
         <mark key="." line="351" column="58" />
         <mark key="[" line="350" column="57" />
       </file>
-      <file name="/a.dummy" timestamp="1460861378163">
+      <file name="/a.dummy" timestamp="1460864686304">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/cn/com/bcl/maintenance/service/MaintenanceService.java" timestamp="1460861460034">
-        <mark key="]" line="4771" column="74" />
-        <mark key="^" line="4771" column="74" />
-        <mark key="." line="4771" column="74" />
-        <mark key="[" line="4771" column="51" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/cn/com/bcl/maintenance/service/MaintenanceService.java" timestamp="1460864685118">
+        <mark key="]" line="2629" column="0" />
+        <mark key="^" line="2629" column="38" />
+        <mark key="." line="2629" column="0" />
+        <mark key="[" line="2629" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/src/com/bcl/common/AutomatConst.java" timestamp="1460857587178" />
       <file name="$USER_HOME$/AutomatProject_release/AutomatProject/automat32inch_v1/build.gradle" timestamp="1460475196973">
@@ -50,6 +52,7 @@
         <mark key="." line="9" column="23" />
         <mark key="[" line="10" column="30" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/cn/com/bcl/common/CommonWebServiceAPI.java" timestamp="1460864654183" />
       <file name="$USER_HOME$/AutomatProject_release/Automat7inch3dianTouch/settings.gradle" timestamp="1460472741170">
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="95" />
@@ -82,38 +85,38 @@
       <jump line="29" column="4" filename="$USER_HOME$/AutomatProject_release/Automat7inch/automat7inch/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getActivity</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>activitiesinfo</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>活动信息表</text>
+        <text encoding="base64">CiAgICAvL1RPRE8gTGVzdGVyIHRlc3QKICAgIHByaXZhdGUgU3RyaW5nIGdldFhtbEZyb21GaWxlKFN0cmluZyBmaWxlbmFtZSkgewogICAgICAgIFN0cmluZ0J1ZmZlciBidWZmID0gbmV3IFN0cmluZ0J1ZmZlcigpOwogICAgICAgIEZpbGUgcm9vdCA9IEVudmlyb25tZW50LmdldEV4dGVybmFsU3RvcmFnZURpcmVjdG9yeSgpOwogICAgICAgIEZpbGUgeG1sID0gbmV3IEZpbGUocm9vdCwgZmlsZW5hbWUpOwogICAgICAgIEJ1ZmZlcmVkUmVhZGVyIHJlYWRlciA9IG51bGw7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgcmVhZGVyID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKG5ldyBGaWxlUmVhZGVyKHhtbCkpOwogICAgICAgICAgICBTdHJpbmcgbGluZSA9IG51bGw7CiAgICAgICAgICAgIHdoaWxlICgobGluZSA9IHJlYWRlci5yZWFkTGluZSgpKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBidWZmLmFwcGVuZChsaW5lKS5hcHBlbmQoIlxuIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmVhZGVyLmNsb3NlKCk7CiAgICAgICAgfSBjYXRjaCAoRmlsZU5vdEZvdW5kRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBidWZmLnRvU3RyaW5nKCk7CiAgICB9</text>
       </register>
-      <register name="1" type="4">
-        <text>getActivity</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKiAKICAgICAqIOafpeivouW9k+WJjea0u+WKqAogICAgICovCiAgICBwdWJsaWMgc3RhdGljIEN1cnNvciBnZXRBY3Rpdml0eShDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICBDdXJzb3IgY3VyID0gbnVsbDsKICAgICAgICBDb250ZW50UmVzb2x2ZXIgY3IgPSBjb250ZXh0LmdldENvbnRlbnRSZXNvbHZlcigpOwogICAgICAgIC8qIOafpeivouW9k+WJjea0u+WKqCAqLwogICAgICAgIFVyaSB1cmkgPSBVcmkucGFyc2UoQ09OVEVOVFBBVENIICsgImFjdGl2aXRpZXNpbmZvIik7IC8vIOa0u+WKqOS/oeaBr+ihqCBBY3Rpdml0aWVzSW5mbwogICAgICAgIGN1ciA9IGNyLnF1ZXJ5KHVyaSwgbnVsbCwgbnVsbCwgbnVsbCwgbnVsbCk7CiAgICAgICAgcmV0dXJuIGN1cjsKICAgIH0K</text>
       </register>
       <register name="7" type="4">
-        <text>t</text>
+        <text>活动信息表</text>
       </register>
       <register name="6" type="4">
-        <text>y</text>
+        <text>getActivity</text>
       </register>
-      <register name="5" type="4">
-        <text>活</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsIHhtbFRyZWUudG9TdHJpbmcoKSk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>动</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBMb2cuZChUQUcsICJPSyIpOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>v</text>
+        <text>动</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>activitiesinfo</text>
       </register>
       <register name="-" type="4">
         <text>getActivity</text>
@@ -153,6 +156,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
