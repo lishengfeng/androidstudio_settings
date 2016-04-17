@@ -3,24 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/src/com/bcl/common/AutomatConst.java" timestamp="1460728175188" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/com/bcl/database/AutomateDatabase.java" timestamp="1460727232574">
         <mark key="]" line="71" column="47" />
         <mark key="^" line="25" column="56" />
         <mark key="." line="71" column="47" />
         <mark key="[" line="71" column="47" />
       </file>
-      <file name="$USER_HOME$/AutomatProject_release/AutomatProject/settings.gradle" timestamp="1460476151103">
-        <mark key="]" line="15" column="1" />
-        <mark key="^" line="15" column="1" />
-        <mark key="." line="15" column="1" />
-        <mark key="[" line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/AutomatProject_release/AutomatProject/automat32inch_v1/build.gradle" timestamp="1460475196973">
         <mark key="]" line="9" column="23" />
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
         <mark key="[" line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/AutomatProject_release/AutomatProject/settings.gradle" timestamp="1460476151103">
+        <mark key="]" line="15" column="1" />
+        <mark key="^" line="15" column="1" />
+        <mark key="." line="15" column="1" />
+        <mark key="[" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automat7inch3dianTouch/build.gradle" timestamp="1460471300727">
         <mark key="]" line="6" column="0" />
@@ -59,18 +58,17 @@
         <mark key="." line="52" column="30" />
         <mark key="[" line="52" column="25" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/res/values/strings.xml" timestamp="1460730131629" />
     </filemarks>
     <jumps>
       <jump line="21" column="4" filename="$USER_HOME$/AutomatProject_release/Automat7inch3dianTouch/automat7inch3dianTouch/build.gradle" />
       <jump line="29" column="4" filename="$USER_HOME$/AutomatProject_release/Automat7inch/automat7inch/build.gradle" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>t</text>
-      </register>
       <register name="&quot;" type="4">
         <text>h</text>
+      </register>
+      <register name="3" type="4">
+        <text>t</text>
       </register>
       <register name="2" type="4">
         <text>_</text>
