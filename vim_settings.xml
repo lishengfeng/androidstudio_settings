@@ -31,33 +31,27 @@
         <mark key="." line="474" column="84" />
         <mark key="[" line="474" column="84" />
       </file>
-      <file name="$USER_HOME$/Android/Sdk/sources/android-19/android/os/Looper.java" timestamp="1460860494530" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/com/bcl/database/AutomateContentProvider.java" timestamp="1460727757333">
         <mark key="]" line="351" column="58" />
         <mark key="^" line="351" column="58" />
         <mark key="." line="351" column="58" />
         <mark key="[" line="350" column="57" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/src/com/bcl/common/CommonMessageDef.java" timestamp="1460880868099" />
       <file name="/a.dummy" timestamp="1460882181658">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/org/androidpn/client/ServiceManager.java" timestamp="1460879618434" />
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/cn/com/bcl/maintenance/service/MaintenanceService.java" timestamp="1460882156837">
         <mark key="]" line="2619" column="44" />
         <mark key="^" line="2619" column="44" />
         <mark key="." line="2619" column="44" />
         <mark key="[" line="2617" column="107" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/cn/com/bcl/bscollection/BSCollectionHandler.java" timestamp="1460865853586" />
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCommonCore/src/com/bcl/common/AutomatConst.java" timestamp="1460882210610" />
       <file name="$USER_HOME$/AutomatProject_release/AutomatProject/automat32inch_v1/build.gradle" timestamp="1460475196973">
         <mark key="]" line="9" column="23" />
         <mark key="^" line="9" column="23" />
         <mark key="." line="9" column="23" />
         <mark key="[" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/cn/com/bcl/common/CommonWebServiceAPI.java" timestamp="1460864654183" />
       <file name="$USER_HOME$/AutomatProject_release/Automat7inch3dianTouch/settings.gradle" timestamp="1460472741170">
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="95" />
@@ -74,19 +68,19 @@
         <mark key="." line="29" column="4" />
         <mark key="[" line="53" column="5" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/cn/com/bcl/common/CommonDefine.java" timestamp="1460881358225">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="48" column="48" />
-        <mark key="^" line="48" column="43" />
-        <mark key="." line="48" column="48" />
-        <mark key="[" line="48" column="48" />
-      </file>
       <file name="$USER_HOME$/AutomatProject_release/Automat7inch3dianTouch/automat7inch3dianTouch/build.gradle" timestamp="1460473812737">
         <mark key="'" line="21" column="4" />
         <mark key="]" line="52" column="30" />
         <mark key="^" line="52" column="30" />
         <mark key="." line="52" column="30" />
         <mark key="[" line="52" column="25" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/cn/com/bcl/common/CommonDefine.java" timestamp="1460881358225">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="48" column="48" />
+        <mark key="^" line="48" column="43" />
+        <mark key="." line="48" column="48" />
+        <mark key="[" line="48" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -99,11 +93,11 @@
       <jump line="456" column="88" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/cn/com/bcl/common/XMLDocumentCheck.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>not exists</text>
-      </register>
       <register name="3" type="4">
         <text>s</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>not exists</text>
       </register>
       <register name="2" type="4">
         <text>e</text>
