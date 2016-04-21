@@ -46,6 +46,11 @@
         <mark key="." line="2619" column="44" />
         <mark key="[" line="2617" column="107" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/settings.gradle" timestamp="1461230334320">
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/AutomatProject_release/AutomatProject/automat32inch_v1/build.gradle" timestamp="1460475196973">
         <mark key="]" line="9" column="23" />
         <mark key="^" line="9" column="23" />
@@ -94,40 +99,40 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>s</text>
+        <text>not exists</text>
       </register>
       <register name="&quot;" type="4">
-        <text>not exists</text>
+        <text>/</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>/</text>
       </register>
       <register name="1" type="4">
-        <text>not exists</text>
+        <text>/</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlzRGF0YU51bGwgPSBmYWxzZTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZGF0YWJhc2Ugbm90IGV4aXN0cwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>f</text>
-      </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>a</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>l</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKFRBRywgInNjcmVlblNlbGVjdEluZm8gPSAiICsgc2NyZWVuU2VsZWN0SW5mbyk7Cg==</text>
+      <register name="5" type="4">
+        <text>s</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvY2FsUmVzb3VyY2VJbmZvLmFkZChzY3JlZW5TZWxlY3RJbmZvKTsK</text>
+      <register name="4" type="4">
+        <text>e</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZGF0YWJhc2Ugbm90IGV4aXN0cwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text>not exists</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
