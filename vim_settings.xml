@@ -29,10 +29,11 @@
         <mark key="." line="49" column="0" />
         <mark key="[" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/MainFragment.java" timestamp="1461333796895">
-        <mark key="]" line="352" column="0" />
-        <mark key="." line="352" column="0" />
-        <mark key="[" line="352" column="0" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/MainFragment.java" timestamp="1461334946513">
+        <mark key="]" line="361" column="0" />
+        <mark key="^" line="362" column="11" />
+        <mark key="." line="361" column="0" />
+        <mark key="[" line="362" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PayIconFragment.java" timestamp="1460349869930">
         <mark key="]" line="75" column="105" />
@@ -183,6 +184,12 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatQuickPassNew/AndroidManifest.xml" timestamp="1456887242385">
         <mark key="[" line="3" column="31" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/src/com/bcl/automat/AutomatActivity.java" timestamp="1461334883865">
+        <mark key="]" line="946" column="68" />
+        <mark key="^" line="946" column="68" />
+        <mark key="." line="946" column="68" />
+        <mark key="[" line="946" column="56" />
       </file>
       <file name="/oc-debug-editor-when-no-source-position-available.txt" timestamp="1460364382847">
         <mark key="[" line="0" column="0" />
@@ -376,46 +383,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtRnJhZ21lbnRNYW5hZ2VyLmJlZ2luVHJhbnNhY3Rpb24oKS5zaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJhZ21lbnQuZ2V0Q2xhc3MoKS5nZXRTaW1wbGVOYW1lKCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNZXNzYWdlIG1zZyA9IE1lc3NhZ2Uub2J0YWluKCk7Cg==</text>
+      <register name="3" type="4">
+        <text>ACTIVITY;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtTGlzdGVuZXIub25GcmFnbWVudEludGVyYWN0aW9uKG51bGwsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbXNnLndoYXQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtRnJhZ21lbnRNYW5hZ2VyLmJlZ2luVHJhbnNhY3Rpb24oKS5zaQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnJhZ21lbnQuZ2V0Q2xhc3MoKS5nZXRTaW1wbGVOYW1lKCk7Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUN1cnJlbnRGcmFnbWVudFR5cGUgPSBGcmFnbWVudFR5cGUuSE9NRTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG51bGwhPWZyZyl7CiAgICAgICAgICAgICAgICAgICAgc3dpdGNoVG9GcmFnbWVudChmcmcsRnJhZ21lbnRUeXBlLkFDVElWSVRZKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgLy9mcmFnbWVudCBpcyBjaGFuZ2VkIGluIHRoZSBtYWluZnJhZ21lbnQKICAgICAgICAgICAgICAgICAgICBtQ3VycmVudEZyYWdtZW50VHlwZSA9IEZyYWdtZW50VHlwZS5BQ1RJVklUWTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="4">
-        <text>F</text>
+        <text>PAY;</text>
       </register>
-      <register name="6" type="4">
-        <text>r</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>g</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaFRvRnJhZ21lbnQoZnJnLEZyYWdtZW50VHlwZS5HT09EU19TRUxFQ1QpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtc2cuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2l0Y2hUb0ZyYWdtZW50KGZyZyxGcmFnbWVudFR5cGUuQUNUSVZJVFkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/    /g</text>
       </register>
-      <register name="9" type="4">
-        <text>a</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG51bGwhKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>y</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2l0Y2hUb0ZyYWdtZW50KGZyZyxGcmFnbWVudFR5cGUuUEFZKTsK</text>
       </register>
       <register name="/" type="4">
         <text>onfr</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>ACTIVITY;</text>
       </register>
     </registers>
     <search>
