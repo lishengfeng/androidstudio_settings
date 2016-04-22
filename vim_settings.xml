@@ -29,6 +29,11 @@
         <mark key="." line="49" column="0" />
         <mark key="[" line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/MainFragment.java" timestamp="1461333796895">
+        <mark key="]" line="352" column="0" />
+        <mark key="." line="352" column="0" />
+        <mark key="[" line="352" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PayIconFragment.java" timestamp="1460349869930">
         <mark key="]" line="75" column="105" />
         <mark key="^" line="93" column="49" />
@@ -110,6 +115,12 @@
         <mark key="." line="16" column="45" />
         <mark key="[" line="13" column="17" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/settings.gradle" timestamp="1461329704141">
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="17" column="1" />
+        <mark key="." line="17" column="0" />
+        <mark key="[" line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inch_v1/src/com/bcl/fragment/ActivityInputFragment.java" timestamp="1458799512668">
         <mark key="]" line="32" column="26" />
         <mark key="^" line="32" column="20" />
@@ -155,6 +166,11 @@
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
         <mark key="[" line="9" column="47" />
+      </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1461331809255">
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
+        <mark key="[" line="173" column="5" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/build.gradle" timestamp="1459390774254">
         <mark key="]" line="5" column="0" />
@@ -360,46 +376,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUN1cnJlbnRGcmFnbWVudFR5cGUgPSBGcmFnbWVudFR5cGUuSE9NRTsK</text>
+        <text encoding="base64">ICAgICAgICBtRnJhZ21lbnRNYW5hZ2VyLmJlZ2luVHJhbnNhY3Rpb24oKS5zaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlIG1zZyA9IE1lc3NhZ2Uub2J0YWluKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgIG1DdXJyZW50RnJhZ21lbnRUeXBlID0gRnJhZ21lbnRUeXBlLkhPTUU7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtTGlzdGVuZXIub25GcmFnbWVudEludGVyYWN0aW9uKG51bGwsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2p1c3QgcmVwbGFjZSBtaWRkbGUgZnJhZ21lbnQsIHNldCBmcmFnbWVudCB0eXBlOwo=</text>
+        <text encoding="base64">ICAgICAgICBtRnJhZ21lbnRNYW5hZ2VyLmJlZ2luVHJhbnNhY3Rpb24oKS5zaQo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbUN1cnJlbnRGcmFnbWVudFR5cGUgPSBGcmFnbWVudFR5cGUuSE9NRTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbUN1cnJlbnRGcmFnbWVudFR5cGUgPSBGcmFnbWVudFR5cGUuSE9NRTsK</text>
+      <register name="7" type="4">
+        <text>F</text>
       </register>
       <register name="6" type="4">
-        <text>else{</text>
+        <text>r</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">fQogICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text>g</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihtSG9tZUZyYWdtZW50LmlzSGlkZGVuKCkpewo=</text>
+        <text encoding="base64">ICAgICAgICBtc2cuCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/    /g</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2l0Y2hUb0ZyYWdtZW50KG51bGwsRnJhZ21lbnRUeXBlLkhPTUUpOwo=</text>
+      <register name="9" type="4">
+        <text>a</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>y</text>
       </register>
       <register name="/" type="4">
         <text>onfr</text>
       </register>
       <register name="-" type="4">
-        <text>else{</text>
+        <text>g</text>
       </register>
     </registers>
     <search>
