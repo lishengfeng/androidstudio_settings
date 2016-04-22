@@ -29,11 +29,11 @@
         <mark key="." line="49" column="0" />
         <mark key="[" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/MainFragment.java" timestamp="1461334946513">
-        <mark key="]" line="361" column="0" />
-        <mark key="^" line="362" column="11" />
-        <mark key="." line="361" column="0" />
-        <mark key="[" line="362" column="12" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/MainFragment.java" timestamp="1461335997503">
+        <mark key="]" line="372" column="47" />
+        <mark key="^" line="372" column="47" />
+        <mark key="." line="372" column="47" />
+        <mark key="[" line="372" column="40" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatFragment7inchKubota/src/com/bcl/fragment/PayIconFragment.java" timestamp="1460349869930">
         <mark key="]" line="75" column="105" />
@@ -168,10 +168,10 @@
       <file name="$USER_HOME$/AndroidStudioProjects/OldMachineReform/automatCommon/src/com/bcl/common/CommonGifView.java" timestamp="1456801396936">
         <mark key="[" line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1461331809255">
-        <mark key="]" line="172" column="0" />
-        <mark key="." line="172" column="0" />
-        <mark key="[" line="173" column="5" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/BaseFragment.java" timestamp="1461335081415">
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
+        <mark key="[" line="174" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatCore/build.gradle" timestamp="1459390774254">
         <mark key="]" line="5" column="0" />
@@ -382,47 +382,47 @@
       <jump line="100" column="40" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject/automatCore/src/com/bcl/automat/AutomatActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJhZ21lbnQuZ2V0Q2xhc3MoKS5nZXRTaW1wbGVOYW1lKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="3" type="4">
-        <text>ACTIVITY;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnLndoYXQK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJhZ21lbnQuZ2V0Q2xhc3MoKS5nZXRTaW1wbGVOYW1lKCk7Cg==</text>
+      <register name="1" type="4">
+        <text>f</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG51bGwhPWZyZyl7CiAgICAgICAgICAgICAgICAgICAgc3dpdGNoVG9GcmFnbWVudChmcmcsRnJhZ21lbnRUeXBlLkFDVElWSVRZKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgLy9mcmFnbWVudCBpcyBjaGFuZ2VkIGluIHRoZSBtYWluZnJhZ21lbnQKICAgICAgICAgICAgICAgICAgICBtQ3VycmVudEZyYWdtZW50VHlwZSA9IEZyYWdtZW50VHlwZS5BQ1RJVklUWTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZSBtc2cgPSBnZXRNc2dCeUZyYWdtZW50VHlwZShmcmFnbWVudFR5cGUpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>PAY;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWVzc2FnZSBtc2cgPSBNZXNzYWdlLm9idGFpbigpOwogICAgICAgICAgICBzd2l0Y2ggKGZyYWdtZW50VHlwZSl7CiAgICAgICAgICAgICAgICBjYXNlIFBBWToKICAgICAgICAgICAgICAgICAgICBtc2cud2hhdCA9IENvbW1vbk1lc3NhZ2VEZWYuTVNHX1NIT1dfMzJJTkNIX1BBWV9GUkFHTUVOVDsKICAgICAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgSU5QVVQ6CiAgICAgICAgICAgICAgICBjYXNlIEVOVFJBTkNFOgogICAgICAgICAgICAgICAgY2FzZSBESVNUUklCVVRFOgogICAgICAgICAgICAgICAgICAgIG1zZy53aGF0ID0gQ29tbW9uTWVzc2FnZURlZi5NU0dfU0hPV18zMklOQ0hfQUNUSVZJVFlfRlJBR01FTlQ7CiAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAvL1RPRE8gTGVzdGVyIFNjcmVlblNlbGVjdEZyYWdtZW50CiAgICAgICAgICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmCg==</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlIG1zZyA9IE1lc3NhZ2Uub2J0YWluKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN3aXRjaFRvRnJhZ21lbnQoZnJnLEZyYWdtZW50VHlwZS5HT09EU19TRUxFQ1QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2l0Y2hUb0ZyYWdtZW50KGZyZyxGcmFnbWVudFR5cGUuQUNUSVZJVFkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBNZXNzYWdlIG1zZyA9IE1lc3NhZ2Uub2J0YWluKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/\t/    /g</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG51bGwhKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzd2l0Y2hUb0ZyYWdtZW50KGZyZyxGcmFnbWVudFR5cGUuUEFZKTsK</text>
+      <register name="8" type="4">
+        <text>PAY_FRAGMENT;</text>
       </register>
       <register name="/" type="4">
         <text>onfr</text>
       </register>
       <register name="-" type="4">
-        <text>ACTIVITY;</text>
+        <text>f</text>
       </register>
     </registers>
     <search>
@@ -430,7 +430,7 @@
       <last-offset />
       <last-pattern>onfr</last-pattern>
       <last-replace encoding="base64">ICAgIA==</last-replace>
-      <last-substitute>\t</last-substitute>
+      <last-substitute>onfr</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
