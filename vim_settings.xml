@@ -9,6 +9,11 @@
         <mark key="." line="80" column="28" />
         <mark key="[" line="80" column="29" />
       </file>
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/PayFragment.java" timestamp="1461504532647">
+        <mark key="]" line="620" column="42" />
+        <mark key="." line="620" column="0" />
+        <mark key="[" line="620" column="0" />
+      </file>
       <file name="$USER_HOME$/AutomatProject_release/AutomatProject/settings.gradle" timestamp="1460476151103">
         <mark key="]" line="15" column="1" />
         <mark key="^" line="15" column="1" />
@@ -46,11 +51,12 @@
         <mark key="." line="2619" column="44" />
         <mark key="[" line="2617" column="107" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/MainFragment.java" timestamp="1461504140276">
-        <mark key="]" line="45" column="12" />
-        <mark key="^" line="141" column="4" />
-        <mark key="." line="45" column="12" />
-        <mark key="[" line="45" column="12" />
+      <file name="$USER_HOME$/Android/Sdk/sources/android-19/android/app/Fragment.java" timestamp="1461504381952" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/MainFragment.java" timestamp="1461504803437">
+        <mark key="]" line="483" column="36" />
+        <mark key="^" line="483" column="36" />
+        <mark key="." line="483" column="36" />
+        <mark key="[" line="481" column="0" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/settings.gradle" timestamp="1461230334320">
         <mark key="]" line="1" column="0" />
@@ -104,38 +110,38 @@
       <jump line="456" column="88" filename="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatMaintenance3dian/src/cn/com/bcl/common/XMLDocumentCheck.java" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>a</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBidW5kbGUucHV0Qm9vbGVhbigibm90U2hvd0hvbWUiLCB0cnVlKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
-      <register name="2" type="4">
-        <text>l</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIExlc3RlciB3aGVuIDdpbmNoIGlzIHJlYWR5Lgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZihtSW5pdEZyYWdtZW50VHlwZSA9PSBGcmFnbWVudFR5cGUuTVVMVElQTEVfQUNUSVZJVFkpewo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAvL1RPRE8gTGVzdGVyIHdoZW4gN2luY2ggaXMgcmVhZHkuCi8vICAgICAgICAgICAgYnVuZGxlLnB1dEJvb2xlYW4oIm5vdFNob3dIb21lIiwgdHJ1ZSk7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtSW5pdEZyYWdtZW50VHlwZSA9IEZyYWdtZW50VHlwZS5QQVk7Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>f</text>
-      </register>
-      <register name="5" type="4">
-        <text>i</text>
-      </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>n</text>
       </register>
-      <register name="9" type="4">
-        <text>mInitFragmentType</text>
+      <register name="6" type="4">
+        <text>a</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>l</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="9" type="4">
+        <text>f</text>
+      </register>
+      <register name="8" type="4">
+        <text>i</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
