@@ -46,11 +46,11 @@
         <mark key="." line="2619" column="44" />
         <mark key="[" line="2617" column="107" />
       </file>
-      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/MainFragment.java" timestamp="1461502148619">
-        <mark key="]" line="457" column="38" />
-        <mark key="^" line="457" column="38" />
-        <mark key="." line="457" column="38" />
-        <mark key="[" line="457" column="39" />
+      <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/automatFragment32inchKubota/src/com/bcl/fragment/MainFragment.java" timestamp="1461504140276">
+        <mark key="]" line="45" column="12" />
+        <mark key="^" line="141" column="4" />
+        <mark key="." line="45" column="12" />
+        <mark key="[" line="45" column="12" />
       </file>
       <file name="$USER_HOME$/AndroidStudioProjects/AutomatProject_test/settings.gradle" timestamp="1461230334320">
         <mark key="]" line="1" column="0" />
@@ -105,40 +105,40 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>/</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgRnJhZ21lbnRUeXBlCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlzRGF0YU51bGwgPSBmYWxzZTsK</text>
-      </register>
-      <register name="7" type="4">
-        <text>s</text>
-      </register>
-      <register name="6" type="4">
-        <text>e</text>
-      </register>
-      <register name="5" type="4">
-        <text>not exists</text>
-      </register>
-      <register name="4" type="4">
-        <text>/</text>
-      </register>
-      <register name="9" type="4">
         <text>a</text>
       </register>
-      <register name="8" type="4">
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="4">
         <text>l</text>
       </register>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZihtSW5pdEZyYWdtZW50VHlwZSA9PSBGcmFnbWVudFR5cGUuTVVMVElQTEVfQUNUSVZJVFkpewo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBtSW5pdEZyYWdtZW50VHlwZSA9IEZyYWdtZW50VHlwZS5QQVk7Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>f</text>
+      </register>
+      <register name="5" type="4">
+        <text>i</text>
+      </register>
+      <register name="4" type="4">
+        <text>n</text>
+      </register>
+      <register name="9" type="4">
+        <text>mInitFragmentType</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
